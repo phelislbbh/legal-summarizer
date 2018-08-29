@@ -1,0 +1,959 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang2057\deflangfe2057{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times};}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f35\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f37\fscript\fcharset0\fprq2{\*\panose 03010101010201010101}Monotype Corsiva;}{\f38\froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times};}
+{\f39\froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times};}{\f41\froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times};}{\f42\froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times};}
+{\f43\froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times};}{\f44\froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times};}{\f45\froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times};}
+{\f46\froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times};}{\f58\fmodern\fcharset238\fprq1 Courier New CE;}{\f59\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f61\fmodern\fcharset161\fprq1 Courier New Greek;}
+{\f62\fmodern\fcharset162\fprq1 Courier New Tur;}{\f63\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f64\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f65\fmodern\fcharset186\fprq1 Courier New Baltic;}
+{\f66\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f388\fswiss\fcharset238\fprq2 Tahoma CE;}{\f389\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f391\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f392\fswiss\fcharset162\fprq2 Tahoma Tur;}
+{\f393\fswiss\fcharset177\fprq2 Tahoma (Hebrew);}{\f394\fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f395\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f396\fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}{\f397\fswiss\fcharset222\fprq2 Tahoma (Thai);}
+{\f408\fscript\fcharset238\fprq2 Monotype Corsiva CE;}{\f409\fscript\fcharset204\fprq2 Monotype Corsiva Cyr;}{\f411\fscript\fcharset161\fprq2 Monotype Corsiva Greek;}{\f412\fscript\fcharset162\fprq2 Monotype Corsiva Tur;}
+{\f415\fscript\fcharset186\fprq2 Monotype Corsiva Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\s1\qj \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 1;}{\s2\qj \li0\ri0\sl480\slmult1\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 
+\b\f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 2;}{\s3\ql \li720\ri0\sl360\slmult1\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin720\itap0 
+\b\f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 3;}{\s4\qc \li0\ri0\sl480\slmult1\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel3\adjustright\rin0\lin0\itap0 
+\b\f35\fs24\ul\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 4;}{\s5\ql \li0\ri0\sl480\slmult1\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel4\adjustright\rin0\lin0\itap0 
+\b\i\f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 5;}{\s6\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel5\adjustright\rin0\lin0\itap0 \b\f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext0 heading 6;}{\s8\ql \fi720\li0\ri0\sl480\slmult1\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel7\adjustright\rin0\lin0\itap0 \b\f35\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 8;}{
+\s9\qc \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel8\adjustright\rin0\lin0\itap0 \b\f35\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 9;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\fs20\ul\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 Title;}{\s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext16 Body Text 2;}{\*\cs17 \additive \sbasedon10 page number;}{\s18\ql \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext18 
+footer;}{\*\cs19 \additive \sbasedon10 line number;}{\s20\qj \li0\ri0\sl480\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \i\f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext20 Body Text;}{
+\s21\qj \li720\ri0\sl480\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 \i\f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext21 Body Text Indent;}{\s22\qj \fi-963\li1683\ri0\sl480\slmult1
+\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1683\itap0 \f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext22 Body Text Indent 2;}{\s23\ql \li0\ri0\widctlpar
+\tqc\tx4320\tqr\tx8640\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext23 header;}{\s24\qj \fi-1080\li1440\ri0\sl480\slmult1
+\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 \i\f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext24 Body Text Indent 3;}{\s25\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\b\f35\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext25 Subtitle;}{\s26\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f35\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext26 \ssemihidden \styrsid2251730 Balloon Text;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid-2087125248\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid-2112873612\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880
+\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid2586852}{\list\listtemplateid625744102\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid-1726187804\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880
+\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid68236835}{\list\listtemplateid-269463634\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li720\jclisttab\tx720\lin720 }{\listname ;}\listid73354608}{\list\listtemplateid-400665890\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat2\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listname ;}\listid92629985}{\list\listtemplateid579265738\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1125826798\'03(\'00);}{\levelnumbers\'02;}\fbias0 \fi-720\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3960
+\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid140658379}{\list\listtemplateid1995231512\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1726187804\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid160003910}{\list\listtemplateid1078786052\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1380606512\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid217012782}{\list\listtemplateid-1704395818\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1726187804\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid242228646}{\list\listtemplateid1281781984\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1966401658\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-1440\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3960
+\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid266734461}{\list\listtemplateid386153404\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1885693250\'01-;}{\levelnumbers;}\loch\af0\hich\af0\dbch\af0\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid-1726187804\'02\'01.;}{\levelnumbers\'01;}\fbias0 \fi-720\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400
+\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid299580602}
+{\list\listtemplateid-2114566142\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1726187804\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid318311163}{\list\listtemplateid-18459660\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelspace0\levelindent0{\leveltext\leveltemplateid-1397714816\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid385840073}{\list\listtemplateid656818570\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelspace0\levelindent0{\leveltext\leveltemplateid1759180856\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1440
+\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6120
+\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname 
+;}\listid603921877}{\list\listtemplateid1635448554\listhybrid{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1043338572\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid630088623}{\list\listtemplateid1477498424\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1279476460\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1440
+\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6120
+\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname 
+;}\listid647781874}{\list\listtemplateid-1569559810\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-984209470\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid655719359}{\list\listtemplateid1210079450\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\f0\fbias0 \fi-360\li360\jclisttab\tx360\lin360 }
+{\listname ;}\listid717823792}{\list\listtemplateid-567246252\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-998336344\'02\'00);}{\levelnumbers\'01;}\fbias0 
+\fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid724985987}{\list\listtemplateid396110954\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-450318680\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid753091522}{\list\listtemplateid12584548\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1363891220\'01-;}{\levelnumbers;}
+\loch\af0\hich\af0\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 
+\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160
+\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid794373219}{\list\listtemplateid-1688047352\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-192904432\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid831720947}{\list\listtemplateid-680872478\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-2057378486\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid865601397}{\list\listtemplateid1135760274\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-985771006\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid916477587}{\list\listtemplateid-1978125064\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-862799184\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid921451455}{\list\listtemplateid1229198400\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat4\levelspace0\levelindent0{\leveltext\leveltemplateid67698711\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li4320
+\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li5040\jclisttab\tx5040\lin5040 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6480\jclisttab\tx6480\lin6480 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li7200\jclisttab\tx7200\lin7200 }{\listname ;}\listid936985160}{\list\listtemplateid721040584\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1033472300\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid985546463}{\list\listtemplateid-1821624826\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1289247842\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid990790006}{\list\listtemplateid-327265804\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1974806822\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1037894776}{\list\listtemplateid-480224464\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\leveltemplateid-276004024\'01-;}{\levelnumbers;}\loch\af0\hich\af0\dbch\af0\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}
+\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040
+\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1084574642}
+{\list\listtemplateid541104240\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00-;}{\levelnumbers\'01;}\fbias0 \fi-720\li720\jclisttab\tx720\lin720 }{\listname 
+;}\listid1193422747}{\list\listtemplateid-1206239218\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1999383934\'02\'00.;}{\levelnumbers\'01;}\fbias0 
+\fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1800\jclisttab\tx1800\lin1800 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6120
+\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname 
+;}\listid1217352583}{\list\listtemplateid633769044\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-2132377986\'02\'00-;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1262951847}{\list\listtemplateid1883524582\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid854784132\'02\'00-;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1270893782}{\list\listtemplateid-873058734\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1784927270\'02\'00);}{\levelnumbers\'01;}\fbias0 
+\fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1303577169}{\list\listtemplateid-565174176\listhybrid{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat3\levelspace0\levelindent0{\leveltext\leveltemplateid1568319170\'03(\'00);}{\levelnumbers\'02;}\fbias0 
+\fi-555\li1275\jclisttab\tx1275\lin1275 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1800\jclisttab\tx1800\lin1800 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6120
+\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname 
+;}\listid1338994331}{\list\listtemplateid-283578784\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00-;}{\levelnumbers\'01;}\fbias0 \fi-720\li720\jclisttab\tx720\lin720 }
+{\listname ;}\listid1432122885}{\list\listtemplateid-1426164116\listhybrid{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-2064623068\'02\'00);}{\levelnumbers\'01;}\fbias0 
+\fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1475609504}{\list\listtemplateid697217838\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li720
+\jclisttab\tx720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1485317410}{\list\listtemplateid-1204382794\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid377230730\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1520465014}{\list\listtemplateid-161986418\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1468114406\'02\'00.;}{\levelnumbers\'01;}\fbias0 
+\fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1570655153}{\list\listtemplateid1173379748\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid539417464\'02\'00);}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1669098258}{\list\listtemplateid-1663382422\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1202751886\'02\'00-;}{\levelnumbers\'01;}\fbias0 
+\fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1675451505}{\list\listtemplateid75644556\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6120
+\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6840\jclisttab\tx6840\lin6840 }{\listname 
+;}\listid1845854202}{\list\listtemplateid2013426144\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-1726187804\'02\'00.;}{\levelnumbers\'01;}\fbias0 
+\fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1903827773}{\list\listtemplateid-1437578118\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid2010023270\'02\'00.;}{\levelnumbers\'01;}\fbias0 
+\fi-720\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1930893339}{\list\listtemplateid2103369352\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid1722567182\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid1988708285}{\list\listtemplateid-1452621966\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid189046142\'02\'00-;}{\levelnumbers\'01;}\fbias0 \fi-720\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-203935938\'02\'01.;}{\levelnumbers\'01;}\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703
+\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname 
+;}\listid2006937497}{\list\listtemplateid-1600630556\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00-;}{\levelnumbers\'01;}\fbias0 \fi-375\li375\jclisttab\tx375\lin375 }
+{\listname ;}\listid2135102223}}{\*\listoverridetable{\listoverride\listid73354608\listoverridecount0\ls1}{\listoverride\listid717823792\listoverridecount0\ls2}{\listoverride\listid2135102223\listoverridecount0\ls3}{\listoverride\listid1193422747
+\listoverridecount0\ls4}{\listoverride\listid1432122885\listoverridecount0\ls5}{\listoverride\listid92629985\listoverridecount0\ls6}{\listoverride\listid2006937497\listoverridecount0\ls7}{\listoverride\listid1084574642\listoverridecount0\ls8}
+{\listoverride\listid1669098258\listoverridecount0\ls9}{\listoverride\listid1520465014\listoverridecount0\ls10}{\listoverride\listid655719359\listoverridecount0\ls11}{\listoverride\listid1903827773\listoverridecount0\ls12}{\listoverride\listid299580602
+\listoverridecount0\ls13}{\listoverride\listid385840073\listoverridecount0\ls14}{\listoverride\listid1262951847\listoverridecount0\ls15}{\listoverride\listid1270893782\listoverridecount0\ls16}{\listoverride\listid1675451505\listoverridecount0\ls17}
+{\listoverride\listid1485317410\listoverridecount0\ls18}{\listoverride\listid753091522\listoverridecount0\ls19}{\listoverride\listid916477587\listoverridecount0\ls20}{\listoverride\listid1037894776\listoverridecount0\ls21}{\listoverride\listid1217352583
+\listoverridecount0\ls22}{\listoverride\listid1303577169\listoverridecount0\ls23}{\listoverride\listid794373219\listoverridecount0\ls24}{\listoverride\listid985546463\listoverridecount0\ls25}{\listoverride\listid921451455\listoverridecount0\ls26}
+{\listoverride\listid724985987\listoverridecount0\ls27}{\listoverride\listid630088623\listoverridecount0\ls28}{\listoverride\listid242228646\listoverridecount0\ls29}{\listoverride\listid68236835\listoverridecount0\ls30}{\listoverride\listid318311163
+\listoverridecount0\ls31}{\listoverride\listid1845854202\listoverridecount0\ls32}{\listoverride\listid160003910\listoverridecount0\ls33}{\listoverride\listid936985160\listoverridecount0\ls34}{\listoverride\listid831720947\listoverridecount0\ls35}
+{\listoverride\listid603921877\listoverridecount0\ls36}{\listoverride\listid1338994331\listoverridecount0\ls37}{\listoverride\listid990790006\listoverridecount0\ls38}{\listoverride\listid2586852\listoverridecount0\ls39}{\listoverride\listid217012782
+\listoverridecount0\ls40}{\listoverride\listid1570655153\listoverridecount0\ls41}{\listoverride\listid266734461\listoverridecount0\ls42}{\listoverride\listid647781874\listoverridecount0\ls43}{\listoverride\listid1930893339\listoverridecount0\ls44}
+{\listoverride\listid1988708285\listoverridecount0\ls45}{\listoverride\listid140658379\listoverridecount0\ls46}{\listoverride\listid1475609504\listoverridecount0\ls47}{\listoverride\listid865601397\listoverridecount0\ls48}}{\*\rsidtbl \rsid80568
+\rsid213725\rsid264641\rsid359400\rsid600533\rsid1070152\rsid1380649\rsid1509475\rsid1576786\rsid1645458\rsid1800655\rsid1839683\rsid1926535\rsid2047220\rsid2251730\rsid2497328\rsid2895611\rsid2901767\rsid2977600\rsid3083065\rsid3160155\rsid3502509
+\rsid3568160\rsid3611605\rsid3681753\rsid3697795\rsid3737955\rsid3813007\rsid3884124\rsid4000763\rsid4009645\rsid4071273\rsid4079012\rsid4140847\rsid4141391\rsid4213665\rsid4269573\rsid4397920\rsid4422008\rsid4653264\rsid4723690\rsid4723988\rsid4732338
+\rsid4932672\rsid5059773\rsid5528919\rsid6048339\rsid6571186\rsid7031056\rsid7157044\rsid7169611\rsid7210910\rsid7228145\rsid7298429\rsid7355003\rsid7499974\rsid7685288\rsid7828314\rsid7828657\rsid7866500\rsid7867894\rsid8014620\rsid8021848\rsid8026599
+\rsid8062903\rsid8078329\rsid8140441\rsid8203387\rsid8223475\rsid8333377\rsid8345070\rsid8408862\rsid8457003\rsid8548841\rsid8652384\rsid8795623\rsid8930326\rsid9190476\rsid9191160\rsid9335545\rsid9388135\rsid9510579\rsid9573871\rsid9576419\rsid9598355
+\rsid9782223\rsid9905280\rsid10099581\rsid10170845\rsid10237704\rsid10489547\rsid10565788\rsid10624763\rsid10631983\rsid10637221\rsid10708827\rsid10829903\rsid11143359\rsid11275101\rsid11297492\rsid11490919\rsid11762373\rsid12019780\rsid12079082
+\rsid12155430\rsid12325179\rsid12344399\rsid12587353\rsid12923700\rsid12984429\rsid13060337\rsid13117970\rsid13194369\rsid13401471\rsid13449554\rsid13576719\rsid13712598\rsid13896434\rsid13907996\rsid14045777\rsid14435847\rsid14492257\rsid14636419
+\rsid14950461\rsid15167441\rsid15223528\rsid15295945\rsid15344643\rsid15362652\rsid15404123\rsid15419069\rsid15677787\rsid16265348}{\*\generator Microsoft Word 11.0.5604;}{\info{\title THE REPUBLIC OF UGANDA}{\author bnantaba}{\operator jchemeri}
+{\creatim\yr2009\mo2\dy2\hr9\min39}{\revtim\yr2009\mo2\dy2\hr9\min39}{\printim\yr2007\mo11\dy2\hr10\min7}{\version2}{\edmins1}{\nofpages17}{\nofwords4744}{\nofchars27044}{\*\company Courts of Judicature}{\nofcharsws31725}{\vern24689}}
+\margl1870\margr1207\margt1270\margb1143 \widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace187\dgvspace127\dghorigin1870\dgvorigin1270\dghshow0\dgvshow2
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\nojkernpunct\rsidroot2497328 \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\insrsid4009645 \chftnsep 
+\par }}{\*\ftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid4009645 \chftnsepc 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid4009645 \chftnsep 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid4009645 \chftnsepc 
+\par }}\sectd \psz1\linex0\endnhere\sectdefaultcl\sectrsid13896434\sftnbj {\header \pard\plain \s23\qr \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11297492 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs16\lang1024\langfe1024\noproof\insrsid2047220\charrsid8345070 
+{\shp{\*\shpinst\shpleft-1870\shptop-1526\shpright11285\shpbottom289\shpfhdr0\shpbxcolumn\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt0\shpz2\shplid2051{\sp{\sn shapeType}{\sv 136}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv 20643840}}{\sp{\sn gtextUNICODE}{\sv J U D G M E N T}}{\sp{\sn gtextSize}{\sv 5242880}}{\sp{\sn gtextFont}{\sv Bookman Old Style}}{\sp{\sn gtextFReverseRows}{\sv 0}}{\sp{\sn fGtext}{\sv 1}}
+{\sp{\sn gtextFNormalize}{\sv 0}}{\sp{\sn fillColor}{\sv 10066329}}{\sp{\sn fillOpacity}{\sv 32768}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv PowerPlusWaterMarkObject3}}{\sp{\sn posh}{\sv 2}}
+{\sp{\sn posrelh}{\sv 0}}{\sp{\sn posv}{\sv 2}}{\sp{\sn posrelv}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 0}}{\sp{\sn fBehindDocument}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt\par\pard
+\ql \li0\ri0\widctlpar\phmrg\posxc\posyc\dxfrtext180\dfrmtxtx180\dfrmtxty0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw17006\pich17665\picwgoal9641\pichgoal10015\wmetafile8\bliptag-619848902\blipupi-143{\*\blipuid db0ddb3ad2c867e07728d0fb1cdd4bab}
+010009000003c70b000007003601000000000400000003010800050000000b0200000000050000000c0275054305040000002e011800030000001e0007000000
+fc020000999999000000040000002d0100000c000000400949005a00000000000000c2008400ae0400000400000004010900050000000902ffffff002d000000
+4201050000002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff00aa00000055000000aa00
+000055000000aa00000055000000aa00000055000000040000002d010100040000000601010008000000fa02050000000000ffffff00040000002d010200ec00
+0000240374000000d7042900ae043000b6042c00ba042a00bc042900bd042800bf042700c0042700c3042700c5042800c6042900c8042a00ca042b00cb042d00
+cd046d000e0571001105740015057700180579001c057b001f057d0022057f0025058000280581002c0581002f058200350582003c05800043057f0047057e00
+4a057c004e057a005105780054057600580573005b0570005e056c00620568006505640068055f006a055a006c0556006d0551006e054c006e0547006e054300
+6e053e006d053a006b0536006905320067052f0065052b00620528005e0526005b0525005805240055052400520524004f0525004d0527004b05280049052a00
+49052c0048052f0048053100490533004a0535004b0537004d0538004e0539004f053a0051053c0053053d0055053e005605400058054000590544005c054800
+5d054d005e0552005f0555005e0557005e055a005d055d005c055f005b056200590564005705660055056a0051056c004d056f0048057000430571003f057100
+3a05700035056f0031056d002d056a0028056600230561001e052200de041f00dc041c00d9041a00d8041800d7041700d6041500d6041400d6041200d6041000
+d7040e00d8040c00da040a00dc040700df040000d70408000000fa0200000000000000000000040000002d0103000400000006010100040000002d0100000500
+00000902000000000400000004010d000c000000400949005a00000000000000c2008400ae04000007000000fc020000ffffff000000040000002d0104000400
+0000f0010100040000002d0100000c000000400949005a00000000000000c700c700010467000400000004010900050000000902ffffff002d00000042010500
+00002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00
+000055000000aa00000055000000aa000000040000002d0101000400000006010100040000002d0102001201000024038700670070049100460498004e049500
+50049300530491005504900057048f0059048f005a048f005c048f005d0490005e0491006004920062049500650497006804ce009e04d200a204d500a504d800
+a804dc00aa04df00ac04e200ae04e400b004e700b104ec00b204f200b304f700b304fd00b2040301b1040801ae040d01ab041201a7041601a30419019d041c01
+98041d0192041e018b041e0185041e0180041c017a041b017804190175041701720415016f0413016c04100168040d01650409016104d4002c04d2002a04cf00
+2804cd002604cb002504c9002404c8002404c6002404c4002404c2002504c1002604bf002704bd002904ba002c04b2002504d6000104dd000804db000b04d800
+0e04d6001104d5001304d5001604d6001804d7001b04da001f04dd00220415015a0419015e041c0162041f0166042201690424016d0426017104280175042901
+79042a017c042b0180042c0184042c0188042c018c042c0190042c0194042b0198042a019b0428019f042701a3042501a6042301aa042001ad041d01b1041a01
+b4041401ba041101bc040d01be040a01c0040601c2040201c304fe00c404f600c604f200c604ee00c604eb00c604e700c504e400c504e000c404dd00c204d900
+c104d600bf04d200bd04cf00bb04cb00b804c800b504c400b2048900760486007304840071048200700480006f047d006e047a006e0478006f04770070047500
+7104730073046f00770467007004040000002d0103000400000006010100040000002d010000050000000902000000000400000004010d000c00000040094900
+5a00000000000000c700c70001046700040000002d01040004000000f0010100040000002d0100000c000000400949005a00000000000000ca00cb0072031501
+0400000004010900050000000902ffffff002d000000420105000000280000000800000008000000010001000000000020000000000000000000000000000000
+0000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa00000055000000040000002d010100040000000601010004000000
+2d010200f4000000380502004a002d001d01c9031601c1033c019b034201950348018f034e018a0353018603580182035d017f0361017c0364017a036a017803
+6f017603750175037a01740380017403860174038c01750392017603980178039f017a03a5017d03ab018003b1018403b7018803bd018c03c2019203c9019903
+cf01a103d401a903d801b203da01b603db01bb03dd01bf03de01c303de01c703df01cc03df01d403de01da03dd01e103da01e703d701ee03d301f403cf01fa03
+cb01ff03c60104048f013b04880134048c012f048e012e048f012c0490012b04910129049101280491012504900122048f0120048e011f048c011c0489011a04
+3801c8033501c5033201c3033001c1032e01c0032d01c0032b01bf032901bf032701c0032601c1032401c3032101c5031d01c9031d01c903a2011604b901ff03
+bb01fc03bd01fa03c001f603c301f203c601ed03c801e903ca01e603cb01e303cc01df03cc01da03cc01d503cb01cf03ca01ca03c801c403c601be03c301b803
+bf01b203bb01ac03b601a703b101a103ab019b03a50196039f0192039a018f0394018c038e018a0388018803820187037c01870377018703710187036c018803
+67018a0363018c035e018f035a019203570194035401970350019b034b019f033b01af03a2011604a2011604040000002d010300040000000601010004000000
+2d010000050000000902000000000400000004010d000c000000400949005a00000000000000ca00cb0072031501040000002d01040004000000f00101000400
+00002d0100000c000000400949005a00000000000000b700c100b702e4010400000004010900050000000902ffffff002d000000420105000000280000000800
+0000080000000100010000000000200000000000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00000055000000aa00
+000055000000aa000000040000002d0101000400000006010100040000002d01020036010000240399001a02bd022002b7023702c6024e02d4024a02de024402
+db023e02d9023802d7023302d6022e02d5022902d4022502d4022102d4021c02d5021902d6021502d7021102d8020e02da020b02dc020802de020502e1020102
+e502fe01ea02fb01ef02f901f402f801f902f801ff02f8010503f9010c03fa011203fc011903fe011f030102250305022b03090231030d02360312023c031602
+3f031a0243031e024603220249032b024e0334025203390254033d02550342025603460257034a0257034e02570353025703570257035b0256035e0255036202
+530365025203690250036c024e037102490375024603770242037a023e037c0239037d0235037e0231037f022d037f0229037f0226037e0223037d0221037c02
+1e037b021c037902190376021603730213036d020e036a020a03670208036502060362020503600205035e0204035c0205035a02050358020603560208035302
+0b034e020f03470208037302dc027a02e4027602e7027402e9027302eb027202ed027102ee027102f1027202f4027302f5027402f8027602fa027902fd02a302
+27039c022e038d0228038c022e038b0233038902390388023e038402450380024c037b0252037602580371025d036b026103650265035e026703570269034f02
+6b0348026b033f026b0337026a032f026803270265032002620318025e03110259030a02540303024d03fd014703f8014003f3013903ef013103ec012903e901
+2203e7011903e6011103e6010903e6010103e701fa02ea01f202ec01ec02f001e502f401df02f901da02ff01d5020502d0020c02cd021202ca021502c9021802
+c9021c02c8022002c8021a02bd02040000002d0103000400000006010100040000002d010000050000000902000000000400000004010d000c00000040094900
+5a00000000000000b700c100b702e401040000002d01040004000000f0010100040000002d0100000c000000400949005a00000000000000fc00fc00e0017502
+0400000004010900050000000902ffffff002d000000420105000000280000000800000008000000010001000000000020000000000000000000000000000000
+0000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa00000055000000040000002d010100040000000601010004000000
+2d010200d800000024036a007602610298024002b7025002d7026002f702700217038002f7024102d6020102f702e101fe02e801fb02eb01f902ed01f702ef01
+f602f101f602f201f502f501f602f701f602f801f702fa01f902fc01fb02ff01fd0201024d03510251035502540357025603590258035a0259035b025b035b02
+5c035b025e035b0260035a026203590264035802660355026903530270035a024703830240037c02430379024503770246037502470374024803720249037002
+49036d0248036a0247036802440365024203630241036202e8020902fa022d020d0351021f037502320399022a03a00206038e02e3027c02bf026a029c025802
+f202ae02f502b102f702b402fa02b502fc02b602fd02b702ff02b7020103b7020203b7020403b6020603b5020903b3020b03b0020e03ae021503b502ef02db02
+e802d402ea02d102ec02cf02ee02cc02f002ca02f102c802f102c702f102c502f102c302f002c102ef02bf02ed02bd02eb02ba02e802b7029802680295026502
+93026202900261028f0260028d025f028c025f028a025f0289025f02870260028502610283026302810265027d02690276026102040000002d01030004000000
+06010100040000002d010000050000000902000000000400000004010d000c000000400949005a00000000000000fc00fc00e0017502040000002d0104000400
+0000f0010100040000002d0100000c000000400949005a00000000000000d200d500470138030400000004010900050000000902ffffff002d00000042010500
+00002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00
+000055000000aa00000055000000aa000000040000002d0101000400000006010100040000002d010200f40000002403780039039e0190034701a5035201ba03
+5d01b6036701b1036501ac036301a8036101a4036001a00360019d035f0199035f0195036001920360018e0361018b0363018903640187036501860366018403
+67018203690180036b017d036d017b037001780372015e038c018b03b9019803ac019b03a8019d03a5019f03a201a0039e01a0039b01a00398019f0395019e03
+93019d0390019b038d0198038a0194038701920385019a037d01cf03b201c803ba01c303b501c003b301be03b001bb03af01b903ad01b803ad01b603ac01b103
+ab01af03ab01ad03ac01a903ad01a803ae01a503af01a303b201a003b4019303c101bb03e901be03ec01c003ee01c203ef01c303f001c503f001c603f001c703
+ef01c903ee01cb03ed01cd03ea01dd03da01e003d701e303d401e603d001e803cd01ea03ca01ec03c701ed03c401ef03c201f003bc01f103b601f103b001f103
+a901f003a401ee039e01ec039701e9039001f3038c010004a5010d04be01b2031802ab031102ae030d02b0030b02b2030902b3030702b4030602b4030502b403
+0302b4030102b303ff01b303fe01b103fc01af03fa01ad03f7015903a3015603a10154039f0152039e0150039d014f039d014d039d014c039d014a039d014903
+9e014703a0014403a2014003a60139039e01040000002d0103000400000006010100040000002d010000050000000902000000000400000004010d000c000000
+400949005a00000000000000d200d50047013803040000002d01040004000000f0010100040000002d0100000c000000400949005a00000000000000e300d600
+9300db030400000004010900050000000902ffffff002d0000004201050000002800000008000000080000000100010000000000200000000000000000000000
+000000000000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa00000055000000040000002d0101000400000006010100
+040000002d010200b000000024035600dc03fc00fc03db001f04e6004204f0006504fa00880405014304c0004004bd003d04bb003b04b9003904b8003704b700
+3504b7003304b7003204b7003004b8002e04b9002c04ba002a04bc002704bf002004b800430494004b049b0049049d0047049f004504a1004404a3004304a400
+4304a6004304a8004304aa004404ac004604af004704b1004a04b4004c04b700b0041a01a70424017d04170152040a012804fe00fe03f1005504480158044b01
+5b044d015d044f015e0450016104510164045201670452016a0451016b0450016d044e016f044c0172044a0179045101550475014e046e0150046c0152046901
+540467015504650156046301560461015604600156045e0155045c0153045a01520457014f0454014c045101ff030401fc030101f903fe00f703fc00f603fb00
+f403fa00f203fa00f103fa00ef03fa00ed03fa00eb03fc00e803fe00e6030001e3030301dc03fc00040000002d0103000400000006010100040000002d010000
+050000000902000000000400000004010d000c000000400949005a00000000000000e300d6009300db03040000002d01040004000000f0010100040000002d01
+00000c000000400949005a00000000000000ba00bb00000080040400000004010900050000000902ffffff002d00000042010500000028000000080000000800
+00000100010000000000200000000000000000000000000000000000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa00
+000055000000040000002d0101000400000006010100040000002d010200b60000002403590081044e00860449008b044c00cd040a00c9040600cf040000e604
+0c00fe041900fa042200f5042000f1041e00ec041d00e8041c00e4041b00e1041a00dd041a00da041a00d7041a00d4041b00d1041c00ce041d00cb041f00c804
+2100c5042300c3042600c1042800bf042900be042b00be042b00be042d00be042e00be042f00c0043000c1043200c4043400180589001b058b001d058e001f05
+8f00210590002305910025059200280591002a0590002b058f002d058e0030058b00330589003a0590001105b9000a05b2000d05af000f05ac001105aa001105
+a9001205a7001305a5001205a4001205a2001105a0000f059d000d059b000a059800b4044200b2044000b1043e00b0043e00af043d00ae043d00ac043d00ab04
+3d00aa043e00a9043f00a8044100a4044500a10449009e044d009d0450009c0454009b0459009b045d009c0462009d0467009e046d00a0047300a30479009904
+7d008d04660081044e00040000002d0103000400000006010100040000002d010000050000000902000000000400000004010d000c000000400949005a000000
+00000000ba00bb0000008004040000002d010400040000002701ffff1c000000fb02dfff0000000000009001000000000440001254696d6573204e657720526f
+6d616e0000000000000000000000000000000000040000002d0105000400000002010100050000000902000000020d000000320a2f0003000100040003001100
+3f05830520560f001c000000fb021000070000000000bc02000000000102022253797374656d00000000000000000000180000000300000058f81900e4040000040000002d010600030000000000}\par}}}{\f37\fs16\insrsid2047220\charrsid8345070 Commercial Court Division
+\par }}{\footer \pard\plain \s18\ql \li0\ri0\widctlpar\pvpara\phpg\posx1683\posnegy-90\absw9418\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3813007 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs17\f37\fs16\insrsid2047220\charrsid3813007 HCT - 00 - CC }{\cs17\f37\fs16\insrsid2047220 \endash }{\cs17\f37\fs16\insrsid2047220\charrsid3813007  C}{\cs17\f37\fs16\insrsid2047220 A - 12}{\cs17\f37\fs16\insrsid2047220\charrsid3813007  - 200}{
+\cs17\f37\fs16\insrsid2047220 5}{\cs17\insrsid2047220                                                                                                                                                  /}{\field{\*\fldinst {\cs17\insrsid2047220 PAGE  }
+}{\fldrslt {\cs17\lang1024\langfe1024\noproof\insrsid4723988 17}}}{\cs17\insrsid2047220 
+\par }\pard \s18\ql \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\posnegy-90\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\insrsid2047220 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \s15\qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 
+\fs20\ul\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs24\ulnone\insrsid12344399\charrsid10565788 THE REPUBLIC OF UGANDA
+\par 
+\par }\pard\plain \s25\qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 \b\f35\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f0\fs24\insrsid12344399\charrsid10565788 
+IN THE HIGH COURT OF UGANDA AT KAMPALA
+\par }\pard\plain \qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\insrsid12344399\charrsid10565788 (COMMERCIAL }{
+\b\insrsid7210910\charrsid10565788 COURT }{\b\insrsid12344399\charrsid10565788 DIVISION)
+\par 
+\par }\pard\plain \s9\qc \li0\ri0\sl360\slmult1\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel8\adjustright\rin0\lin0\itap0\pararsid10565788 \b\f35\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f0\fs24\insrsid7210910\charrsid10565788 
+HCT - 00 - CC - C}{\f0\fs24\insrsid10637221\charrsid10565788 A}{\f0\fs24\insrsid7210910\charrsid10565788  - }{\f0\fs24\insrsid10637221\charrsid10565788 12}{\f0\fs24\insrsid12344399\charrsid10565788  }{\f0\fs24\insrsid7210910\charrsid10565788 -}{
+\f0\fs24\insrsid12344399\charrsid10565788  200}{\f0\fs24\insrsid10637221\charrsid10565788 5}{\f0\fs24\insrsid12344399\charrsid10565788 
+\par }\pard\plain \qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\insrsid12344399\charrsid10565788 
+\par }{\b\insrsid10637221\charrsid10565788 
+\par }\pard\plain \s8\ql \li0\ri0\sl360\slmult1\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel7\adjustright\rin0\lin0\itap0\pararsid10565788 \b\f35\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f0\fs24\insrsid10637221\charrsid10565788 
+SHRI CHANDER MOHAN
+\par KAPOOR T/a BRITISH HERBAL COSMETICS}{\f0\fs24\insrsid12344399\charrsid10565788  ::::::::::::::::::::::::::::  }{\f0\fs24\insrsid10637221\charrsid10565788 APPELANT }{\f0\fs24\insrsid12344399\charrsid10565788 
+\par }\pard\plain \s18\ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs24\insrsid12344399\charrsid10565788 
+\par }\pard\plain \s9\qc \li0\ri0\sl360\slmult1\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel8\adjustright\rin0\lin0\itap0\pararsid10565788 \b\f35\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f0\fs24\insrsid12344399\charrsid10565788 VERSUS
+
+\par }\pard\plain \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid12344399\charrsid10565788 
+\par 
+\par }\pard\plain \s6\ql \li0\ri0\sl360\slmult1\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel5\adjustright\rin0\lin0\itap0\pararsid10565788 \b\f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f0\insrsid10637221\charrsid10565788 
+AMIN CHAVANIA T/a JAS}{\f0\insrsid7031056\charrsid10565788 K}{\f0\insrsid10637221\charrsid10565788 AR ENTERPRISES }{\f0\insrsid12344399\charrsid10565788 ::::::::::::::::::::::  }{\f0\insrsid10637221\charrsid10565788 RESPONDENT}{
+\f0\insrsid12344399\charrsid10565788 
+\par }\pard\plain \s18\ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs24\insrsid12344399\charrsid10565788 
+\par 
+\par }{\fs24\insrsid10637221\charrsid10565788 
+\par }\pard\plain \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid12344399\charrsid10565788 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\b\insrsid12344399\charrsid10565788 BEFORE:  }{\b\ul\insrsid12344399\charrsid10565788 THE HON. JUSTICE GEOFFREY KIRYABWIRE.
+\par 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\b\ul\insrsid12344399\charrsid10565788 J U D G M E N T}{\b\insrsid12344399\charrsid10565788 :
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\b\insrsid12344399\charrsid10565788 
+\par }\pard\plain \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 \f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f0\insrsid12344399\charrsid10565788 This }{
+\f0\insrsid10637221\charrsid10565788 is an appeal from the ruling of the learned Assistant Registrar of Trade}{\f0\insrsid8026599\charrsid10565788 m}{\f0\insrsid10637221\charrsid10565788 arks (hereinafter referred to as the }{
+\i\f0\insrsid10637221\charrsid10565788 \'93Registrar\'94)}{\f0\insrsid10637221\charrsid10565788  Ms. Fiona Bayiga in the matter of Trade Mark No.}{\f0\insrsid8026599\charrsid10565788  26496 }{\i\f0\insrsid8026599\charrsid10565788 \'93Eldena\'94}{
+\f0\insrsid8026599\charrsid10565788  in the name of Jasker Enterprises.  In that matter the Appellant had sought }{\f0\insrsid7031056\charrsid10565788 inter alia }{\f0\insrsid8026599\charrsid10565788 to }{\f0\insrsid7685288\charrsid10565788 expunge}{
+\f0\insrsid8026599\charrsid10565788  the said mark from the Regist}{\f0\insrsid16265348\charrsid10565788 er}{\f0\insrsid8026599\charrsid10565788  of Trademarks.
+\par 
+\par The brief facts of the matter are that the Respondents on the 24}{\f0\super\insrsid8026599\charrsid10565788 th}{\f0\insrsid8026599\charrsid10565788 
+ March, 2004 filed an application to register the mark Eldena as cosmetics under part A class 3 of the Trade}{\f0\insrsid13449554\charrsid10565788  M}{\f0\insrsid8026599\charrsid10565788 ark Act.  The mark was advertised in the Uganda Gazette on the 19}{
+\f0\super\insrsid8026599\charrsid10565788 th}{\f0\insrsid8026599\charrsid10565788  March 2004.  }{\f0\insrsid7031056\charrsid10565788 A company called }{\f0\insrsid8026599\charrsid10565788 M/s Euro Kent then wrote to the Registra
+r expressing their intention to oppose the registration of the mark but did not formally pursue the matter}{\f0\insrsid5059773\charrsid10565788  as required by the Act}{\f0\insrsid8026599\charrsid10565788 .  The mark was then registered on the 28}{
+\f0\super\insrsid8026599\charrsid10565788 th}{\f0\insrsid8026599\charrsid10565788  July 2004.
+\par 
+\par Shortly thereafter in a related matter a Civil Suit No. 271 of 2005 was filed in the Commercial Division of The High Court under the names;
+\par 
+\par }\pard \s16\qj \fi720\li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid8026599\charrsid10565788 Amin Charania T/a
+\par Jaskar Enterprises\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85. Plaintiffs
+\par                           Versus
+\par 1.\tab Aruu Rastogi 
+\par 2.\tab Anand Goel both T/a Duvon Impex \'85\'85\'85\'85\'85\'85\'85. Defendants
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid8026599\charrsid10565788 
+\par In that suit }{\f0\insrsid7031056\charrsid10565788 I }{\f0\insrsid8026599\charrsid10565788 issue
+d a temporary injunction against the defendants from trading in the goods pending the disposal of the suit.  I however then stayed that suit on learning that there was a pending application before the Registrar of Trademarks}{
+\f0\insrsid7031056\charrsid10565788  (hereinafter referred to as }{\i\f0\insrsid7031056\charrsid10565788 \'93Registrar\'94)}{\f0\insrsid8026599\charrsid10565788  to cancel the Registration of the Mark }{\i\f0\insrsid8026599\charrsid10565788 \'93Eldena\'94
+}{\f0\insrsid8026599\charrsid10565788  which if success}{\f0\insrsid7031056\charrsid10565788 ful}{\f0\insrsid8026599\charrsid10565788  would directly impact on that suit.
+\par 
+\par It is this application before the Registrar that this appeal lies}{\f0\insrsid6571186\charrsid10565788  from}{\f0\insrsid8026599\charrsid10565788 .  The Appellant in this appeal is Shri Chander M}{\f0\insrsid5059773\charrsid10565788 o}{
+\f0\insrsid8026599\charrsid10565788 han Kapur T/a as M/s British Herbal Cosmetics of India.  The Appellant applied to the Registrar under Section 34 of the Trademark Act for orders for the removal of the Trademark No. 26496 }{
+\i\f0\insrsid8026599\charrsid10565788 \'93Eldena\'94 }{\f0\insrsid8026599\charrsid10565788 from the Regist}{\f0\insrsid16265348\charrsid10565788 er}{\f0\insrsid8026599\charrsid10565788  or the rectification of the said register by removing the name
+ Jaskar Enterprises Ltd as proprietor and inserting British Herbal Cosmetics Ltd.  The }{\f0\insrsid13576719\charrsid10565788 main ground among others is that the current Appellant was the manufacturer of the product }{
+\i\f0\insrsid13576719\charrsid10565788 \'93Eldena\'94 }{\f0\insrsid13576719\charrsid10565788 in India for which it had a pending mark for registration again in India.  It is }{\f0\insrsid10489547\charrsid10565788 significant to note that the 2}{
+\f0\super\insrsid10489547\charrsid10565788 nd}{\f0\insrsid10489547\charrsid10565788  defendant in HCCS 271 of 2005 was the one }{\f0\insrsid6571186\charrsid10565788 who }{\f0\insrsid10489547\charrsid10565788 prosecuted the application }{
+\f0\insrsid6571186\charrsid10565788 before the Registrar }{\f0\insrsid10489547\charrsid10565788 for removal by virtue of Power of Attorney given to him by M/s British Herbal Cosmetics.}{\f0\insrsid14045777\charrsid10565788 
+\par 
+\par The Registrar on the 19}{\f0\super\insrsid14045777\charrsid10565788 th}{\f0\insrsid14045777\charrsid10565788  August 2005 dismissed the application thus leaving the Respondent as the registered proprietor of the mark.  The Appellant }{
+\f0\insrsid6571186\charrsid10565788 has now }{\f0\insrsid14045777\charrsid10565788 raised 13 grounds of appeal as follows;
+\par 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid14045777\charrsid10565788 \hich\af0\dbch\af0\loch\f0 1.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid14045777\charrsid10565788 The Registrar erred in law when she held that for the Appellant to succeed in a claim
+ of fraud under the Trade Marks Act it had to plead fraud as would have been the case under the Civil Procedure Act when in fact the Civil Procedure Act does not extend to proceedings before a Registrar of Trade Marks.}{
+\f0\insrsid15404123\charrsid10565788 
+\par }\pard \s16\qj \li360\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid10565788 {\f0\insrsid14045777\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid14045777\charrsid10565788 \hich\af0\dbch\af0\loch\f0 2.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid14045777\charrsid10565788 The Registrar erred in law and in fa
+ct when she failed to take into account evidence adduced by the Appellant by way of statutory declarations when in fact all evidence before a Registrar of Trade Marks under the Trade Marks Act is by way of statutory declarations in the absence of directio
+ns to the contrary.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid14045777\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid14045777\charrsid10565788 \hich\af0\dbch\af0\loch\f0 3.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid14045777\charrsid10565788 
+The Registrar erred in law when she rejected the manufacturing licence as presented, a decision made contrary to the provisions of Rules 112 and 113 of the Trade Marks Rules.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid14045777\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid14045777\charrsid10565788 \hich\af0\dbch\af0\loch\f0 4.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid14045777\charrsid10565788 The Registrar erred in law when she rejected the packaging w
+hich was clearly described in the statutory declaration of Mr. Anand Goel dated 27/08/04 in paragraph 5 thereof and a photocopy of which was annexed as \'93C\'94 to the same declaration, a decision made contrary to Section 53 of the Trade Mark Act.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid14045777\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid14045777\charrsid10565788 \hich\af0\dbch\af0\loch\f0 5.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid14045777\charrsid10565788 The Registra
+r erred in law when she rejected the Power of Attorney given to Mr. Anand Goel by the Appellant on the grounds that it was not relevant to the matter thus disregarding the provisions of Section 53 of the Trade Marks Act}{
+\f0\insrsid4732338\charrsid10565788 , 3, 5 and 6 of the Statutory Declaration Act.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid4732338\charrsid10565788 \hich\af0\dbch\af0\loch\f0 6.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+The Registrar erred in law and in fact when she failed to appreciate that consent from the appellant was essential since the respondent had not demonstrated that he coined the mark }{\i\f0\insrsid4732338\charrsid10565788 \'93ELDENA\'94 }{
+\f0\insrsid4732338\charrsid10565788 and was using the same mark before registration thereof exclusively.}{\f0\insrsid15404123\charrsid10565788 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid4732338\charrsid10565788 \hich\af0\dbch\af0\loch\f0 7.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+The Registrar erred in law and in fact when she failed to distinguish between lawful registration of the mark by default and entry made in the register without sufficient cause under S.34 of the Trade Marks Act.}{\f0\insrsid15404123\charrsid10565788 
+
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid4732338\charrsid10565788 \hich\af0\dbch\af0\loch\f0 8.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 The Registrar erred in law a
+nd in fact when she rejected the letter from Eurokent which was produced in evidence contrary to the provisions of Section 53 of the Trade Marks Act and Sections, 3, 5 and 6 of Statutory Declaration Act.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid4732338\charrsid10565788 \hich\af0\dbch\af0\loch\f0 9.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 The Registrar erred in law and in fact when she rej
+ected the Appellants affidavit attested on the 01/12/04 by a Notary Public Contrary to Section 53 of the Trade Marks Act and Rules 112 and 113 of the Trade Marks Rules.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid4732338\charrsid10565788 \hich\af0\dbch\af0\loch\f0 10.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 The Registrar erred in law and in fact when she failed to find despite the glaring evi
+dence before her, that the invoices from INC3 International Importers and Exporters were proof that the appellant was dealing in the goods under the mark }{\i\f0\insrsid4732338\charrsid10565788 \'93ELDENA\'94}{\f0\insrsid4732338\charrsid10565788 
+ prior to registration of the respondent as Proprietor of the same mark in Uganda.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid4732338\charrsid10565788 \hich\af0\dbch\af0\loch\f0 11.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 The Registrar erred in law and in fact when she failed to put any weight to the form TM}{
+\f0\insrsid13449554\charrsid10565788  }{\f0\insrsid4732338\charrsid10565788 -}{\f0\insrsid13449554\charrsid10565788  }{\f0\insrsid4732338\charrsid10565788 No.2 that was filed by the respondent in his application to be registered as the proprietor of mark 
+}{\i\f0\insrsid4732338\charrsid10565788 \'93ELDENA\'94}{\f0\insrsid4732338\charrsid10565788  where as if she had done so she would have arrived at the inevitable conclusion that the form was not representing the true facts on the ground.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid4732338\charrsid10565788 \hich\af0\dbch\af0\loch\f0 12.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+The Registrar erred in law and in fact when she completely ignored the glaring evidence on the record and arrived at conclusions which were not based on evidence on record.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid4732338\charrsid10565788 \hich\af0\dbch\af0\loch\f0 13.\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls45\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid4732338\charrsid10565788 The
+ Registrar erred in law when she failed to deliver her ruling with the sixty (6) days directed by Hon. Justice Geoffrey Kiryabwire in his ruling in Misc. Appl. No. 251 of 2005 arising from H.C.C.S No. 271 of 2005 AMIN CHARANIA T/A JASKAR ENTERPRISES VERSU
+S 1. ARUN RASTOGI 2. ANAND GOEL T/A DUVON IMPEX dated 19/05/05 without ascribing any reasons in her ruling for such failure.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid7828657\charrsid10565788 Mr. A. Kibu}{\f0\insrsid5059773\charrsid10565788 u}{\f0\insrsid7828657\charrsid10565788 
+ka Musoke appeared for the Appellant and Mr. Kiryowa Kiwanuka appeared for the Respondent.
+\par 
+\par The grounds of Appeal}{\f0\insrsid8795623\charrsid10565788 ,}{\f0\insrsid7828657\charrsid10565788  I must point out were quite many and in some respects did over lap each other.}{\f0\insrsid5059773\charrsid10565788   The first set of ground}{
+\f0\insrsid16265348\charrsid10565788 s}{\f0\insrsid5059773\charrsid10565788  relate to procedural matters while the second set relate more to matters of substantive law.}{\f0\insrsid7828657\charrsid10565788 
+  In order to better focus my findings I shall first begin by laying out what is required to be successful under S. 34 of the Trade Mark Act.  Section 34 (i) of the Trade Mark Act provides;
+\par }{\f0\insrsid13896434\charrsid10565788 
+\par }\pard \s16\qj \li374\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin374\itap0\pararsid10565788 {\b\i\f0\insrsid7828657\charrsid10565788 \'93General power to rectify entries in register
+\par {\listtext\pard\plain\s16 \i\lang1033\langfe1033\langnp1033\langfenp1033\insrsid5059773\charrsid10565788 \hich\af0\dbch\af0\loch\f0 (1)\tab}}\pard \s16\qj \fi-374\li748\ri0\sl360\slmult1
+\widctlpar\aspalpha\aspnum\faauto\ls46\adjustright\rin0\lin748\itap0\pararsid10565788 {\i\f0\insrsid5059773\charrsid10565788   }{\i\f0\insrsid7828657\charrsid10565788 Any person aggrieved by the noninsertion in or omission from the Register of }{
+\i\f0\insrsid5059773\charrsid10565788  }{\i\f0\insrsid7828657\charrsid10565788 an 
+entry, or by any entry made in the register without sufficient cause, or by any entry wrongly remaining on the register, or by an error or defect in any entry in the register, may apply in the prescribed manner to the court or, at the option of the applic
+ant and subject to Section 52, to the Registrar, and the court or the Registrar may made such order for making, expunging or }{\i\f0\insrsid13449554\charrsid10565788 v}{\i\f0\insrsid7828657\charrsid10565788 
+arying the entry as the court or Registrar, as the case may be, may thing fit\'85\'94
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid7828657\charrsid10565788 
+\par Clearly from the above}{\f0\insrsid5059773\charrsid10565788 ,}{\f0\insrsid7828657\charrsid10565788  a Section 34 (1) rectifica
+tion gives wide powers to a court or Registrar to make, expunge or vary an entry in the register.  To my mind, whereas a S.34 (1) power to rectify is given to both a court and the Registrar}{\f0\insrsid6571186\charrsid10565788  c}{
+\f0\insrsid7828657\charrsid10565788 oncurrently}{\f0\insrsid6571186\charrsid10565788 ,}{\f0\insrsid7828657\charrsid10565788  it would be desirable for one to start with an appli
+cation before the Registrar then appeal to court under S. 52(b).  The said application can be made by any }{\b\f0\insrsid7828657\charrsid10565788 aggrieved person}{\f0\insrsid7828657\charrsid10565788 
+ on wide grounds ranging from sufficient cause to error.  A person aggrieved prima facie covers a wide spectrum of people including people in the same trade and a business rival }{\f0\insrsid6571186\charrsid10565788 (}{\f0\insrsid7828657\charrsid10565788 
+see}{\f0\insrsid6571186\charrsid10565788  }{\b\f0\ul\insrsid6571186\charrsid10565788 Halsbury\rquote s Laws of England 3}{\b\f0\ul\super\insrsid6571186\charrsid10565788 rd}{\b\f0\ul\insrsid6571186\charrsid10565788  Ed Vol. 38 para 963}{
+\f0\insrsid6571186\charrsid10565788  and}{\f0\insrsid7828657\charrsid10565788  }{\b\f0\ul\insrsid7828657\charrsid10565788 Re Appolinaris Company\rquote s Trade Mark 1890 CA 186}{\b\f0\ul\insrsid8795623\charrsid10565788 )}{
+\f0\insrsid7828657\charrsid10565788 .  The record of the proceedings before the Registrar and in particular }{\f0\insrsid6571186\charrsid10565788 Trade Mark F}{\f0\insrsid7828657\charrsid10565788 orm }{\f0\insrsid6571186\charrsid10565788 No. }{
+\f0\insrsid7828657\charrsid10565788 T.M. 25 entitled }{\b\i\f0\insrsid6571186\charrsid10565788 \'93}{\b\i\f0\ul\insrsid7828657\charrsid10565788 Application to the Registrar for rectification of the register}{\b\i\f0\insrsid6571186\charrsid10565788 \'94}{
+\f0\insrsid7828657\charrsid10565788  or removal of the Trade Mark from the register show that application for rectification was for
+\par }\pard \s16\qj \li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid7828657\charrsid10565788 \'93\'85
+expunging the name of Jaskar Enterprises from the register and instead insert the name of British Herbal Cosmetics as owner and proprietor\'85\'94
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid7828657\charrsid10565788 
+\par The grounds for the application were the following;
+\par }\pard \s16\qj \li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid7828657\charrsid10565788 \'93\'85The registration of Jasker Enterprises was made }{
+\i\f0\ul\insrsid7828657\charrsid10565788 in error}{\i\f0\insrsid7828657\charrsid10565788  or }{\i\f0\ul\insrsid7828657\charrsid10565788 fraudulently }{\i\f0\insrsid7828657\charrsid10565788 
+without the consent of British Herbal Cosmetics the owner and proprietor of the mark\'94.}{\f0\insrsid6571186\charrsid10565788  (emphasis mine)}{\f0\insrsid7828657\charrsid10565788 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid7828657\charrsid10565788 
+\par }{\f0\insrsid6571186\charrsid10565788 In other words }{\f0\insrsid9388135\charrsid10565788 the }{\f0\insrsid6571186\charrsid10565788 grounds raised are founded on two areas }{\f0\insrsid9388135\charrsid10565788 namely }{
+\f0\insrsid6571186\charrsid10565788 error or in the alternative fraud.  
+\par 
+\par }{\f0\insrsid7828657\charrsid10565788 I shall now ma}{\f0\insrsid6571186\charrsid10565788 k}{\f0\insrsid7828657\charrsid10565788 e my findings in light of the above background to the application before the Registrar.
+\par 
+\par Ground 1 and 2 raise procedural issues as to how an applicant can raise a claim of fraud in a S. 34 (1) proceedings }{\f0\insrsid6571186\charrsid10565788 for rectification }{\f0\insrsid7828657\charrsid10565788 
+before a Registrar and the use of statutory declarations in such proceedings.  I shall handle these two grounds together since they deal with 
+procedure.  Counsel for the Appellant submitted that the learned Registrar erred in law when she found that the Appellant }{\f0\insrsid9510579\charrsid10565788 
+could not succeed in the claim of fraud because it had not been specifically pleaded.  He in particular referred me to pages 8 \endash  9 of ruling.  I shall just refer to her finding}{\f0\insrsid6571186\charrsid10565788 
+s in conclusion on the matter where}{\f0\insrsid9510579\charrsid10565788  she }{\f0\insrsid6571186\charrsid10565788 found}{\f0\insrsid9510579\charrsid10565788 .}{\f0\insrsid7828657\charrsid10565788 
+\par }{\f0\insrsid13896434\charrsid10565788 
+\par }\pard \s16\qj \li748\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin748\itap0\pararsid10565788 {\i\f0\insrsid9510579\charrsid10565788 \'93\'85fraud is a serious matter and the party against whom it is alleged should be }{
+\i\f0\insrsid13896434\charrsid10565788  }{\i\f0\insrsid9510579\charrsid10565788 afforded sufficient notice to enable him answer the allegations (Re: Fam International Ltd & }{\i\f0\insrsid6571186\charrsid10565788 Anor }{
+\i\f0\insrsid9510579\charrsid10565788 V Mohammed Hamid El-Fathih SCCS No. 16/93).  The Applicant did not amend his pleadings to include fraud and I therefore find that he cannot rely on this point\'85\'94
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid12984429\charrsid10565788 
+\par Counsel for the Appellant argued fraud had been pleaded in the statutory declaration (para 4) of Mr. Anand Goel dated 15}{\f0\super\insrsid12984429\charrsid10565788 th}{\f0\insrsid12984429\charrsid10565788 
+ December 2004.  The allegation of fraud therein was that the Respondent did not coin the mark Eldena }{\f0\insrsid6571186\charrsid10565788 nor}{\f0\insrsid12984429\charrsid10565788 
+ did it manufacture the mark but that it registered the said mark without the Appellant\rquote s consent.  Counsel for
+ the Appellant took the view that the learned Registrar mixed up the procedure as expected under the Trade Mark Act and rules with that usually followed under the Civil Procedure Act and rules applicable in a normal suit.
+\par 
+\par Counsel for the Respondent agreed with the findings of the Registrar that fraud had not been pleaded and that it should have }{\f0\insrsid6571186\charrsid10565788 been }{\f0\insrsid12984429\charrsid10565788 done }{\i\f0\insrsid12984429\charrsid10565788 
+\'93with the utmost particularity\'94.}{\f0\insrsid12984429\charrsid10565788   Counsel }{\f0\insrsid10708827\charrsid10565788 for the Respondent further submitted that all allegations in the Appellant\rquote  statutory declarations were denied. 
+ In any event counsel for Respondent submitted the Appellants had admitted the fact of the registration of the mark and therefore were estopped from denying it.}{\f0\insrsid12984429\charrsid10565788 
+\par }{\f0\insrsid10708827\charrsid10565788 
+\par Flowing from the above submissions and arguments is ground No.2.  Counsel for the Appellant su
+bmitted that the learned Registrar failed to take into account the evidence of the Appellant as adduced by affidavit and yet evidence under the Trade Mark Act in the absence of directions to the contrary }{\f0\insrsid6571186\charrsid10565788 
+by the Registrar (in this case) }{\f0\insrsid10708827\charrsid10565788 is by way of statuto
+ry declaration.  Counsel for the Appellant then goes on to list what he considers to be vital evidence by his client way of statutory declaration that in his view were not challenged by the Respondent and which the Registrar }{
+\f0\insrsid6571186\charrsid10565788 for that reason }{\f0\insrsid10708827\charrsid10565788 had no reason to disbelieve.}{\f0\insrsid6571186\charrsid10565788   This evidence inter alia was to the effect that the Appellant coined }{
+\f0\insrsid9190476\charrsid10565788 the mark }{\i\f0\insrsid9190476\charrsid10565788 \'93Eldena\'94}{\f0\insrsid9190476\charrsid10565788 , }{\f0\insrsid9388135\charrsid10565788 had }{\f0\insrsid9190476\charrsid10565788 manufacture}{
+\f0\insrsid9388135\charrsid10565788 d}{\f0\insrsid9190476\charrsid10565788  it in India since 1995 and imported it into the market in Uganda.}{\i\f0\insrsid9190476\charrsid10565788  }{\f0\insrsid10708827\charrsid10565788 
+\par 
+\par Counsel for the Respondent disputes that the learned Registrar did not consider the evidence as alleged.  With particular reference to evidence of prior dealing in goods the subject of the mark}{\f0\insrsid9190476\charrsid10565788  }{
+\i\f0\insrsid9190476\charrsid10565788 \'93Eldena\'94}{\f0\insrsid10708827\charrsid10565788  counsel for the Respondent submitted that the evidence showed that a third party called }{\i\f0\insrsid10708827\charrsid10565788 \'93M/s Roopa Enterprises Ltd\'94}
+{\f0\insrsid10708827\charrsid10565788  }{\f0\insrsid9190476\charrsid10565788 and not the Appellant }{\f0\insrsid10708827\charrsid10565788 dealt in goods after the mark had been registered.}{\f0\insrsid9190476\charrsid10565788 
+  He therefore submitted that there was no evidence that the Appellant dealt with goods prior to the registration of the mark and so the claim was misconceived.}{\f0\insrsid10708827\charrsid10565788 
+\par 
+\par I have perused the record below and before }{\f0\insrsid16265348\charrsid10565788 me }{\f0\insrsid10708827\charrsid10565788 
+and also addressed myself to the submissions of both counsel.  The procedure to be followed under a S.34 (1) rectification is to be found in }{\b\f0\ul\insrsid10708827\charrsid10565788 The Trade Mark Rules}{\f0\insrsid10708827\charrsid10565788 
+ statutory instrument 217 \endash  1.
+\par 
+\par Rule 82 of the Trade Mark Rules provided that applications to the Registrar under S. 34 of the Act shall be made on Form TM 25 accompanied by a statutory }{\f0\insrsid9190476\charrsid10565788 declaration }{\f0\insrsid10708827\charrsid10565788 stating the 
+}{\f0\insrsid7169611\charrsid10565788 applicant\rquote s}{\f0\insrsid10708827\charrsid10565788  interest and the facts upon which he intends to rely.  Rule 83 then for purposes of further procedure}{\f0\insrsid9190476\charrsid10565788 ,}{
+\f0\insrsid10708827\charrsid10565788  imports mutatis mutandis rule 49 and 50 which allows}{\f0\insrsid9190476\charrsid10565788  for}{\f0\insrsid10708827\charrsid10565788  evidence }{\f0\insrsid9190476\charrsid10565788 also }{
+\f0\insrsid10708827\charrsid10565788 to be adduced by way of statutory declaration}{\f0\insrsid3083065\charrsid10565788 
+.  The rules also provide time lines within which all this is to be done.  I have not addressed my mind to the technicalities as to whether}{\f0\insrsid9190476\charrsid10565788  or not}{\f0\insrsid3083065\charrsid10565788  
+these time lines were followed.  I however find that in the main}{\f0\insrsid9190476\charrsid10565788 ,}{\f0\insrsid3083065\charrsid10565788  the parties did follow this proced}{\f0\insrsid9190476\charrsid10565788 ure.  It is my view and finding}{
+\f0\insrsid3083065\charrsid10565788  that the documentation referred to in the said rules would therefore form}{\f0\insrsid9190476\charrsid10565788  both}{\f0\insrsid3083065\charrsid10565788  the pleadings }{\f0\insrsid9190476\charrsid10565788 
+and evidence }{\f0\insrsid3083065\charrsid10565788 before the Registrar.  }{\f0\insrsid10708827\charrsid10565788 
+\par }{\f0\insrsid3083065\charrsid10565788 
+\par Now let me address the issue of whether the claim before the Registrar was inter alia founded on fraud.  I agree with the position of the Registrar that for a claim before to be found on fraud then it has to be pleaded with particulars.  This is the
+ only way the Registrar can properly investigate the allegation.  It appears to me looking at the form TM 25 and the statutory declaration}{\f0\insrsid9190476\charrsid10565788 s}{\f0\insrsid3083065\charrsid10565788 
+ the appellant did clearly inter alia base his claim upon fraud.  Of course }{\f0\insrsid9190476\charrsid10565788 he }{\f0\insrsid3083065\charrsid10565788 was limited by the format provided for
+ in the rules which do not necessarily provide for the detail that would be found in say a plaint}{\f0\insrsid9190476\charrsid10565788  in a normal suit}{\f0\insrsid3083065\charrsid10565788 .  }{\f0\insrsid4269573\charrsid10565788 That}{
+\f0\insrsid3083065\charrsid10565788  not withstanding I am of the view that the Appellant provided sufficient particulars of his claim of fraud by virtue of form TM 25 and the statutory declarations for the learned Registrar to ma}{
+\f0\insrsid9190476\charrsid10565788 k}{\f0\insrsid3083065\charrsid10565788 e}{\f0\insrsid9190476\charrsid10565788  the}{\f0\insrsid3083065\charrsid10565788  necessary inquiries.  In fact that is }{\f0\insrsid9190476\charrsid10565788 in}{
+\f0\insrsid3083065\charrsid10565788  my view what the learned Registrar went on to do at page 5 -7 of her ruling while answering the issue 
+\par 
+\par }{\i\f0\insrsid3083065\charrsid10565788 \tab \'93whether the Applicant is the proprietor of the unregistered mark in India?\rquote 
+\par }{\f0\insrsid3083065\charrsid10565788 
+\par I therefore with regard to grounds No.1 and 2 agree with counsel for the Appellant and find that his client could rely on the claim of fraud and in fact did give the necessary particulars of the said fraud in the various s
+tatutory declarations.  As to whether the Appellant discharged the standard of proof in proving the fraud however, that is another matter}{\f0\insrsid9190476\charrsid10565788  that would have been handled at the hearing}{
+\f0\insrsid3083065\charrsid10565788 .
+\par 
+\par On ground No. 3, it is the case for the appellant that the learned Registrar erred when she rejected the manufacturing licence presented to her at the hearing contrary to rule 112 and 113 of the Trade Mark Rules.  The Appellant referred me to }{
+\f0\insrsid14435847\charrsid10565788 page }{\f0\insrsid3083065\charrsid10565788 6 of the learned Registrar\rquote s ruling on this point.  Looking at }{\f0\insrsid14435847\charrsid10565788 page }{\f0\insrsid3083065\charrsid10565788 6 of the sai
+d ruling under the head
+\par 
+\par }\pard \s16\qj \li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid3083065\charrsid10565788 \'93(b)\tab Manufacturing licence and packaging\'94}{\i\f0\insrsid14435847\charrsid10565788  }{
+\f0\insrsid3083065\charrsid10565788  }{\f0\insrsid4653264\charrsid10565788 
+\par }{\f0\insrsid15167441\charrsid10565788 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4653264\charrsid10565788 The}{\f0\insrsid3083065\charrsid10565788  learned Registrar}{\f0\insrsid9388135\charrsid10565788 
+\rquote }{\f0\insrsid14435847\charrsid10565788 s }{\f0\insrsid3083065\charrsid10565788 quarre}{\f0\insrsid15295945\charrsid10565788 l}{\f0\insrsid3083065\charrsid10565788 
+ with the said licence was that it was not attached as evidence during the pleadings.  She further finds;
+\par 
+\par }\pard \s16\qj \li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid3083065\charrsid10565788 \'93\'85I would have expected the Applicant to request
+ for time during the pleadings to enable him file the licence and packaging.  This would have afforded the Respondent time to examine and responded to these documents.  I find that I cannot accept these documents and therefore the Applicant cannot rely on
+ them}{\i\f0\insrsid14435847\charrsid10565788 ,}{\i\f0\insrsid3083065\charrsid10565788  as evidence can only be brought in during the pleadings, by way of statutory declaration and not after the close of submissions as in the present case\'85\'94
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid3083065\charrsid10565788 Counsel for the }{\f0\insrsid4000763\charrsid10565788 
+Appellant does concede that the said licence was not attached to the statutory de
+claration of Mr. Anand Goel.  He however, did state that the said licence and its number was referred to therein.  His main legal argument to me seems to be that such evidence is permitted by rules 112 and 113 of the Trade Mark Rules which do not fix a ti
+me limit when a document is to be put on record.}{\f0\insrsid3083065\charrsid10565788 
+\par }{\f0\insrsid4000763\charrsid10565788 
+\par Counsel for the Respondent submits that evidence cannot be brought after submissions have been made.  In the alternative he also disputes the licence as a manufacturing licence but says that it looks like a trading licence instead.  }{
+\f0\insrsid4653264\charrsid10565788 
+\par 
+\par }{\f0\insrsid4000763\charrsid10565788 I shall now address these legal arguments.}{\f0\insrsid4653264\charrsid10565788   }{\f0\insrsid4000763\charrsid10565788 
+To my mind the issue is not whether the Appellant could rely on rules 112 and 113 of the Trade Mark Rules to adduce evidence of the said licence.  It appears to me that the legal argument is at what sta}{\f0\insrsid15419069\charrsid10565788 g}{
+\f0\insrsid4000763\charrsid10565788 e during the proceedings can this evidence be adduced}{\f0\insrsid9388135\charrsid10565788 ?}{\f0\insrsid4000763\charrsid10565788 
+  Counsel for the Appellant seems to suggest that this can be done at any time including after the submissions have closed; in any event the evidence had already been deponed to.
+\par 
+\par Wit
+h the greatest of respect I cannot see how the learned Registrar can continue to receive evidence after submissions have been made to her.  The Registrar is in a quasi Judicial Status and must apply her mind judiciously with regard to due process fairness
+ and equity.  The onus was on the Applicant/Appellant to produce all the evidence he/it sought to rely on during the hearing and not after the submission}{\f0\insrsid4653264\charrsid10565788 s}{\f0\insrsid4000763\charrsid10565788 
+.  In this regard the learned Registrar found properly with due regard to the law and practice at hearings.  In any event rule 53 (imported by rule 83) of the Trade Mark Rules and in particular rule 53 (2) specifically provides;
+\par 
+\par }\pard \s16\qj \li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid4000763\charrsid10565788 \'93(2)\tab The original exhibits shall be produced }{\i\f0\ul\insrsid4000763\charrsid10565788 
+at the hearing}{\i\f0\insrsid4000763\charrsid10565788  unless the Registrar otherwise directs\'85\'94  }{\f0\insrsid4000763\charrsid10565788 (emphasis mine).}{\i\f0\insrsid4000763\charrsid10565788 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid4000763\charrsid10565788 
+\par Clearly this is not what happened as the licence as an exhibit came after the actual hearing.
+\par 
+\par On ground number 4 it is the case for the Appellants that the Registrar erred in law when she rejected the packaging of Eldena when it had been described in the statutory declaration of Anand Goel with a pho}{\f0\insrsid9573871\charrsid10565788 
+tocopy of it attached as annex \lquote C\rquote }{\f0\insrsid4000763\charrsid10565788 .  Counsel for the Appellant }{\f0\insrsid9573871\charrsid10565788 refers me to the Registrar\rquote s ruling }{\f0\insrsid4653264\charrsid10565788 at}{
+\f0\insrsid9573871\charrsid10565788  para (b) of the page 6 on this ground.  A look at the ruling shows as in the case of the licence that the packaging was not attached as evidence }{\f0\insrsid4653264\charrsid10565788 with}{
+\f0\insrsid9573871\charrsid10565788  the pleading but was sent after submissions were closed.}{\f0\insrsid4000763\charrsid10565788 
+\par }{\f0\insrsid9573871\charrsid10565788 
+\par Counsel for the Appellant does not agree but states that a photocopy of the packaging was attached as annex \lquote C\rquote  to the statutory declaration.  He further argues that
+ the purpose of presenting the packaging during submissions was to enable the Registrar to compare the}{\f0\insrsid4653264\charrsid10565788  physical}{\f0\insrsid9573871\charrsid10565788  }{\b\f0\ul\insrsid9573871\charrsid10565788 get up}{
+\f0\insrsid9573871\charrsid10565788  of the }{\f0\insrsid4653264\charrsid10565788 product}{\f0\insrsid9573871\charrsid10565788  with the get up of the registered mark on file}{\f0\insrsid4653264\charrsid10565788 .}{\f0\insrsid9573871\charrsid10565788 
+
+\par 
+\par Counsel for the Respondent denies that Registrar erred as alleged and further submitted }{\f0\insrsid4653264\charrsid10565788 that }{\f0\insrsid9573871\charrsid10565788 adducing the packaging of the product does not prove }{
+\f0\insrsid4653264\charrsid10565788 its }{\f0\insrsid9573871\charrsid10565788 ownership.
+\par The}{\f0\insrsid3697795\charrsid10565788 s}{\f0\insrsid9573871\charrsid10565788 e are }{\f0\insrsid8203387\charrsid10565788 clearly }{\f0\insrsid9573871\charrsid10565788 
+similar legal issues in ground 4 as they are in ground 3.  I have already found that evidence must be presented during the hearing and not at submissi
+ons.  The only difference in this respect is that a photocopy of the packaging did form part of the statutory evidence which was not the case of the licence.
+\par 
+\par Rule 53 of the Trade Mark Rules provides how exhibits should be handled.  Whereas rule 53(1) does
+ allow for copies and impressions to be used as exhibits to declarations, rule 53(2) also provides that the original exhibits shall be produced at the hearing unless the Registrar otherwise directs.
+\par 
+\par }{\f0\insrsid8203387\charrsid10565788 I}{\f0\insrsid9573871\charrsid10565788 t is not clear whether the parties and or Registrar add
+ressed themselves to this rule.  However, what is clear is that the record does not show that the Registrar gave directions that the parties could rely on the }{\f0\insrsid8203387\charrsid10565788 photo}{\f0\insrsid9573871\charrsid10565788 
+copy of the packaging and/or that the}{\f0\insrsid8203387\charrsid10565788  actual}{\f0\insrsid9573871\charrsid10565788  packaging could be sent later i.e. during submissions.  That being the case rule 53(2) was not complied with so }{
+\f0\insrsid15419069\charrsid10565788 the }{\f0\insrsid9573871\charrsid10565788 Registrar is correct to insist that the original packaging was not brought at the }{\f0\insrsid8203387\charrsid10565788 time of the }{\f0\insrsid9573871\charrsid10565788 
+hearing.  I therefore find that the ground too should fail.
+\par 
+\par As the ground 5 it is the case for the Appellant that the learned Registrar erred when she rejected the Power of Attorney given to Mr. Anand Goel by the Appellant.  The Registrar in her ruling found with respect to the Power of Attorney;
+\par }\pard \s16\qj \li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\f0\insrsid15295945\charrsid10565788 
+\par }{\i\f0\insrsid9573871\charrsid10565788 \'93\'85that the Applicant appointed Mr. Anand Goel as its agent on July 30}{\i\f0\super\insrsid9573871\charrsid10565788 th}{\i\f0\insrsid9573871\charrsid10565788 
+ 2004, after the Trade Mark had been registered.  I find that it is not relevant to the matter at hand because it is a document that was executed after the }{\i\f0\insrsid8203387\charrsid10565788     
+\par         }{\i\f0\insrsid9573871\charrsid10565788 registration of Eldena, which is the subject of this application.  In addition it does not provide any useful information for the issue at hand\'85\'94
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid9573871\charrsid10565788 
+\par Counsel for the Appellant submits that the Power of Attorney allowed Mr. Anand Goel to act as a representative of the Appellant in any action to protect the mark}{\f0\insrsid9782223\charrsid10565788  \'93Eldena\'94.  H
+e further submits that the Power of Attorney did provide useful information that the Appellant was the unregistered owner and proprietor of the mark \'93Eldena\'94 in India.}{\f0\insrsid9573871\charrsid10565788 
+\par }{\f0\insrsid9782223\charrsid10565788 
+\par Counsel for the Respondent also agreed with the Registrar that the Power of Attorney was irrelevant.
+\par 
+\par }{\f0\insrsid8203387\charrsid10565788 L}{\f0\insrsid9782223\charrsid10565788 ooking at the Power of Attorney }{\f0\insrsid8203387\charrsid10565788 I find }{\f0\insrsid9782223\charrsid10565788 that the learned Registrar made an over statement}{
+\f0\insrsid8203387\charrsid10565788  in this regard}{\f0\insrsid9782223\charrsid10565788 .  Whereas the said power does not state much other than appoint Mr. Anand Goel as the agent of the Appellant I find that she went too fa
+r in finding that this was irrelevant to the matter before her.  I do not place much on the said appointment being after the mark in question being registered as it seeks to appoint Mr. Anand Goel as an agent which inter alia is important for these }{
+\f0\insrsid8203387\charrsid10565788 rectification }{\f0\insrsid9782223\charrsid10565788 proceedings.}{\f0\insrsid8203387\charrsid10565788   In this regard the Power of Attorney was relevant}{\f0\insrsid3697795\charrsid10565788 
+ in defining who the parties to the proceedings were}{\f0\insrsid8203387\charrsid10565788 .}{\f0\insrsid9782223\charrsid10565788 
+\par 
+\par }{\f0\insrsid8203387\charrsid10565788 Moving away from procedural issues, g}{\f0\insrsid9782223\charrsid10565788 rounds 6, 7, 8, 9, 10, 11 and 12 all revolve around the}{\f0\insrsid8203387\charrsid10565788  substantive}{
+\f0\insrsid9782223\charrsid10565788  issue of who is entitled t
+o be registered as owner of the Trade Mark Eldena.  Looking at the grounds together, it is the case of the Appellant that the Respondent did not coin the name or manufacture the Eldena products.  It is the case for the Appellant that it coined the name an
+d manufacture}{\f0\insrsid8203387\charrsid10565788 s}{\f0\insrsid9782223\charrsid10565788 
+ the Eldena products in India and so the Respondent should have sought the prior consent of the Appellant in order to register the mark in Uganda.  Counsel for the Respondent submits that the said mark was only registered by default as an init
+ial attempt by M/s Eurokent to oppose }{\f0\insrsid8203387\charrsid10565788 it }{\f0\insrsid9782223\charrsid10565788 was not effectively done.
+\par 
+\par Counsel for the Appellant also submitted that the Respondent only asserts ownership of the mark by reason of }{\f0\insrsid3697795\charrsid10565788 its }{\f0\insrsid9782223\charrsid10565788 registration}{\f0\insrsid3697795\charrsid10565788  in Uganda}{
+\f0\insrsid9782223\charrsid10565788 .  He further submits that the Respondent does not assert that it coined the word or manufacture}{\f0\insrsid8203387\charrsid10565788 s}{\f0\insrsid9782223\charrsid10565788 
+ the product Eldena.  He also submits that there is evidence that other persons were dealing in goods under the mark }{\f0\insrsid8203387\charrsid10565788 Eldena }{\f0\insrsid9782223\charrsid10565788 in Uganda like
+\par \tab M/S INC3 International
+\par \tab M/S Roopa Enterprises
+\par \tab M/S Eurokent
+\par which is sufficient cause for the Respondent not to have exclusive rights to the mark.
+\par 
+\par Counsel for the Respondent in general agreed with the findings of the learned Registrar.  He submitted that the Appellants had not proved ownership of the mark as alleged.  Counsel for the Respondent further submitted that the Respondent }{
+\f0\insrsid8203387\charrsid10565788 properly }{\f0\insrsid9782223\charrsid10565788 registered the mark according to the law.
+\par 
+\par The said grounds raised the legal question as to who is entitled to be registered as a trade mark owner.  Section 19 of the Trade Mark Act (cap 217) provides
+\par 
+\par }{\f0\insrsid15167441\charrsid10565788 
+\par 
+\par 
+\par }\pard \s16\qj \li187\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin187\itap0\pararsid10565788 {\i\f0\insrsid9782223\charrsid10565788 \'93(1) \'85}{\i\f0\ul\insrsid9782223\charrsid10565788 
+Any person claiming to be proprietor of a trademark he or she has used or proposes to use}{\i\f0\insrsid9782223\charrsid10565788  who is desirous }{\i\f0\insrsid13401471\charrsid10565788 of registering it must apply in writing to the }{
+\i\f0\insrsid3568160\charrsid10565788 
+\par }\pard \s16\qj \fi187\li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\i\f0\insrsid13401471\charrsid10565788 Registrar in the prescribed manner for registration either in part A or in part B of the }{
+\i\f0\insrsid3697795\charrsid10565788 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\i\f0\insrsid3697795\charrsid10565788   }{\i\f0\insrsid13401471\charrsid10565788 register\'85\'94 }{\f0\insrsid13401471\charrsid10565788 
+(emphasis mine).}{\f0\insrsid9782223\charrsid10565788 
+\par }{\f0\insrsid13401471\charrsid10565788 
+\par According to Halsbury\rquote s Laws of England 3}{\f0\super\insrsid13401471\charrsid10565788 rd}{\f0\insrsid13401471\charrsid10565788  Ed Vol. 38 para 909 lists inter alia the following persons as entitled or / not entitled to apply.
+\par 
+\par }\pard \s16\qj \li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid13401471\charrsid10565788 \'93\'85The person who }{\i\f0\ul\insrsid13401471\charrsid10565788 first designed}{
+\i\f0\insrsid13401471\charrsid10565788  or used the mark is subject to any rights subsequently acquired by others, entitled to claim proprietorship in it.  No person is entitled to put the mark of another person on the register.  }{
+\i\f0\insrsid15295945\charrsid10565788 
+\par }\pard \s16\qj \fi28\li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid13401471\charrsid10565788 An agent or representative may not register the trade mark of a principal in his own name
+\'85.. }{\i\f0\ul\insrsid13401471\charrsid10565788  An importer of goods}{\i\f0\insrsid13401471\charrsid10565788  may register as his own a trade mark used abroad by a foreign manufacturer of those goods but not previously used in the United Kingdom\'85
+\'94}{\f0\insrsid13401471\charrsid10565788  (emphasis mine).
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid13401471\charrsid10565788 
+\par The paragraph which interprets S.4(1) of the English Trade Mark Act 1938 which is similar to Section 19 of the Uganda Act (cap 217) goes on to state the following test to be applied on registration.
+\par 
+\par }\pard \s16\qj \li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid13401471\charrsid10565788 \'93\'85
+The applicant must have used the trade mark or have a bona fide present and definite intention to use it\'85\'94
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid13401471\charrsid10565788 
+\par The present Respondent claims to be an importer of the Eldena products in Uganda and so }{\f0\insrsid8203387\charrsid10565788 is }{\f0\insrsid13401471\charrsid10565788 entitled to register the said mark as his own.  Evidence adduced before the Registr}{
+\f0\insrsid15419069\charrsid10565788 ar}{\f0\insrsid13401471\charrsid10565788  in the proceedings below shows in the }{\f0\insrsid3697795\charrsid10565788 statutory }{\f0\insrsid13401471\charrsid10565788 
+declaration in rejoinder (interestingly by the Applicant) that the
+ Respondent indeed is an importer (see para 6(iv) thereof) of Eldena products in Uganda at least since 2003 (not too long before the mark was registered in Uganda in 2004).  However, the evidence shows that the Respondent imported the Eldena products from
+ a company in India called M/S INC 3 International (annex \'93C 2\'94) which in turn had previous bought those products from the App}{\f0\insrsid8203387\charrsid10565788 ellant }{\f0\insrsid13401471\charrsid10565788 also in India (annex \'93C 1\'94
+).  The }{\f0\insrsid8203387\charrsid10565788 Respondent}{\f0\insrsid13401471\charrsid10565788  does not seem to deny this evidence though it does state }{\f0\insrsid8203387\charrsid10565788 that }{\f0\insrsid13401471\charrsid10565788 its business}{
+\f0\insrsid1576786\charrsid10565788  associate M/S An}{\f0\insrsid8203387\charrsid10565788 cho}{\f0\insrsid1576786\charrsid10565788 r Industries Ltd (Registered in Uganda) has also applied to have the mark Eldena registered in India}{
+\f0\insrsid8203387\charrsid10565788  which application is still pending}{\f0\insrsid1576786\charrsid10565788 .  Counsel for the }{\f0\insrsid1070152\charrsid10565788 Applicant}{\f0\insrsid1576786\charrsid10565788  Mr. Kibuuka Musoke faults the Respondent 
+}{\f0\insrsid12325179\charrsid10565788 for not }{\f0\insrsid8203387\charrsid10565788 showing }{\f0\insrsid12325179\charrsid10565788 (under item (e) of F}{\f0\insrsid2047220\charrsid10565788 o}{\f0\insrsid12325179\charrsid10565788 rm T.M 2) in}{
+\f0\insrsid1839683\charrsid10565788  the}{\f0\insrsid12325179\charrsid10565788  application to register the mark, whether the said mark was }{\i\f0\insrsid1839683\charrsid10565788 \'93}{\i\f0\insrsid12325179\charrsid10565788 
+being used or proposed to be used}{\i\f0\insrsid1839683\charrsid10565788 \'94}{\i\f0\insrsid2047220\charrsid10565788  }{\f0\insrsid2047220\charrsid10565788 in Uganda.}{\i\f0\insrsid13401471\charrsid10565788 
+\par }{\f0\insrsid12325179\charrsid10565788 
+\par As to propri}{\f0\insrsid2047220\charrsid10565788 etorship of the mark by the Appellant}{\f0\insrsid12325179\charrsid10565788 , the }{\f0\insrsid2047220\charrsid10565788 Appellant }{\f0\insrsid12325179\charrsid10565788 
+claims to be the manufacturer of the product Eldena with an application pending for its registration in India since 1995 }{\f0\insrsid14950461\charrsid10565788 (annex A1).  A receipt of a search in the Government of India Trade Marks Registry dated 29}{
+\f0\super\insrsid14950461\charrsid10565788 th}{\f0\insrsid14950461\charrsid10565788  November 2004 shows three pending applications for the registration of the mark Eldena as a cosmetic under class 3 namely;}{\f0\insrsid12325179\charrsid10565788 
+\par }{\f0\insrsid14950461\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid14950461\charrsid10565788 \hich\af0\dbch\af0\loch\f0 i)\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls47\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid14950461\charrsid10565788 No. 504339 by one Neelam Kapur of WP \endash  505, Ashok Rihar, Shiv Market, Delhi \endash 
+ 110052 (unknown to these proceedings and without a date of application).
+\par }\pard \s16\qj \li360\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid10565788 {\f0\insrsid15295945\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid14950461\charrsid10565788 \hich\af0\dbch\af0\loch\f0 ii)\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls47\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid14950461\charrsid10565788 No. 663237 by Shri Chander Mohan Kapur of A \endash  \'bc Mehendroo Enclave, GT Karnal Road, Delhi \endash 
+ 110009 (the applicant in these proceedings who states the application has been pending since 1995).
+\par }\pard \s16\qj \li360\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid10565788 {\f0\insrsid15295945\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid14950461\charrsid10565788 \hich\af0\dbch\af0\loch\f0 iii)\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls47\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid14950461\charrsid10565788 
+No. 130972 by M/s Anchor Industries Ltd of P. O. Box 12580 Kampala Uganda East Africa (evidence shows that this application was made on or about the 1}{\f0\insrsid7866500\charrsid10565788 6}{\f0\super\insrsid14950461\charrsid10565788 th}{
+\f0\insrsid14950461\charrsid10565788  September, 2004).
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid14950461\charrsid10565788 
+\par Clearly none of the above is the registered proprietor of the Trade Mark Eldena in India.  That notwithstanding}{\f0\insrsid7866500\charrsid10565788 , }{\f0\insrsid14950461\charrsid10565788 clearly }{\f0\insrsid7866500\charrsid10565788 
+there is, as the case in Uganda, }{\f0\insrsid14950461\charrsid10565788 a scrabble to have the mark registered}{\f0\insrsid7355003\charrsid10565788  in India.  I don\rquote t understand why this has taken long to be resolved in India.}{
+\f0\insrsid14950461\charrsid10565788 
+\par }{\f0\insrsid7355003\charrsid10565788 
+\par }{\f0\insrsid7866500\charrsid10565788 However,}{\f0\insrsid7355003\charrsid10565788  looking at the evidence as a whole it is reasonable to reach the finding that the App}{\f0\insrsid7866500\charrsid10565788 ellant and not the Respondent}{
+\f0\insrsid7355003\charrsid10565788  is the manufacturer of the said Eldena products.
+\par 
+\par Under the law broadly therefore, both the Respondent as a trader}{\f0\insrsid7866500\charrsid10565788 /Importer }{\f0\insrsid7355003\charrsid10565788 and the App}{\f0\insrsid7866500\charrsid10565788 ellant}{\f0\insrsid7355003\charrsid10565788 
+ as a manufacturer are }{\f0\insrsid7866500\charrsid10565788 both }{\f0\insrsid7355003\charrsid10565788 entitled to claim proprietorship of the mark and register it.  As to the test of having }{\i\f0\insrsid7355003\charrsid10565788 \'93\'85
+have(ing) used the Trade Mark or have(ing) a }{\i\f0\ul\insrsid7355003\charrsid10565788 bona fide}{\i\f0\insrsid7355003\charrsid10565788  present and definite intenti}{\i\f0\insrsid7866500\charrsid10565788 on to use it \'85\'94}{
+\f0\insrsid7866500\charrsid10565788  (emphasis mine), i}{\f0\insrsid7355003\charrsid10565788 n Uganda in my view would revolve around how one would interpret the term \'93use\'94 or \'93used\'94
+.  Even though the Respondent did not properly fill in the application form TM 2 in this respect, there is evidence that he had used the pro}{\f0\insrsid2901767 duct, al}{\f0\insrsid7355003\charrsid10565788 
+beit for a short time, by way of importing it into Uganda.
+\par 
+\par The App}{\f0\insrsid7866500\charrsid10565788 ellant on the other hand}{\f0\insrsid7355003\charrsid10565788 
+ of course did not import the goods into Uganda nor directly export them either.  (The evidence shows that third parties in India like INC 3 International and Savachem Surfactants (P) Ltd were the direct exporters}{\f0\insrsid7866500\charrsid10565788 
+ but they in turn also got the products from the Appellant}{\f0\insrsid7355003\charrsid10565788 ).  Can it therefore be said for those reasons the app}{\f0\insrsid7866500\charrsid10565788 ellant}{\f0\insrsid7355003\charrsid10565788 
+ has not used the goods in Uganda?  I think in trade matters such as these you cannot afford to give such a }{\f0\insrsid7866500\charrsid10565788 narrow}{\f0\insrsid7355003\charrsid10565788  }{\f0\insrsid3697795\charrsid10565788 interpretation}{
+\f0\insrsid7355003\charrsid10565788  to the term }{\i\f0\insrsid7866500\charrsid10565788 \'93}{\i\f0\insrsid7355003\charrsid10565788 use}{\i\f0\insrsid7866500\charrsid10565788 \'94}{\i\f0\insrsid7355003\charrsid10565788 .  }{
+\f0\insrsid7355003\charrsid10565788 I think the App}{\f0\insrsid2047220\charrsid10565788 ellant}{\f0\insrsid7355003\charrsid10565788  can rightly claim that its products Eldena are used in Uganda}{\f0\insrsid7866500\charrsid10565788 
+, and therefore can also claim to be an aggrieved person within the meaning of S.34 of the Act}{\f0\insrsid7355003\charrsid10565788 .
+\par 
+\par So the real question is, whether it therefore boils down to which of the two entitled person registers the mark first i.e. first come first register.  The law allows under S.21 of the Trade Mark Act for a mark which has been applied for but
+\par }{\f0\insrsid15295945\charrsid10565788 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid7355003\charrsid10565788 \hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \s16\qj \fi-720\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls48\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid7355003\charrsid10565788 Which has not been opposed within the required time.
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid7355003\charrsid10565788 \hich\af0\dbch\af0\loch\f0 b)\tab}Opposed but decided in favour of the Applicant 
+\par {\listtext\pard\plain\s16 \lang1033\langfe1033\langnp1033\langfenp1033\insrsid7355003\charrsid10565788 \hich\af0\dbch\af0\loch\f0 c)\tab}}\pard \s16\qj \fi-706\li1080\ri0\sl360\slmult1\widctlpar
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls48\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid7355003\charrsid10565788 Not accepted in error.
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid7355003\charrsid10565788 
+to be registered.  On the evidence in the proceedings before the Registrar and this court I find that the mark though initially resisted was properly registered.
+\par 
+\par However that does not mean that the mark will necessarily stand, after the said registration.  }{\f0\insrsid8140441\charrsid10565788 Registration can subsequently be challenged by an application for rectification.  }{\f0\insrsid7355003\charrsid10565788 
+Halsbury\rquote s Law of England Vol 38 (supra) at para 951 states
+\par }\pard \s16\qj \fi720\li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid7355003\charrsid10565788 \'93\'85An appl
+ication to rectify is the proper method of raising the question of ownership of a trade mark\'85\'94
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid7355003\charrsid10565788 
+\par This is the procedure that the App}{\f0\insrsid8140441\charrsid10565788 ellant}{\f0\insrsid7355003\charrsid10565788  has taken.  Looking at the evidence as a whole I find that there was sufficient cause to raise doubt and confusion as t
+o the true owner of the mark.  Whereas I see that the app}{\f0\insrsid8140441\charrsid10565788 ellant}{\f0\insrsid7355003\charrsid10565788  did not technically produce all the evidence he wanted, what}{\f0\insrsid8140441\charrsid10565788  was}{
+\f0\insrsid7355003\charrsid10565788  on record}{\f0\insrsid8140441\charrsid10565788  before the Registrar was }{\f0\insrsid7355003\charrsid10565788 enough.}{\f0\insrsid8140441\charrsid10565788 
+  There is evidence for example that the Respondent imports Eldena products from M/S INC3 International in India who in turn buys the Eldena products from the present Appellant.}{\f0\insrsid7355003\charrsid10565788 
+\par 
+\par In these circumstances the court is enjoined under S.34 of the Trade Mark Act to make such orders as it may think fit.  I interpret this to mean that court is to make such orders as it thinks are \'93just and equitable\'94.
+\par }{\f0\insrsid13117970\charrsid10565788 
+\par }{\f0\insrsid7355003\charrsid10565788 Halsbury\rquote s Law of England Vol}{\f0\insrsid2047220\charrsid10565788 .}{\f0\insrsid7355003\charrsid10565788  38 (supra) at para 9}{\f0\insrsid12019780\charrsid10565788 67 states}{
+\f0\insrsid7355003\charrsid10565788 
+\par }{\f0\insrsid12019780\charrsid10565788 
+\par \tab }{\i\f0\insrsid12019780\charrsid10565788 \'93}{\i\f0\ul\insrsid12019780\charrsid10565788 Hearing of application for rectification}{\i\f0\insrsid12019780\charrsid10565788 
+\par }\pard \s16\qj \li720\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10565788 {\i\f0\insrsid12019780\charrsid10565788 If the applicant establishes his case, the tribunal (}{\i\f0\insrsid3697795\charrsid10565788 
+\'93}{\i\f0\insrsid12019780\charrsid10565788 or court}{\i\f0\insrsid3697795\charrsid10565788 \'94}{\i\f0\insrsid12019780\charrsid10565788  addition mine) may order the mark to be expunged, the registration to be varied or limited, or transferred\'85
+ a disclaimer to be entered, or an assignment to be registered or expunged.  The tribunal has, however, a discretion as to making an order, and will not in general order a mark to be expunged if it could validly be re-registered\'85\'94}{
+\i\f0\insrsid7355003\charrsid10565788 
+\par }\pard \s16\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 {\f0\insrsid12019780\charrsid10565788 
+\par Taking all the evidence and authorities into consideration I find that it is fitting that the mark be registered a fresh so that the proprietor and in particular the manufacturer of products }{\i\f0\insrsid12019780\charrsid10565788 \'93Eldena\'94}{
+\f0\insrsid12019780\charrsid10565788  be allowed to register the said mark.
+\par 
+\par The last ground No. 13 that the learned Registrar did not deliver her ruling within the 60 days as directed by this court was abandoned.
+\par 
+\par That being the case and taking my findings into account I hereby order that the register with respect to trade mark No. 26496 }{\i\f0\insrsid12019780\charrsid10565788 \'93Eldena\'94}{\f0\insrsid12019780\charrsid10565788 
+ be rectified by canceling the present registration but allowing its re-registration by its proprietor who is the manufacturer}{\f0\insrsid7157044\charrsid10565788  i.e. M/S British Herbal Cosmetics}{\f0\insrsid12019780\charrsid10565788 .
+\par 
+\par I further order, pursuant to Section 34(4) of the Trade Mark Act (cap 217) that a notice of this order of rectification be served on The Registrar of Trade Marks to rectify the register accordingly.
+\par Since the Appellant has been successful I grant the costs of the app}{\f0\insrsid2047220\charrsid10565788 eal}{\f0\insrsid12019780\charrsid10565788  to the Appellant.
+\par }\pard \s16\qj \li1080\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1080\itap0\pararsid10565788 {\f0\insrsid11275101\charrsid10565788 
+\par 
+\par }{\f0\insrsid1800655\charrsid10565788 
+\par }{\f0\insrsid15295945\charrsid10565788 
+\par }{\f0\insrsid11275101\charrsid10565788 
+\par }\pard\plain \s21\qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10565788 \i\f35\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\i0\f0\insrsid12344399\charrsid10565788 Geoffrey Kiryabwire
+\par JUDGE
+\par }{\i0\f0\insrsid12344399\charrsid10565788 
+\par 
+\par }{\b\i0\f0\insrsid12344399\charrsid10565788 Date: }{\b\i0\f0\insrsid12587353\charrsid10565788   }{\b\i0\f0\insrsid11143359\charrsid10565788 31/10/2007}{\i0\f0\insrsid12344399\charrsid10565788 
+\par }}
