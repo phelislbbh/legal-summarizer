@@ -1,0 +1,59 @@
+Trust Bank Ltd v Eros Chemists Ltd
+
+Division: Court of Appeal of Kenya at Nairobi
+
+Date of judgment: 30 June 2000
+
+Case Number: 133/99
+
+Before: Gicheru, Omolo, Lakha, Bosire and Keiwua JJA
+
+Sourced by: LawAfrica
+
+Summarised by: H K Mutai
+
+[1] Mortgage  Mortgagees statutory power of sale  Mandatory notice of sale to mortgagor  Purpose
+
+of the statutory notice  Requirements for a valid notice  Three months from service of notice  Whether
+
+a notice that provided for a lesser period was valid  Section 69A  Transfer of Property Act of 1882
+
+(India).
+
+[2] Practice  Precedent  Existence of conflicting Court of Appeal judgments  Previous decisions
+
+ordinarily binding on the Court  Court retains the discretion to depart from previous decision when
+
+necessary.
+
+Editors Summary
+
+Trust Bank held a legal charge over property owned by the Respondent (the Plaintiff in the court a quo) in Westlands, Nairobi. On 24 March 1999 a firm of auctioneers acting on the banks instructions advertised the property for sale by public auction to be held on 8 April 1999. The Respondent/Plaintiff then filed a suit against the bank and the auctioneers seeking a declaration that the intended sale was illegal. Simultaneously with the filing of the suit, the Respondent/Plaintiff applied for an interlocutory injunction restraining the intended sale, on the ground that it (the Respondent/Plaintiff) had not been served with a mandatory notice of sale pursuant to section 69A(1) of the Indian Transfer of Property Act.
+
+The bank replied that it had served the required notice by its advocates letters to the Respondent/Plaintiff dated 2 January and 5 February 1999. On 27 April 1999 the trial Judge granted the application holding, inter alia, that none of the notices from the banks advocates constituted the notice required under section 69A(1), hence the Respondent/Plaintiff had a prima facie case with a probability of success. The trial Judge also found that the Plaintiff had not come to court with clean hands as its managing director had not been honest when he said that the first time he came to know of the sale was when he read of it in the press. On appeal.
+
+Held  The crucial issue before the Court was what constituted a valid notice under section 69A(1). The existence of conflicting decisions of the Court of Appeal on the issue in Russell Co Ltd v Commercial
+
+Bank of Africa Ltd and another [1991] LLR 1415 (CAK) and Trust Bank Limited v Okoth [2000] 1 EA
+
+274 (CAK) raised difficult questions because the Court, as a matter of judicial policy and being the final
+
+Court of Appeal for Kenya, would normally regard a previous decision of its own as binding. However, the Court was free in both civil and criminal cases to depart from a previous decision when it appeared right to do so.
+
+The object of a notice to sell under section 69A(1) was to guard the mortgagors rights, because if the statutory right of sale was exercised the mortgagors equity of redemption would be extinguished.
+
+Accordingly there was a positive and mandatory requirement that a valid notice of sale of charged property had to expressly state that the sale would take place after a three-month period following service of notice had elapsed; Russell Co Ltd v Commercial Bank of Africa Ltd and another [1991] LLR 1415
+
+(CAK) overruled. The trial Judge had not erred in finding that irreparable damage had not been established and that the managing director of the Respondent/Plaintiff had been dishonest hence there were no grounds for interfering with his exercise of discretion. The appeal was therefore dismissed.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+Russell Co Ltd v Commercial Bank of Africa Ltd and another [1991] LLR 1415 (CAK)  O
+
+Trust Bank Limited v Okoth [2000] 1 EA 274 (CAK)

@@ -1,0 +1,53 @@
+Gitwany Investment Limited v Tajmal Limited and others
+
+Division: High Court of Kenya at Nairobi
+
+Date of judgment: 12 May 2006
+
+Case Number: 1114/02
+
+Before: Lenaola J
+
+Sourced by: LawAfrica
+
+Summarised by: R Rogo
+
+[1] DamagesProof of special damages  How to prove the mesne profits and rent  Quantification of general damages. [2] Land  Issuance of two separate titles to two separate persons over the same suit premises  Person legally entitled to the property. [3] Land  Trespass to land  Whether lack of knowledge is defence to trespass  Issues to be proved in a claim for trespass  Issues to be considered when quantifying the amount of special damages payable. 
+
+
+
+Editors Summary The suit relates to ownership of a piece of land in Githunguri Road, Kileleshwa in Nairobi. It was the plaintiffs case that it had been allocated a Certificate of Lease for 99 years issued under the Registration of Titles Act to residential plot number 209/3088 by the Commissioner of Lands. However subsequently a block of flats were constructed on the parcel of land and a search at the Lands Registry revealed that another title over the same property had been issued to Tajmal Limited before cancellation of the plaintiffs title. The first defendant, on the other hand, stated that the land had been transferred to it after purchasing it from the second and third defendants, holders of the Certificate of Lease, for consideration of KShs 10 million. The land title had also been changed to Land Reference number 209/3088. After a dispute arose between the parties, the Commissioner of Lands wrote claiming that the plaintiffs title was doubtful; although it had been registered and that the first defendant had the lawful title. The plaintiff filed suit seeking inter alia a permanent injunction restraining the defendant from constructing on the land and a mandatory injunction requiring it to demolish all the structures and buildings on the land; special damages of KShs 30 million and interest. The Commissioner of Lands was enjoined as a third party and, while admitting that two allocation letters had been issued to both the plaintiff and the first defendant in respect of Land Reference number 209/3088, he contended that the first defendant had the real title to the land. 
+
+
+
+Held  Land Reference number 209/3088 is in fact the same on the ground as Land Reference number 209/12004. Hence both the plaintiff and the first defendant were provided with two different titles over the same property by the Commissioner of Lands. There is no evidence that either the plaintiff or the first defendant acted fraudulently or that any of them misrepresented any facts and which then led them to obtain fraudulent titles. The entire mess in which the parties find themselves in is a creation of and a matter that must be put squarely at the doorstep of the Commissioner of Lands. In equity, the first in time prevails so that in the event, such as this one where, by a mistake that is admitted, the Commissioner of Lands issues two titles in respect of the same parcel of land, then if both are apparently and on the face of them, issued regularly and procedurally without fraud save for the mistake, then the first in time must prevail. It must prevail because without cancellation of the original title, it retains its sanctity. (Ngok v Keiwua and others [1996] LLR 1371 (CAK); Wreck Motors Enterprises v Commissioner of Lands [1997] LLR 546 (CAK); Faraj Maharus v JB Martin Class Industries and others civil appeal number 130 of 2003 [UR] applied). Whereas the first title cannot be challenged, the second one can be challenged because whereas it exists and even if procedurally issued it is not absolute nor indefeasible and is relegated to a level of legal disability and the remedy for a party holding it if aggrieved lies elsewhere. Trespass can apply as against the first defendant prior to its nullification of title. The legal possession established by the plaintiff entitles it to possession against all other parties that have shown no better title than its own. The first defendant falls in this category and once its title is found to be invalid it can only be termed a trespasser. (Wuta-Ofei v Danquah [1961] 3 All ER 596; Moya Drift Farm Limited v Theuri [1973] EA 114 followed). No party save the plaintiff with its authority should have any right to enter therein and attempt any construction thereon. Once a transferee such as the first defendant makes improvements on land believing in good faith that it was absolutely entitled to do so, once its title is faulted, then it must be evicted. However, the peculiar circumstances of this case necessitate that neither the plaintiff nor the first defendant should meet the costs of doing so but the party that caused them the inconvenience should do so hence the third Party should bear the costs. The plaintiff has failed to strictly prove the amount of KShs 30 000 000 claimed as special damages. Without such proof the claim for special damages must fail. (Siree and another v Lake Turkana Lodges Limited [1998] LLR 820 (CAK) followed). The ordinary letting value of the property for the period from the date of notice to vacate the land until the date of delivery of possession by the trespasser would be the value of general damages for trespass and mesne profits (Sword Health Properties Limited v Tabet and others [1979] All ER 241; Moya Drift Farm Limited v Theuri [1973] EA 114 applied). However without a firm basis of evidence of the monthly expected income, the court cannot speculate on the amount of general damages. Hence the same is dismissed. By its actions the Commissioner of Lands together with the Registrar of Titles led the second and the third defendants to believe that the suit land was vacant and available for them to take over. It then proceeded to issue title six years after a valid title had already been issued to the plaintiff. Hence the Commissioner is wholly liable to the first defendant for the sum of KShs 151 500 000 as the value of the property plus improvements thereon by the first defendant. The structures on the suit premises constructed by the first defendant should be removed within 90 days at the cost of the third party, the Commissioner of Lands.
+
+The third party shall bear the costs of the suit to the plaintiff and the first defendant.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Faraj Maharus v JB Martin Glass Industries and others civil appeal 130 of 2003 (UR)  AP
+
+Hunter and others v Canary Wharf Limited UKHL decision of 24 April 1997
+
+Moya Drift Farm Limited v Theuri [1973] EA 114  AP and F
+
+Ngok v Keiwua and others [1996] LLR 1371 (CAK)  AP
+
+Ratwani v Deganela (1956) 17 EACA 37
+
+Siree and another v Lake Turkana Lodges Limited [1998] LLR 820 (CAK)  F
+
+Sword Health Properties Limited v Tabet and others [1979] All ER 241  AP
+
+Wreck Motors Enterprises v Commissioner of Lands [1997] LLR 546 (CAK)  AP
+
+Wuta-Ofei v Danquah [1961] All ER 596  F

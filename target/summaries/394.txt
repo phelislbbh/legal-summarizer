@@ -1,0 +1,55 @@
+Raytheon Aircraft Credit Corporation and another v Air Al-Faraj Limited
+
+Division: Court of Appeal of Kenya at Nairobi
+
+Date of judgment: 8 July 2005
+
+Case Number: 29/99
+
+Before: Tunoi, Githinji and Onyango-Otieno JJA
+
+Sourced by: LawAfrica
+
+[1] Jurisdiction  Choice of law and exclusive jurisdiction clauses  Whether the High Court of Kenya
+
+can assume jurisdiction by virtue of section 60 of the Constitution  Procedure of objecting to court
+
+jurisdiction in Kenya.
+
+Editors Summary
+
+By lease purchase agreement dated 2 December 1997, the first appellant, a company incorporated under the laws of Kansas in the United States of America, leased to the respondent, a company duly incorporated in Kenya under the provisions of the Companies Act, an aircraft under the terms and conditions provided in the agreement. The respondent took possession of the aircraft in January 1998. On or about 19 June 1998 the second appellant, purporting to be acting on behalf of the first appellant and without informing the respondent and without due authority and legal cause flew the said aircraft out of the jurisdiction of Kenya to South Africa. The respondent, therefore, filed suit against the appellants. The appellants filed a defence in which they blamed the respondent for breach of the terms of the lease agreement. Alongside the plaint, the respondent filed an application by way of chamber summons under which an order was granted restraining the appellants jointly and severally from deregistering from Kenya Register, the subject aircraft (sic). When the application came for inter partes hearing, the basic ground of opposition raised by the appellants was that the court had no jurisdiction with respect to the matters, the subject of the application and suit since the agreement had a clause providing that it shall be governed by and construed in accordance with the law of the state of Kansas. 
+
+
+
+Held  Section 60(1) of the Constitution of the Republic of Kenya does not authorise the High Court to disregard private international law on the status of the choice of law and exclusive jurisdiction clauses in international commercial agreements and assume jurisdiction over persons outside Kenya. The High Court assumes jurisdiction over persons outside Kenya by giving leave on application by a plaintiff, to serve summons or notice of summons, as the case may be, outside the country under Order V, rule 23 and after such summons are served in accordance with the machinery stipulated therein. Even if the High Court assumes jurisdiction over a foreign defendant by granting leave to serve summons or notice of summons outside Kenya, the foreign defendant is entitled to challenge the jurisdiction of the High Court. Where parties have bound themselves by an exclusive jurisdiction clause, effect should ordinarily be given to that obligation unless the party suing in the non contractual forum discharges the burden cast on him by showing strong reasons for suing in that forum  Donohue v Armo INC [2002] 4 LRC 478, The Eleptheria [1969] 2 All ER 641 and United India Insurance Co Ltd v East African Underwriters (Kenya) Ltd [1985] KLR 898 followed. There are no rules of the court prescribing the procedure for challenging the jurisdiction of the High Court by a foreign defendant, who has been sued in this country in breach of contractual forum selection and the exclusive jurisdiction clause. The procedure used, is to enter a conditional appearance and then move the court for setting aside the process. Other accepted procedures are to enter appearance under protest and move the High Court for orders to stay proceedings, or, to file a defence under protest, file an application for stay or proceedings or striking out of proceedings and raising a preliminary objection to the suit before trial  Prabhadas (N) and Co v Standard Bank [1968] EA 679, United India Insurance Co Ltd v East African Underwriters (Kenya)] Ltd [1985] KLR 898, Fonville v Kelly III and others [2002] 1 EA 71 approved. Obiter  the rules committee should promulgate appropriate comprehensive rules of procedure to facilitate litigation in this area. Appeal allowed.
+
+
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Fonville v Kelly III and others [2002] 1 EA 71  APP
+
+Karachi Gas Company Ltd v Issaq [1965] EA 42
+
+Pattni v Ali and others High Court Civil case number 418 of 1998, (UR)
+
+Prabhadas (N) and Company v Standard Bank [1968] EA 679  APP
+
+United India Insurance Company Ltd v East African Underwriters (Kenya) Ltd [1985] KLR 898  APP
+
+and F
+
+United Kingdom
+
+Donohue v Armo Inc [2002] 4 LRC 478, HL  F
+
+The Eleptheria

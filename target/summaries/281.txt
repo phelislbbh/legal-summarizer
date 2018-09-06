@@ -1,0 +1,63 @@
+Meme v Republic
+
+Division: High Court of Kenya at Nairobi
+
+Date of judgment: 24 June 2004
+
+Case Number: 495/03
+
+Before: Rawal, Njagi and Ojwang JJ
+
+Sourced by: LawAfrica
+
+Summarised by: C Kanjama
+
+[1] Constitution  Procedure  Joinder of interested parties  Principles to be applied  Applicant sought declaration that Anti-Corruption Commission was unconstitutional  Whether natural justice and public interest required that Anti-Corruption Commission be joined  Protection of Fundamental Rights and Freedoms of Individual (Practice and Procedure) Rules 2001. [2] Constitution  Right of fair trial  New courts established to fight corruption  Powers of prosecution and investigation vested in new institutions  Whether constitutional  Whether prosecutorial and investigative powers exclusively vested in Attorney-General and Commissioner of Police  Nature of offence of abuse of office under Penal Code  Section 14(1)  Police Act (Chapter 84)  Section 26  Constitution of Kenya. [3] Statute  Interpretation Marginal note erroneous  Principle de minimis non curat lex  Whether special magistrates created under anti-corruption statute unconstitutional  Section 3  Anti-Corruption and Economic Crimes Act (number 3 of 2003). [4] Statute  Repeal and amendment  Whether previous statutory provision may be repealed by implication  Fresh offence of abuse of office created in new anti-corruption statute  Whether previous offence of abuse of office contained in Penal Code repealed. 
+
+
+
+Editors Summary The Applicant was an accused person in an anti-corruption case. He applied to the Constitutional Court by originating summons for a declaration that the prosecution of the said case had infringed his fundamental rights to due process. The Applicant claimed that the Anti-Corruption and Economic Crimes Act (number 3 of 2003) under which the Applicant had been charged was unconstitutional for being retrospective in application, and that the establishment, staffing and jurisdiction of the Anti-Corruption Court was irregular and unconstitutional. The Applicant had been charged with abuse of office contrary to the Penal Code. He was charged in an Anti-Corruption Court that had been administratively set up by a previous Chief Justice. One month subsequently, the Anti-Corruption and Economic Crimes Act came into effect. This Act defined corruption, hence the Applicant argued that previous offences could not be termed corruption or prosecuted in the Anti-Corruption Court. Further, the Applicant argued that the Anti-Corruption Commission and Court usurped the prosecutorial role and jurisdiction respectively of the constitutionally mandated Police Commissioner and courts, and were therefore invalid. The Anti-Corruption Commission applied to be joined as a party to the proceedings. Subsequently, the Respondents replied that the Anti-Corruption Court was merely an administrative entity, and that the Anti-Corruption Commission was not conducting prosecutorial functions. Nonetheless, it was argued that the Constitution did not restrict the exercise of prosecutorial functions by subordinate statutory bodies under the supervision of the Attorney-General. 
+
+
+
+Held (Per Rawal and Njagi JJ and Ojwang AJ)  The Court would allow joinder as an interested party of the Kenya Anti-Corruption Commission whose legality was in issue in this case. A Constitutional Court has the power to allow joinder as interested parties of all relevant stakeholders, particularly where a public interest issue is concerned. The joinder of the Commission also would satisfy the imperative of natural justice (Her Majesty the Queen v Imre Finta [1993] 1 SCR 1138 adopted, Departed Asians Property Custodian Board v Jaffer Brothers Ltd [1999] 1 EA 55 followed). While powers of prosecution and investigation are constitutionally vested in the Attorney-General and the Commissioner of Police, they may also be exercised by a subordinate body. The failure of Parliament to enact a sister constitutional amendment proposal when passing the anti-corruption statute did not mean that the statute offended the Constitution. However, the criminal proceedings in this case fell within the framework of the Penal Code, the constitutionality of which had not been impugned (Gachiengo v Republic [2000] 1 EA 67 doubted). The jurisdiction and personnel of the Anti-Corruption Court were exercising ordinary jurisdiction conferred on them by valid statutes. The special magistrates appointed under the anti-corruption statute were normal judicial officers appointed under the authority of Parliament. The Anti-Corruption Courts were simply courts of convenience established administratively and they would not shift the traditional burden of proof from the prosecution (Hinds and others v The Queen [1976] 1 All ER 353 and R v Carr-Briant [1943] 2 All ER 156 adopted). While marginal notes should be considered in interpreting Kenyan statutes, where there was a clear error in the marginal note, the principle de minimis non curat lex would be applied to cure the error (In the Estate of Visram and Kurji Karsan v Shankerprasad Maganial Bhatt and others [1965] EA 789 distinguished). The courts will only with reluctance infer an intention to repeal a previous statutory provision from the nature of a subsequent statutory enactment. The prior provision will be repealed by implication if, but only if, it is so inconsistent with or repugnant to the subsequent provision that the two are incapable of standing together (Ismail v Republic [1963] EA 55 followed). Per curiam: A person seeking redress from the High Court on a matter which involves a reference to the Constitution should set out with a reasonable degree of precision that of which he complains, the provisions said to be infringed and the manner in which they are alleged to be infringed (Njeru v Republic [1979] KLR 154 followed). Judicial notice would be taken of the fact that there is a general practice in the Commonwealth to have in place an anti-corruption statute and a set of institutional arrangements for combating corruption. The Court should be slow to unsettle those public policy choices that have been incorporated in legislation enacted by Parliament by virtue of its constitutional competencies.
+
+Application denied.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Departed Asians Property Custodian Board v Jaffer Brothers Ltd [1999] 1 EA 55  F
+
+Gachiengo v Republic [2000] 1 EA 67  DT
+
+In the Estate of Visram and Kurji Karsan v Shankerprasad Maganial Bhatt and others [1965] EA 789 
+
+D
+
+Ismail v Republic [1963] EA 55  F
+
+Matiba v Attorney-General miscellaneous application number 666 of 1990
+
+Njeru v Republic [1979] KLR 154  F
+
+Njoya and others v Attorney-General and others [2004] LLR 4788 (HCK)
+
+Oweggi v Republic criminal application number 5 of 1993
+
+Ruturi and another v Minister of Finance and another [2001] 1 EA 253
+
+United Kingdom
+
+Her Majesty the Queen v Imre Finta [1993] ISCR 1138  A
+
+Hinds and others v the Queen [1976] 1 All ER 353  A
+
+Republic v Carr-Briant [1943] 2 All ER 156  A

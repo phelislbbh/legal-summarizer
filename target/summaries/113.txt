@@ -1,0 +1,53 @@
+Desai and others v Fina Bank Ltd
+
+Division: Milimani Commercial Courts of Kenya at Nairobi
+
+Date of ruling: 21 June 2004
+
+Case Number: 1308/01
+
+Before: Emukule J
+
+Sourced by: LawAfrica
+
+Summarised by: C Kanjama
+
+[1] Bank  Interest  Whether bank interest rates ought to comply with the Banking Act  Whether issue
+
+of compliance will defeat statutory power of sale of charge under a legal charge when the rate was
+
+contractual  Section 44  Banking Act (Chapter 485). [2] Civil Procedure  Interlocutory injunction  Exercise of statutory power of sale  Land under charge  Applicant failing to settle despite provision of accounts  Allegation that interest charges illegal and usurious  Whether bank interest regulated by the Banking Act  Whether court can interfere with contractual rates of interest  Whether prima facie case for interference with statutory recovery had been made  Where would the balance of convenience lie  Order XXXIX  Civil Procedure Rules. [3] Land  Charge  Statutory power of sale  Dispute as to legality of interest charges  Whether question of interest charges raises prima facie case at the interlocutory stage. 
+
+Editors Summary
+
+The applicant filed suit and an application for injunction seeking to stop threatened exercise of statutory power of sale arising out of a legal charge over some property. The applicant argued that the interest charges on the loan were illegal for non-compliance with section 39 of the Central Bank of Kenya Act  (subsequently repealed) and section 44 of the Banking Act (then in force). Under these provisions, it was argued that bank interest rates were subject to some regulation. It was therefore stated that the interest rates in the lending agreement were excessive.  The Court considered the question of interest rates, and the further question of whether the applicant had established a prima facie case that would entitle them to obtain an injunction to stop the exercise of  the statutory power of sale.  
+
+
+
+Held  Until its repeal, section 39 of the Central Bank of Kenya Act (Chapter 491) empowered the Central Bank to determine and publish maximum and minimum rates of interest. After the repeal of Chapter 491, section 44 of the Banking Act (Chapter 485) remained as a regulatory provision, restricting increase of rates of banking without prior approval of the Minister. By a subsequent circular from the Central Bank of Kenya, banks were allowed to charge any interest rate on loans and advances. The Courts would therefore not interfere with contractually agreed rates of interest between lenders and borrowers. Pelican Investment Ltd and another v National Bank of Kenya Ltd [2000] 2 EA 488, Fina  Bank Ltd v Spares and Industries Ltd [2000] 1 EA 52, Mrao Ltd v First American Bank of Kenya Ltd and  others [2002] LLR 3801 (CAK), Morris and Co Ltd v Kenya Commercial Bank Ltd and others [2003] 2  EA 605 followed.  The applicants had executed the contract document which provided for payment of various interest rates. They received valuable consideration for the charge and further charge. The statutory notices were proper. Hence, the applicant had not established a prima facie case for the grant of an interlocutory injunction against exercise of the statutory power of sale. Giella v Casman Brown and Co Ltd [1973] EA 358 applied.  The applicants property was valued at less than the amount of the debt. The respondent was also a bank that could compensate the applicant subsequently. Hence, the applicant would not suffer any irreparable loss nor would the balance of convenience fall in his favour.  Application dismissed.
+
+Cases referred to in ruling:
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Fina Bank Ltd v Desai and another Milimini Commercial Court case number 513 of 2003  C
+
+Fina Bank Ltd v Spares and Industries Ltd [2000] 1 EA 52  F
+
+Giella v Casman Brown and Co Ltd [1973] EA 358  AP
+
+Morris and Co Ltd v Kenya Commercial Bank Ltd and others [2003] 2 EA 605  F
+
+Mrao Ltd v First American Bank of Kenya Ltd and others [2002] LLR 3801 (CAK)  F
+
+Pelican Investment Ltd and another v National Bank of Kenya Ltd [2000] 2 EA 488  F
+
+United Kingdom
+
+Clarion Ltd and others v National Provident Institution [2000] 2 All ER 265  F

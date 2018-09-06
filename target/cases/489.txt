@@ -1,0 +1,137 @@
+Utegi Technical Enterprises (T) Ltd and another v NBC Ltd
+
+Division: High Court of Tanzania at Dar-es-Salaam
+
+Date of ruling: 16 February 2004
+
+Case Number: 137/02
+
+Before: Kalegeyaj
+
+Sourced by: LawAfrica
+
+Summarised by: A Mwanzia
+
+[1] Civil procedure  Affidavit  Falsity of contents  Wrong computation of interest and
+
+understatement of purchase price  Whether falsity goes to the root of the application.
+
+[2] Civil procedure  Decree  Execution  Decree more than 12 months  Notice to judgment debtor 
+
+Whether court may dispense with notice  Whether reasons for dispensing with notice to be recorded 
+
+Order 21, rules 20 (1) and (2) Civil Procedure Rules (Tanzania).
+
+RULING
+
+KALEGEYA J: The applicants chamber summons is for orders that:
+
+(a) The Honourable Court may be pleased to order stay of further execution of the ex parte decree dated 5
+
+April 2002.
+
+(b) That the garnishee order issued by the Honourable Court as per Honourable Kalegeya J on 13 January
+
+2004 be rescinded.
+
+(c) That the Honourable Court be pleased to review its Orders made on 13 January 2001 as per
+
+Honourable Kalegeya J.
+
+(d) Costs be provided for.
+
+(e) Any other order and/or relief that this Honourable Court may deem just and fit to grant.
+
+The background to the matter is as follows:
+
+On 6 March 2002 judgment was entered against the applicants/judgment debtors in the following terms:
+
+Judgment is hereby entered in favour of the plaintiff as per the plaint save that the decretal sum shall attract interest of 7% per annum from the date of judgment until settlement in full.
+
+The decree holders/respondents had prayed for judgment and decree against the defendant jointly and severally as follows:
+
+(i) An order of foreclosure or sale by the plaintiff of all that property known as plot number 161/2/1 occupying 2892 square meters currently registered in the name of Otieno Olunga Igogo, Certified of Title Number 46978 located at Kurasini Service Trade Dar-es-Salaam.
+
+( ii) Payment by the defendants jointly and severally of the outstanding amount of TShs 31 160 059 plus
+
+the amounts in (iii), (iv) and (v) herein below less the proceeds of sale as prayed in (i) above.
+
+(iii) Interest on the decretal sum in (ii) at a rate of 28% as covenanted by the plaintiff and the first defendant from April 1, 2001 to the day of Judgment.
+
+(iv) Interest on the decretal sum at a statutory rate of 12% from the day of Judgment to the payment of the last sent.
+
+( v) Costs.
+
+(vi) Any other reliefs that his Honourable Court may deem just to grant.
+
+Treading on failure by the applicants/Judgment debtors to satisfy the decree, the respondent/decree holders instead of resorting to court for execution, decided to exercise powers provided under clause 9(a) of the Mortgage Deed. The said clause provided as under:
+
+At any tine after the principal moneys and interest hereby secured become payable either as a result of lawful demand being made by the bank under the provisions of clause 8 hereof the bank shall be there upon immediately concurrence on the part of the mortgagor to exercise all statutory powers conferred on mortgages by the Conveyancing and Law of Property Act of 1881 including the power to appoint a receiver and power of sale but without the restrictions imposed by section 20 of the said Act and provided that the right of sale shall not effect the bank to foreclosures and provided further that any receiver appointed here under after the statutory application of all monies received by him apply the balance in or towards discharge of the principal moneys hereby secured before paying any residue to the person who constitute this mortgage an instrument under the Chattels Transfer Ordinance (Chapter 210).
+
+The applicants proceeded and through one Sadock D Magai, appointed Messrs Comrade Auction Mart and Court Brokers to auction the mortgaged property on plot number 161/2/1, CT number 46978,
+
+Kurasini Area, Dar-es-Salaam in the name of the second applicant who was the guarantor. The property was accordingly auctioned and a total sum of TShs 22.5 million was realised.
+
+On 7 January 2004 the respondent/decree holder applied for execution of a decree for the balance of
+
+TShs 21 055 439 out of the indicated sum of TShs 31 160 059. Unfortunately however, the application contained errors in that the computation of interest for the period from 6 March 2002 to 29 December
+
+2003 (that is the period after Judgment) was made at the rate of 12% instead of 7% as decreased by the
+
+Court, and also the amount of TShs 500 000 from the sale of the property was excluded as only
+
+TShs 22 million was indicated.
+
+As regards the application, the mode in which the Courts assistance was required was by:
+
+Attachment of the first Judgment debtors account (garnishee order) number 240-790031 at Kenya
+
+Commercial Bank Limited.
+
+While the application was filed on 7 January 2004, on 8 January 2004 the respondents advocate wrote a letter to the Registrar, Commercial court, whose contents are as follows:
+
+We wish to bring to your kind attention that we have currently applied for execution of the decree with regard to the captioned case. We intend to attach the account of the first judgment debtor in proceeding with the operation of its account, we pray that the order be issued earlier as in the long run the decree holder may have nothing to attach. A copy of the application for execution duly filed in court is herewith attached for your ease of reference.
+
+We thank you in advance for your cooperation and we count on your prompt action.
+
+On 13 January 2004 the Court issued the following order:
+
+Pursuant to the decree holders application for execution filed with the Court, garnishee order nisi to issue against Judgment debtors account number 240-790021 with the Kenya Commercial Bank Limited. The order is limited to a sum of TShs 21 055 439-93.
+
+The above prompted the present application.
+
+The application is supported by an affidavit of the second applicant while it is resisted with a counter-affidavit of Sadock Dotto Magai. Mr Rutashoborwa, advocate, for the applicants, urge that the decree sought to be executed 12 months after its issuance without notice is contrary to the law (Order XX1, rule 20 CPC); that the interest computation was wrong as it should have been at the rate of 7% instead of 12%; that Magais affidavit harbours false elements including stating TShs 22 Million instead of 22.5 being the property sale price, and alleging that he got information of the price from Messrs Comrade Auction Mart and Kiiza of NBC when his firm was the one which issued the receipts, making reference to Ignazio Messina v Willow Investment SPRL civil application number 21 of 2001 and that the respondent was not entitled at law to exercise powers of sale without recourse to court, which act resulted in selling the property worth TShs 250 million at TShs 22.5 million. The counsel concludes that all the above enumerated errors/defects make the garnishee nisi untenable and should be rescinded and/or discharged.
+
+On the other hand, Mr Kabakama advocate for the respondents, conceded that no notice was issued in terms of Order XX1, rule 20(1) Civil Procedure Code but argues that this is cured under rule 20(2) because the Court can dispense with this, which was the case here (on the strength of respondents letter); conceded the wrong use of 12% rate instead 7% adding that the amount due it TShs 2 319 929-97 instead of TShs 3 768154 thus reducing the amount demanded and payable to TShs 19 607 214-97 instead of TShs 21 055 439-93 reflected on the application for execution form and prays for adjustment accordingly; that the auction was properly conducted leading to the sale of the property to one Cecilia Cornel for TShs 22.5 million on 13 April 2004; that the garnishee order is against the first applicant as a principal obligor; that the prayer for stay of execution is misconceived as Order XX1, rule 24(1) CPC relied upon presupposes pendency of appeal of intention to appeal or an application for stay in the appropriate court which is not the case here, and that even if that were the case, it would be hopelessly time barred, and lastly, that the prayer for review suffers same infirmity because:
+
+Under Order XLII sufficient reasons have to be advanced and should be filed within 60 days.
+
+That the order sought to be reviewed is dated 21 January 2001, a date prior to even the filing of the suit ie 28
+
+May 2001.
+
+Starting with the quarrel levelled on failure to issue the requisite notice in terms of Order 21, rule 20(1) of the Civil Procedure Code, I am satisfied that indeed, as rightly argued by the respondent, rule (2) thereof cures the abnormality. The Court can dispense with the notice. I concede that the subrule requires that reasons for departing from rule (1) should be recorded. In this case, the reasons were not recorded as such but the Court acted on the respondents letter which stipulated that a further delay may lead to the depletion of an otherwise liquid account. The letter is on record.
+
+As regards computation of the interest rate, this error is rectifiable as sufficiently corrected by the respondent. It does not go to the root of the order.
+
+On the alleged falsity of Magais affidavit, while I agree that there is an understatement of the purchase price by TShs 500 000 the other attack is not justified. Receipts may as well be of the same firm but that does not remove the possibility that Magai himself got the information from the auctioneer and Mr Kiiza of NBC, the people who were possibly present when the sale took place. There is no evidence that Magai was present when the receipts were being made and issued. In any case, these were issued obviously after someone stated the figure. Thus, even if Magai was present when that person was stating them, in the affidavit he could not give the source of the figure as being the receipt but the maker of the statement, and that person could be the auctioneer or Mr Kiiza or both.
+
+The applicants counsel relied on the following paragraph from Ignazio case:
+
+An affidavit which is tainted with untruths is no affidavit at all and cannot be relied upon to support an application. False evidence cannot be acted upon to resolve any issue. The falsehood in this case goes to the root of the application.
+
+With respect to Mr Rutashoborwa, the present affidavit from the one referred to in that case. The only falsity, TShs 500 000 less than the sale price, does not go to the root of the application.
+
+What about the argument that the respondents were not justified in proceeding to execute the way they did: outside court process. I am on all fours with the applicants on this. The decree of this Court based on the order for judgment dated 6 March 2002 which in turn was pegged on the prayers paragraph as quoted, did not authorise them to use the mode employed. That said however, that error does not affect the application for execution lodged with this Court. In any case, what is before us is not a challenge of the erroneous execution modus used in selling the property. If they have a quarrel with that, they are at liberty to mount an action thereof.
+
+On the whole, none of the attacks levelled can legally justify issuance of the orders sought. With this finding, I find it unnecessary to discuss the respondents arguments on the priority or otherwise of the prayers for stay and review along the lines projected.
+
+The application stands dismissed with a qualification, however that the sum which should be garnished is TShs 19 607 214-97 instead of TShs 21 055 439-93. Respondents are awarded costs.
+
+For the applicants:
+
+Mr Rutashoborwa
+
+For the respondents:
+
+Mr Kabakama

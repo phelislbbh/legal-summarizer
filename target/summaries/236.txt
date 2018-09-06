@@ -1,0 +1,45 @@
+Kiyengo v Uganda
+
+Division: Supreme Court of Uganda at Mengo
+
+Date of judgment: 13 April 2005
+
+Case Number: 35/03
+
+Before: Oder, Tsekooko, Karokora, Mulenga and Kanyeihamba JJSC
+
+Sourced by: Lawafrica
+
+[1] Criminal law  Murder  Defences  Intoxication  Burden of proof  Whether the prosecution had
+
+proved beyond reasonable doubt that the appellant had the requisite intent  Section 13  Penal Code
+
+Act.
+
+Editors Summary
+
+The appellant was tried and convicted by the High Court of Uganda on a charge of murdering his father. Evidence was adduced at his trial to the effect that on the material day, the deceased had visited the appellants home at about 4:00 pm. He found the appellant and a neighbour seated outside his house drinking enguli. He joined them and the three continued drinking until about 7:00 pm when the appellant took the neighbour into the kitchen and left him there with his wife and daughter. He then returned outside and hit the deceased twice on the head, using the back of an axe. As a result of the injuries inflicted on him, the deceased died. Evidence was also adduced to the effect that when people came to the scene upon hearing that the deceased had died, the appellant chased them away. In his defence, the appellant claimed that the deceased sustained the fatal injuries when he fell off the bench he was sitting on, due to his intoxicated state. The trial judge rejected the defence and held that the prosecution had proved its case beyond reasonable doubt. He accordingly convicted him on the charge. The appellant appealed to the Court of Appeal. However, after re-evaluating the evidence the court came to the same conclusion as the trial court and dismissed his appeal. The appellant now appealed to the Supreme Court on the ground that the Justices of Appeal erred in law when they misdirected themselves on the defence of intoxication. Counsel for the appellant argued that the Court of Appeal had wrongly upheld the trial courts refusal to avail the appellant of the defence of intoxication on the erroneous ground that the defence had not been raised and had, in fact, been disowned by the appellant. He argued that a court was obliged to consider every defence disclosed by the evidence before it. 
+
+
+
+Held  The court was obliged to avail an accused person with a defence available on the evidence before it, even if it was not raised by him. This duty was founded on the fundamental principle that the burden of proof in a criminal trial remained on the prosecution throughout and, except in special cases, never shifted to the defence. An accused person was under no burden to raise a defence, with the exception of the defence of insanity. In considering the defence of intoxication, the question was not whether the accused person was or was not capable of forming the intention, but rather whether by reason of the drink taken, he did not form the intention; Clifford Patrick v R (supra) considered and distinguished. In this instance, the Court of Appeal had correctly directed itself on the question of intoxication in stating that intoxication could become a defence under section 13(4) of the Penal Code and could be taken into account for the purposes of determining whether the accused had formed an intention to kill. The test to be applied was whether, having regard to the circumstances, including those related to drinking, it could safely be said that the prosecution had proved beyond reasonable doubt that the accused had the requisite intent at the material time; Ssessawao v Uganda followed. The Court of Appeal had gone on to find that the evidence showed that the prosecution had proved beyond reasonable doubt that the accused had the necessary intent and there were no reasons for interfering with this finding.
+
+Appeal dismissed.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Illanda s/o Kisigo v R [1960] EA 780
+
+Ssessawao v Uganda [1979] HCB 122  F
+
+United Kingdom
+
+Clifford Patrick v R 72 Cr App 291  C and D

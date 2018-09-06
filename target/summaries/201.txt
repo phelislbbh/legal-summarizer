@@ -1,0 +1,41 @@
+Kariuki v Irungu
+
+Division: High Court of Kenya at Nairobi
+
+Date of ruling: 24 February 2004
+
+Case Number: 892/00
+
+Before: Ochieng J
+
+Sourced by: LawAfrica
+
+Summarised by: A Mwanzia
+
+[1] Civil procedure  Third party  When a third party may be lawfully joined  Whether subject matter
+
+between plaintiff, defendant and third party must be same  Procedure  Application to strike out third party notice  When application should be filed  Order I, rule 18  Civil Procedure Rules. [2] Insurance  Third party  Whether insurance company may be joined as a third party in an accident claim  Whether striking out third party diminishes insurance obligation to satisfy judgment eventually passed  Section 10(1) Insurance (Motor Vehicle Third Party Risks) Act. 
+
+
+
+Editors Summary The plaintiff instituted suit in his capacity as the legal representative of James Kariuki Njuguna who died following an accident. The respondent was the registered owner of the motor vehicle in which James Kariuki Njuguna was travelling as a passenger at the time of the accident. After the defendant filed his defence, he applied to the Court for leave to issue a third party notice against his insurance company. The Court granted leave and issued a third party notice. After being served with the third party notice, the third party entered appearance and the respondent filed an application under Order I, rule 18 of the Civil Procedure Rules seeking directions. The third party responded by filing a notice of preliminary objection and also by lodging an application to strike out the third party notice. The latter application was heard first. The third party contended that an insurer could only be liable after judgment had been entered against its insured and not before. Further, the issue between the plaintiff and respondent was based on tort whereas the issue between the respondent and third party were based on contract. The third party therefore prayed for striking out of the third party notice. The respondent argued that improper procedure had been invoked by the third party who should have waited for the determination of the application for directions before filing its application for striking out. 
+
+
+
+Held  The subject matter between the third party and respondent was based on contract and was therefore different from the subject matter between the plaintiff and the respondent which was based on tort. The third party was therefore not lawfully joined. Walusumbi v Attorney-General of Uganda [1959] EA 223 followed. Under Order I, rule 18 of the Civil Procedure Rules, a third party is provided with an opportunity at which they can have the third party notice set aside. Although the application to serve the third party notice was premature, the same would still be dealt with by the Court. Varsani v Kanjee Naranjee (Kenya) Limited [1977] KLR 171 followed. By striking out the third party notice, the Court does not in any way diminish the duty imposed on the insurance company under section 10(1) of the Insurance (Motor Vehicle Thirty Party Risks) Act, to satisfy the judgment that may be passed against the defendant.
+
+Third party notice struck out.
+
+Cases referred to in ruling
+
+East Africa
+
+Varsani v Kanjee Naranjee (Kenya) Limited [1977] KLR 171  F
+
+Walusumbi v Attorney-General Uganda [1959] EA 223  F
+
+United Kingdom
+
+Carpenter v Ebblewhite [1938] KB 41  D
+
+Ruling

@@ -1,0 +1,26 @@
+THE REPUBLIC OF UGANDA### invalid font number 1
+### invalid font number 0
+IN THE HIGH COURT OF UGANDA HOLDEN AT KAMPALA### invalid font number 1
+### invalid font number 0
+COMMERCIAL COURT DIVISION### invalid font number 1
+### invalid font number 0
+HCT-00-CC-0156-2005### invalid font number 1
+### invalid font number 0
+INTERFREIGHT (U) LTD PLAINTIFF### invalid font number 1
+### invalid font number 0
+VERSUS### invalid font number 1
+### invalid font number 0
+HAJI AHMEND NSUBUGA DEFENDANT### invalid font number 1
+### invalid font number 0
+
+FACTS
+The plaintiff sought to recover from the defendant the sum of US$16,000.00 based upon an alleged verbal guarantee issued to the plaintiff for outstanding debts owed to the plaintiff by three companies, two of which are limited liability companies, (Kindu Traders Ltd and Kavule Investments Ltd) and the third (Kito Traders) is simply a firm. The defendant is the managing director of the said companies. The defendant denied that he provided a personal guarantee for payment of the said debts.
+
+ISSUES
+Whether this suit passes the threshold set by Section 3(1) of the Contract Act.
+
+HELD
+Suit is barred by Section 3(1) of the Contract Act, dismissed with costs accordingly.
+
+
+

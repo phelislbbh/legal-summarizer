@@ -1,0 +1,67 @@
+Ochola v National Bank of Kenya Ltd
+
+Division: Court of Appeal of Kenya at Nairobi
+
+Date of judgment: 10 March 2000
+
+Case Number: 139/99
+
+Before: Tunoi, Bosire and OKubasu, JJA
+
+Sourced by: LawAfrica
+
+Summarised by: C Kanjama
+
+[1] Practice and procedure  Setting aside  Meaning of appearance and attendance  Partys
+
+counsel in court but not instructed  Adjournment refused  Counsel unable to proceed  judgment
+
+entered  Whether it was in default of attendance or for failure to adduce evidence  Whether setting
+
+aside is the right course of action  Whether such a decision can be appealed  Order IXB, Rule 8 Civil
+
+Procedure Rules.
+
+Editors Summary
+
+The suit came up for hearing in May 1998. Counsel for National Bank, the Plaintiff, made an application for adjournment on the ground that she had experienced difficulties in reaching her client and further that her client had delayed extracting some documents relevant to the case. Ochola, the Defendant, was present but his counsel did not oppose the application. The trial Judge refused to grant an adjournment without assigning any reasons. Counsel for National Bank then declined to proceed with the case at which point the suit was dismissed with costs. In December the same year National Bank applied under Order IXB, Rule 8 to have the order dismissing the suit set aside or varied. The application was granted. Ochola appealed, arguing that the Plaintiffs suit had not been dismissed for default of attendance but for failure to adduce evidence. As such, the suit had been dismissed under Order XVI, Rule 4 and the judge had no jurisdiction to entertain an order for setting aside. The only avenue for National Bank was to appeal against the May 1998 order. National Bank responded that Order IXB envisaged a situation such as this where not counsel but the party personally failed to appear. 
+
+
+
+Held  Where a party has appointed counsel to appear for him and that counsel has due instructions to proceed with the hearing of a suit, it should not be dismissed under Order IXB, Rule 4(1). Mugachia v Mwakibundu and another [1983] LLR 132 (CAK), Din Mohamed v Lalaji Visram and Co [1937] 4 EACA followed; Finaughty v Prinsloo [1958] EA 657 discussed; Lobo v Saleh Dhiyebi [1961] EA 223 considered. However, when an advocates request for an adjournment is refused and he has no instructions to present his clients case, there is no appearance, even if his client is present in person but is not ready to proceed. Sarkars Law of Civil Procedure, (8 ed) Volume 1 at page 723 approved; Shah Kachra Merag v Gandhi and Co. [1975] EA 466 followed. Though Order IXB deals with attendance, there is really no distinction between the terms appearance and attendance. They both connote appearance in person or through advocate for conducting the case. Re Mahon [1893] 1 Ch 507 adopted; Stamon v Tiwi Beach Hotel Ltd [1996] LLR 438 (CAK) followed. Hence in this case, since the advocates inability to proceed was caused by lack of instructions and not lack of preparation, she cannot be said to have been present in court. Per curiam: It would be contrary to the policy of the law to hold that an absent party client appeared by his uninstructed counsel. If the refusal to adjourn is held to be outside the scope of Order IXB, rule 8, there would be no possibility of appeal as for lack of any grounds to exercise discretion. Muguchia case (supra) distinguished. Further, even if the client failed to attend due to his advocates instructions, this would be an error of the advocate, which should only be visited on the client as the last resort. The EL Amira [1981] 2 Lloyds Rep 539, Sodha v Hemraj [1952] 7 Uganda Law Reports 11 adopted.
+
+Appeal dismissed.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Brooke Bond Liebig (I) Ltd v Mallya [1975] EA 266
+
+Finaughty v Prinsloo [1958] EA 657  D
+
+Lobo v Dhiyebi [1961] EA 223  C
+
+Merag v Gandhi and Co [1975] EA 466  F
+
+Mohamed v Lalaji Visram and Co [1937] 4 EACA 1  F
+
+Mugachia v Mwakibundu and another [1983] LLR 132 (CAK)  F
+
+Sodha v Hemraj [1952] 7 Uganda Law Reports 11
+
+Stamon v Tiwi Beach Hotel Ltd [1996] LLR 438 (CAK)  F
+
+United Kingdom
+
+Mobbs v Powell [1965] R 222
+
+Re Mahon [1893] 1 Ch 507  A
+
+The EL Amira [1981] 2 Lloyds Rep 539

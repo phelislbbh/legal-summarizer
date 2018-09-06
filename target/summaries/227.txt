@@ -1,0 +1,175 @@
+Kibuuka v Uganda
+
+[2006] 2 EA 140 (SCU)
+
+Division: Supreme Court of Uganda at Mengo
+
+Date of judgment: 4 November 2006
+
+Case Number: 3/04
+
+Before: Odoki CJ, Oder, Tsekooko, Karokora and Kanyeihamba JJSC
+
+Sourced by: LawAfrica
+
+Summarised by: H Kibet
+
+[1] Appellate procedure  Duty of first appellate court  Re-evaluation of the evidence on record 
+
+Whether the court had adequately discharged its duty.
+
+[2] Criminal law  Kidnapping with intent to murder  Elements of the offence  Taking by force or
+
+fraud  Intent to commit offence of murder  Whether necessary intent proved  Section 235(1)(a) and
+
+(2)  Penal Code.
+
+[3] Evidence  Alibi  Onus of proof  Burden always on the prosecution to disprove alibi  Whether
+
+prosecution had discharged burden.
+
+[4] Evidence  Identification  Corroboration  Former statement made by a witness relating to a fact 
+
+Whether identification of the appellant as the kidnapper was proper  Whether evidence of complainant
+
+was corroborated  Section 155  Evidence Act.
+
+Editors Summary
+
+The appellant was convicted of the offence of kidnapping with intent to murder by the High Court and
+
+sentenced to 20 years imprisonment. At his trial, it was alleged that the appellant had had an affair with
+
+his niece, AN, which had
+
+Page 141 of [2006] 2 EA 140 (SCU)
+
+resulted in the birth of a boy. Evidence was adduced to the effect that on 24 October 1998 at about 8pm.
+
+The appellant had sent for AN to come from her brothers house and meet him. Following their meeting,
+
+she returned to her brothers house. Later that night, the appellant again sent for her. Because her child
+
+was crying, her brother requested her to take the baby with her. Some time later, AN returned to her
+
+brothers house crying that the appellant had taken her child away from her. The following day she
+
+reported the matter to her mother as well as to the authorities. The appellant was later arrested but the
+
+child was never seen again.
+
+In his defence, the appellant put forward an alibi to the effect that on the night in question he had been
+
+at the mosque, after which he had visited a friend then gone home. He called his friend as a witness to
+
+support his alibi. He also denied having indulged in an incestuous relationship with AN. The trial judge
+
+believed the prosecution case, rejected the defence evidence and convicted the appellant. His first appeal
+
+to the Court of Appeal was rejected.
+
+He now appealed to the Supreme Court on the grounds that the Court of Appeal erred in finding that it
+
+was he who had kidnapped the child, that it had failed to scrutinise and re-evaluate the evidence and that
+
+it erred in regard to the alibi. Counsel for the appellant also argued that the prosecution had failed to
+
+prove that the appellant had the intention to murder. Counsel for the respondent supported the Court of
+
+Appeals decision and argued, inter alia, that the Justices of Appeal had correctly directed their minds to
+
+the law and evidence regarding the offence of kidnapping with intent to murder and had properly
+
+evaluated the evidence and arrived at the right conclusion. She also argued that it was not necessary to
+
+include section 235(2) in the indictment and that what had been included in the particulars of the offence
+
+had been sufficient to explain to the appellant what he was charged with.
+
+Held  It was the duty of a first appellate court to properly scrutinise and re-evaluate the evidence of both
+
+the prosecution and the defence; Abasi v Uganda and Bogere Charles v Uganda followed. In this
+
+instance, the Court of Appeal had properly discharged this duty and had not faulted the trial judges
+
+findings on the complainants credibility as a single identifying witness.
+
+Section 155 of the Evidence Act provided that any former statement of a witness relating to the same
+
+fact made at or about the same time the fact took place could be proved to corroborate the testimony of
+
+that witness. Such a statement must have been made either (a) at or about the same time when the fact
+
+took place or (b) before any authority legally competent to investigate the fact; Ndaula John v Uganda
+
+applied. In this instance, the statement made by AN to her brother that her child had been taken away
+
+satisfied the provisions of section 155 and was provable against the appellant.
+
+The Court of Appeal rightly upheld the findings of the trial judge that a love affair had existed
+
+between the appellant and AN.
+
+Counsel for the respondents submission that it was unnecessary to include section 235(2) in the
+
+statement of the offence was erroneous. The inclusion of the subsection was necessary to inform the
+
+accused of the relevant ingredient that the prosecution must prove in order to secure a conviction. The
+
+omission by the prosecution of section 235(2) in the statement of the offence did not occasion a
+
+miscarriage of justice nor did it prejudice the appellant. The prosecution
+
+Page 142 of [2006] 2 EA 140 (SCU)
+
+evidence brought out the fact that the child had not been seen since the kidnapping and intention to
+
+murder was thus rightly presumed and proved.
+
+It was well settled law that an accused person who raised an alibi did not have the burden of proving
+
+it; Sekitoleko v Uganda, R v Johnson and Leonard Aniseth v R followed. In this instance, the Court of
+
+Appeal had reviewed all the evidence for both sides and agreed with the trial judge in rejecting the
+
+appellants alibi and there were no grounds for interfering with this finding.
+
+The sentence imposed on the appellant was lawful and hence the appeal against its severity was
+
+barred by section 5 of the Judicature Act.
+
+Appeal dismissed.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Abbasi and another v Uganda criminal appeal number 10 of 1995 (SC)  F
+
+Bogere Charles v Uganda criminal appeal number 10 of 1997 (SC) (UR)  F
+
+Bogere Moses and Kamba v Uganda criminal appeal number 1 of 1997 (SC) (UR)
+
+Godfrey Tinkamarirwe and another v Uganda criminal appeal number 5 of 1986 (SC)
+
+Ibrahim Bilal v Uganda criminal appeal number 5 of 1995 (SC) (UR)
+
+Kifamunte Henry v Uganda [1997] LLR 72 (SCU)
+
+Leonard Aniseth v Republic [1963] EA 206  F
+
+Mukoome Moses Bulo v Uganda criminal appeal number 12 of 1995 (SC)
+
+Ndaula John v Uganda [2000] LLR 130 (SCU)  AP
+
+Sekitoleko v Uganda [1967] EA 531  F
+
+United Kingdom
+
+R v Johnson [1961] All ER 1967  F

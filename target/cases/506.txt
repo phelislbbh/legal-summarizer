@@ -1,0 +1,455 @@
+
+                           THE REPUBLIC OF UGANDA
+
+                   IN THE HIGH COURT OF UGANDA AT KAMPALA
+                         (COMMERCIAL COURT DIVISION)
+
+                       HCT - 00 - CC - CS - 163 - 2004
+
+
+1.    X-TEL (U) LIMITED
+2.    INSURANCE COMPANY OF EAST AFRICA (U) LTD. :::::::::::  PLAINTIFFS
+
+                                   VERSUS
+
+
+SECURITY 2000 LIMITED  :::::::::::::::::::::::::::::::::::::::::::::::::
+DEFENDANT
+
+
+
+
+BEFORE:  THE HON. JUSTICE GEOFFREY KIRYABWIRE.
+
+J U D G M E N T:
+
+The second plaintiff brought this suit for  its  benefit  in  its  name  and
+those of the first plaintiff under the insurance  doctrine  of  subrogation.
+The plaintiff's claim against the defendant is for vicarious  liability  and
+the recovery of Ug.Shs.11,500,000/= being the value of  an  insurance  claim
+settled by the second plaintiff on behalf of the first plaintiff.
+
+The facts of the case are that the first plaintiff took out a cash in
+transit insurance policy with the second plaintiff.  However on or about
+the 2nd day of January 2002 the defendant security company, which was hired
+by the first plaintiff to transport their money to the bank, picked up
+Ug.Shs.43,010,000/= cash from the first plaintiff's premises to take to the
+bank but the said money disappeared before reaching the bank.
+
+The first plaintiff then made claim on the insurance company under the
+insurance policy and was paid the sum of Ug.Shs.11,250,000/=.
+
+The first plaintiff held the defendant security company liable for the said
+loss and subrogated their right to sue the defendant to the second
+plaintiff and hence this suit against them.
+
+The defendant company in their defence denied that any subrogation rights
+were passed on to the second plaintiff.  The defendant company also pleaded
+that its relationship with the first plaintiff was governed by an agreement
+and no other relationship.  Lastly, that employees of the first defendant
+company conspired with security personnel of the defendant to steal the
+money.
+
+At scheduling the parties agreed to the following facts;
+
+1.    That the defendants' personnel were picking up  money  pursuant  to  a
+      cash in transit arrangement from the first plaintiffs premises.
+
+2.    That there was a criminal investigation conducted  by  Central  Police
+      Station Kampala Extra, where the defendant's servants  amongst  others
+      as responsible for the said theft of Ug.Shs.43m/-.
+
+The parties also agreed to four legal issues for trial namely;
+
+Whether the insurance policy covers cash in transit by a third party.
+Whether the second plaintiff is entitled to be paid the sum indemnified by
+it?
+Whether the defendant is liable for the loss.
+Remedies.
+
+Mr. Brian Kaggwa appeared for the plaintiff while Mr. Brian Othieno
+appeared for the defendant.
+
+Issue No.1: Whether there is a valid insurance policy.
+
+The defendant contends that there is no valid insurance policy  because  the
+first plaintiff is not mentioned anywhere in the insurance policy (Exh.  P1)
+that, what is mentioned therein is X-Tel Uganda Ltd., which is not the  same
+entity as the first plaintiff which is called X-Tel (U) Limited or at  times
+X-Tel Ltd.  Mr. Othieno, counsel for the defendant contends that  there  was
+no valid policy because the insured is not ascertained.
+
+Mr. Kaggwa, counsel for the second plaintiff argued that the defendant's
+contentions are frivolous and must be ignored since the discrepancy in the
+names was satisfactorily explained by PW1, Mr. Adeido the Deputy Manager of
+the Insurance company and PW2 Ms. Manzi the Finance Manager of the first
+plaintiff whose evidence was not contradicted, and that the confusion in
+names was a typographical error.  Mr. Kaggwa argued that the defendant was
+unreasonably clinging to flimsy technicalities and prays that court
+overrules the defendant's contentions and lets substantive justice prevail
+in accordance with Article 126(2) (e) of the Constitution.
+
+The insured mentioned in the money insurance policy in issue No.
+120/100/1/000745/2002 (Exh. P1) is X - Tel (U) Ltd.  The stamp on the
+discharge voucher Exh. P5 is for X - Tel Ltd.  And according to PW1 Mr.
+Adeido, the correct name is X - Tel Ltd and X - Tel (U) Ltd was a typing
+error, but for their purposes (the second plaintiff's), X - Tel Ltd and X -
+Tel (U) Ltd are one and the same company; their and client.
+
+It is true however, that legally X - Tel Ltd and X - Tel (U) Ltd are not
+necessarily one and the same entity.  Whether X -Tel Ltd, X - Tel (U) Ltd
+and X - Tel Uganda Limited are in reality the same legally or otherwise is
+to my mind a question of evidence.
+
+The defendant in this case contends that the first plaintiff is not covered
+by the policy whereas the plaintiffs argue that the first plaintiff is the
+correct insured although the name was erroneously typed as X - Tel (U) Ltd.
+
+The question here therefore is whether the parties especially the insured
+under the policy in issue are ascertained.  PW1 testified that for the
+purpose of their dealings,   X - Tel (U) Ltd and X - Tel Ltd had been used
+synonymously.  There is no evidence that there exists another entity called
+X - Tel (U) Ltd which is the true beneficiary of the insurance policy and
+which is not the first plaintiff.  The explanation of Mr. Adeido and Ms.
+Manzi of a typographical error sounds acceptable to me.  Besides, Art
+126(2) (e) of the Constitution enjoins court to administer justice without
+undue regard to technicalities. I therefore find that money insurance
+policy No. 12/100/1/000745/2002 was a valid insurance policy in favour of
+the first plaintiff.
+
+Issue No.2: Whether the insurance policy covers cash-in-transit by a third
+             party.
+
+The defendant argues that the insurance policy even if found valid  did  not
+cover cash-in-transit by a third party but only covered "all  activities  of
+the insured permitted by their Memoranda and  Articles  of  Association  and
+activities  associated  with  the  provision  and  management  of  canteens,
+sports, social  education  and  welfare  organization  for  the  benefit  of
+employees of the insured and first aid, medical, fire ambulance  or  similar
+services of the insured."  (See Memo 2 to the policy).  He asserts  that  it
+has not  been  proved  that  cash-in-transit  by  a  third  party  like  the
+defendant was one of the activities permitted in the Memoranda and  Articles
+of Association of X - Tel  Ltd.   He  contends  further  that  the  cash-in-
+transit contract was executed long after the insurance policy and could  not
+have been envisaged by the parties at the time.
+
+The second plaintiff argued that loss of money in transit was covered by
+the policy as a specific risk affecting the safety of the insured's own
+money not an "activity" because the insured was not dealing with other
+persons money.  He states further that the policy should be read as a whole
+as was suggested by the learned author, Raoul Colinvaux in his book - The
+Law of Insurance (4th Ed) at P.33;
+
+           "...effect must be given to every  word  in  the  policy  and  a
+      reasonable construction must therefore be  given  to  each  clause  in
+      order to give effect to the plain and obvious intention of the parties
+      collected from the whole instrument..."
+
+Mr. Kaggwa counsel for the plaintiff submits further that once the  validity
+of the policy is affirmed, the defendant as a third party has  no  right  to
+question the propriety of the indemnification by the second plaintiff  under
+the policy, and that the defendant's objections were thus  misconceived  and
+should be dismissed.
+
+Exh. P1 indicates that the duration of the insurance policy was from 20th
+March 2002 to 19th March 2003.  The letter from the defendant company
+offering cash-in-transit services (dated 11/06/02) was signed by the first
+plaintiff's accountant on 14/06/02, with a recommendation that the facility
+be only used if transporting not more than Shs.15,000,000/=.  Section A of
+Part 1 of the schedule to the insurance policy indicates that the policy
+covers "money in transit from the premises to the bank and vice versa and /
+or between the insured's premises.  It does not specifically provide for
+who is to transport the money.  The evidence adduced during the trial was
+that whenever the first plaintiff's money collected from its branches
+reached a substantial amount, the defendant would be called to carry the
+cash to Standard Chartered Bank for deposit.  The defendant's personnel
+would carry the cash box to the bank where the first plaintiff's cashier
+would meet them with the key.  A reasonable construction of the insurance
+policy in my view would cover transit of the first plaintiff's money by a
+third party like the defendant which is a security firm hired for that
+purpose.
+
+In my opinion therefore the insurance policy covered the first plaintiff's
+money in transit and when transported by a third party which is a
+professional security company hired for that purpose.
+
+Issue No.3:      Whether the second Plaintiff is entitled to recover the
+                 sum indemnified by it.
+
+Mr.  Othieno,  counsel  for  the  defendant  submits  that  for  the  second
+plaintiff to be entitled to recover the sum indemnified there must be  proof
+that the second plaintiff indeed indemnified the  first  plaintiff  pursuant
+to the insurance contract.  He states that there are  major  inconsistencies
+in the plaintiff's evidence that made it  very  doubtable  that  the  second
+plaintiff did actually indemnity the first  plaintiff  under  the  insurance
+policy which issue or that the second plaintiff company should  recover  any
+money allegedly indemnified by it.
+
+The defendant points out that the Letter of Subrogation Exh. P12 on which
+the second plaintiff bases its claims states that Shs.11, 500,000/= was
+paid under policy No. 10/MR/4499, claim No. MR/96/11 and was for loss of
+Shs.45, 029,600/= in cash.
+
+In the plaint (para 4) however, the insurance policy under which the first
+plaintiff was indemnified by the second plaintiff is stated as No.
+120/100/1/000745/2002 (Exh. P1), the indemnity is Shs.11, 250,000/= for
+loss of Shs.43, 010,000/= in cash.  The discharge voucher Exh. 10 indicates
+that Shs.11,250,000/= was paid by the second plaintiff to the first
+plaintiff as indemnity under policy No. 120/100/1/000745/2002 claim No.
+120/100/9/000322/2003.
+
+In support of the defendant's argument counsel cites the case Scottish
+Union & National Insurance Co. V Davis (1970)1 Lloyds Rep. 1 where at P.5
+Russel L.J stated that
+      "You only have a right to subrogation in a case  like  this  when  you
+      have indemnified the assured..."
+
+
+and the Suffish International (Supra) at P.  57,  where  Oder  J.S.C  quoted
+Justice Berko J.A with approval that:-
+
+      "It must be observed that the whole basis of the subrogation  doctrine
+      is founded on a binding  and  operative  contract  of  indemnity.   It
+      derives life from the original contract of indemnity.  In my view, the
+      essence of the matter is that subrogation  springs  not  from  payment
+      only but from actual payment, co-jointly with the fact that it is made
+      pursuant to the basic and original contract of indemnity."
+
+Mr. Othieno asserted that in the instant case, the second plaintiff did  not
+indemnify the first plaintiff under the original insurance policy and  could
+not therefore have the right of subrogation.
+
+For the plaintiffs, Ms. Manzi testified that the inconsistencies in the
+documents were due to typographical errors which should be ignored by court
+in favour of substantive justice and that having indemnified the first
+plaintiff with a valid policy of indemnity, the second plaintiff is
+entitled under the doctrine of subrogation to recover the sum paid.
+
+In Insurance Law according to Mac Gillivray on Insurance, (10th Ed) 2003,
+at P. 578 (supra)
+
+"Subrogation" is the name given to the right of the insurer who has paid a
+loss to be put in the place of the assured so that he can take advantage of
+any means available to the assured to extinguish or diminish the loss for
+which the insurer has indemnified the assured.
+
+The width of the doctrine was described by Brett L.J. in the case of
+Castellain V Preston (1883)11 QBD 380, 388 (described by Diplock, J. in
+Yorkshire Ins. Co. V Nisbet Shipping Co. [1962]2 QB 330, 339 as the locus
+classicus of the doctrine of subrogation in insurance law) thus:-
+
+      "...as between the underwriter and  the  assured  the  underwriter  is
+      entitled to the advantage of every right of the assured whether such a
+      right consists of contract fulfilled or unfulfilled or in  remedy  for
+      tort capable of being insisted on or already insisted on,  or  in  any
+      other right whether  by  way  of  condition  or  otherwise,  legal  or
+      equitable, which can be or has  been  exercised  or  has  accrued  and
+      whether such a right could or could not be enforced by the insurer  in
+      the name of the assured by the exercise or acquiring of which right or
+      condition the loss against which the assured is insured,  can  be,  or
+      has been diminished."
+
+The insurer's right of subrogation cannot be exercised  until  he  has  made
+payment under the policy; (See Castellain V Preston (Supra) at P  389);  and
+according to Mc Cardie J. in the case of John Edwards & Co.  V  Motor  Union
+Insurance Co.  [1922]2  K.B  249  at  254  -  255,  although  the  right  of
+subrogation cannot be exercised until payment is made by the insurer, it  is
+a contingent right vesting at the time when the policy is entered into.
+
+All that is required to entitle the insurer to exercise the right of
+subrogation, as stated by Mc Gillivray on Insurance at P. 578, para 22 -
+24, is that:-
+the insurance is an indemnity insurance
+he has made payment under it and
+his rights of subrogation are not excluded by a term of the parties'
+contract.
+
+In this case therefore, the first plaintiff had a valid insurance policy
+against loss of money in transit with the second plaintiff and under this
+policy the second plaintiff paid the first plaintiff Shs.11,250,000/=
+(photocopy of the cheque Exh. P.8), as indemnity for the loss caused by the
+defendants employees (see discharge Voucher, Exh. P.10).
+
+Looking at the paper work done in this case I agree with Mr. Othieno that
+there are discrepancies in them.  Is that sufficient to show that the said
+claim was not paid?  I think not.  The question is whether the
+discrepancies can be explained in evidence which in my view was done.
+There is evidence of cheque used to pay the claim being Exh. P.8 (Standard
+Chartered No. 101189 of the 23rd March 2003) for the sum of 11,250,000/=.
+
+I find that the first plaintiff was indemnified by the second plaintiff and
+is entitled at common law to subrogate and recover the money.
+
+This issue is therefore answered in the affirmative.
+
+Issue 4:    Whether the defendant is vicariously liable for the loss.
+
+It is not in contention that from 17th September 2002 to 2nd January 2003
+defendant's employees' were picking up money from the first plaintiff's
+premises pursuant to the cash-in-transit arrangement.  It is also accepted
+as fact that on the 2nd January 2003 the defendant's employees picked the
+money from the first plaintiff's office as usual but did not deliver the
+money to the bank.  As a result of criminal investigations by the police
+the defendant's employees were apprehended as responsible for theft of the
+first plaintiff's money picked on 2/01/03.
+
+The plaintiff contends that the defendant's employees stole the money
+during the course of their regular routine of picking money from the first
+plaintiff and that the defendant company as their master, should be held
+vicariously liable for their acts.
+
+The defendant's counsel refutes this contention and submits that the
+defendant is not liable because there was no contract between the first
+plaintiff and the defendant.  That, although there was an offer (Exh. P2),
+no acceptance nor consideration was proved by the plaintiff and that the
+arrangement between the parties could not be enforced as a contract.
+
+The question therefore is; was there a valid contract for cash-in-transit
+services between the first plaintiff and the defendant?
+
+The defendant asserts that the only contract between the parties was for
+Guard Services (Exh. D1) and not cash in transit clause 11 of which clearly
+requires that "to vary, extend, omit or cancel the express terms of the
+agreement requires confirmation under the hand of a Director or Secretary
+of the company".  Mr. Othieno submitted that, at most, the guards were on a
+frolic of their own as no evidence was adduced to show that the director or
+secretary of the defendant company had confirmed the extension of services
+to cover cash-in-transit.
+
+In my opinion however, the cash-in-transit agreement, if any, would be a
+separate contract on its own rather than an extension or variation of the
+Guard Service Agreement.
+This is to be gathered from the defendant's letter of offer dated 11/06/02
+and addressed to the first plaintiff (Exh. P2), where the defendant states
+the terms that they offer this service in all places where they have set up
+branches and that they shall offer the service at a rate of Shs.50,000/=
+per trip in Kampala.
+
+It is the testimony of DW1 Mr. Apolo Onaga who is in charge of cash-in-
+transit transactions at the defendant company that; following this
+communication, the defendant's personnel used to transport money from the
+first plaintiff's premises to the bank on many occasions (at the first
+plaintiff's call).  This is corroborated by the Pick-up Register (Exh. P3)
+which shows that the defendant's employees picked money from the first
+plaintiff's premises and signed the register from 17/09/02 to 2/01/03.
+
+This conduct by the first plaintiff was an expression and communication of
+(implied) acceptance of the defendant's offer.
+
+Ms. Manzi for the plaintiff conceded that; "our agreement with security
+2000 was not written; it was a gentleman's agreement.  The agreement we had
+is the protection they gave us and the amount we had to pay them".
+
+The evidence clearly shows that the defendant company provided the first
+plaintiff a "cash in transit" protection service.  So I find that there was
+a contract between the parties which oral but operational at the time of
+the loss of money.
+
+It is a well established principle of law that a master is vicariously
+liable for the acts of his servant / agent upon proof of:-
+
+The existence of the employment / agency relationship
+
+
+That the employees/agents were acting in the course of employment  or  doing
+an act which is within the class of the acts authorized by the employer
+
+
+There was default  by  the  employee/agent  which  fixes  liability  to  the
+employer/master.
+           (See: Lakungu V Lalobo [2003] 1 E.A. 129).
+
+The test was stated by the Court of Appeal in the case of Katerea &  Anor  V
+U.E.B [1995 - 98] E.A. 95 at 100  (quoting  the  decision  in  the  case  of
+Muwonge V A.G. [1967] E.A. 17 with approval) that;
+
+      "The test of the master's liability for the acts of his servants  does
+      not depend upon whether or not the servant honestly believes  that  he
+      is executing his master's orders.  If that were so  the  master  would
+      neither be liable for the criminal acts of the  servant  at  any  rate
+      when the criminal act is towards benefiting the servant himself...
+All that I can say, as I understand the law is that even if he is acting
+deliberately, wantonly, negligently or criminally, even if he is acting for
+his own benefit, nevertheless... if what he did was a manner of carrying
+out what he was employed to carry out then his acts are acts for which his
+master is liable".
+
+I cannot see on the authorities how the defendant company  on  the  evidence
+before court cannot be liable for acts  of  its  servants.   They  collected
+money to deliver up to the bank but did not and the money was lost.
+
+I find the defendant company therefore liable for the loss.
+
+
+
+
+
+Issue 5:    What remedies are available to the parties.
+
+According to the doctrine of subrogation, the insurer is entitled only to
+those remedies, rights or other advantages which are available to the
+assured himself.  See Halsbury's Laws of England, Vol. 25 (4th Ed), para
+317.  And it was held in the case of Castellain V Preston (Supra) at P 388,
+that,
+
+      "that insurer is subrogated to any claim of any  character  which  the
+      assured is entitled to bring in proceedings against a third  party  to
+      diminish his loss"
+
+In the instant case, the plaintiff's claim against the  defendant  is  based
+on alleged theft / loss of money occasioned by the defendant's employees  to
+the first plaintiff.
+
+M/s Mc Larens Toplis an independent loss adjusters, were hired to
+investigate and assess the loss occasioned to the first plaintiff by the
+defendant's personnel.  At page 4 of the adjusters report (dated 12/02/03)
+the adjusters based their investigations on photocopies of the first
+plaintiff's cash book and sales details of all the shops, and reconciled
+the first plaintiff's closing cash position as on 31st December 2002 to be
+Shs.43,101,100/= as cash collected from 29/12/2002 to 31/12/2002.  The cash
+loss was therefore assessed by the independent adjusters to be Shs.43,
+010,100/=.
+
+Since I found that the defendant company is vicariously liable for this
+loss which it would pay the first defendant, it follows the second
+plaintiff is entitled to recover from the defendant that portion of the
+loss it paid by reason of the insurance policy being Shs.11,250,000/=.
+
+I accordingly order the defendant company to pay the second defendant the
+said money and the costs of this suit.
+
+
+
+
+
+
+
+Geoffrey Kiryabwire
+JUDGE
+
+
+Date:   31/10/2007
+
+
+
+
+
+
+
+
+
+
+                                                   Commercial Court Division
+
+PAGE  1
+
+
+HCT - 00 - CC -CS - 163- 2004
+
+                    /PAGE  12
+
+
+
+
+
+

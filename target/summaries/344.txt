@@ -1,0 +1,53 @@
+Nguku v Republic
+
+Division: Court of Appeal of Kenya at Nairobi
+
+Date of judgment: 13 February 2004
+
+Case Number: 267/02
+
+Before: Tunoi, OKubasu JJA and Onyango Otieno AJA
+
+Sourced by: LawAfrica
+
+Sourced by: LawAfrica
+
+Summarised by: C Kanjama
+
+[1] Criminal law  Theft  Stealing of cheque by servant  Whether handwriting experts opinion was
+
+sufficient to base conviction.
+
+[2] Criminal procedure  Charge sheet  Typographical error regarding number of stolen cheque 
+
+Whether charge sheet fatally defective.
+
+[3] Evidence  Handwriting expert  Conclusive opinion as to similarity of handwritings given by expert
+
+ Whether said opinion improper.
+
+Editors Summary
+
+A cheque written to a third party had gone missing in the offices of the Ministry of Foreign Affairs, and was later traced to a newly opened account. The money had been withdrawn immediately the cheque proceeds were credited therein. The handwriting on the account-opening documents and withdrawal forms was compared with the handwriting of all the clerical officers working in the Ministry offices. The appellant was arrested and charged with three counts of theft based on the findings of the document examiner. The document examiner gave unchallenged opinion evidence that the Appellants handwriting matched the handwriting used to open the suspect account. The appellant was convicted and appealed to the High Court. One count was dismissed, whereupon he made a further appeal to the Court of Appeal. He argued that the prosecution evidence was riddled with inconsistencies, and in particular that the cheque produced in court did not match the cheque number on the charge sheet. Further, it was argued that the document examiner had improperly given his conclusions in evidence instead of restricting himself to disclosing his particular findings. 
+
+
+
+Held  There was a typographical error in the charge sheet in respect of the subject cheque number. This did not prejudice the Appellant and certainly did not occasion injustice as the Appellant was aware of the said discrepancy between the charge sheet and the cheque produced in evidence. The handwriting expert is not restricted to merely pointing out the features of similarity or dissimilarity between a forged signature and specimens of handwriting. He is entitled to express without argument an opinion on whether two handwritings are the product of the same hand. If the opinion is a confident one, and is not challenged in cross-examination, the court is entitled to accept the opinion of the expert (Onyango v Republic [1969] EA 362 followed; Salum v Republic [1964] EA 126 disapproved).
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Onyango v Republic [1969] EA 362  F
+
+Salum v Republic [1964] EA 126  DA
+
+United Kingdom
+
+Wakefield v Lincoln (Bishop) [1921] 90 LJ PC 174

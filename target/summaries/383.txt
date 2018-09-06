@@ -1,0 +1,26 @@
+THE REPUBLIC OF UGANDA### invalid font number 1
+### invalid font number 0
+IN THE HIGH COURT OF UGANDA HOLDEN AT KAMPALA### invalid font number 1
+### invalid font number 0
+(COMMERCIAL COURT DIVISION)### invalid font number 1
+### invalid font number 0
+HCT-00-CC-CS-0307-2005### invalid font number 1
+### invalid font number 0
+PETER MULIRA PLAINTIFF### invalid font number 1
+### invalid font number 0
+T/A MULIRA & CO ADVOCATES### invalid font number 1
+### invalid font number 0
+VERSUS### invalid font number 1
+### invalid font number 0
+MUMTAZ KASSAM DEFENDANT### invalid font number 1
+### invalid font number 0
+
+Preliminary objection-Suit barred by limitation of time.-Section 3 of the Limitation Act
+Brief facts:
+
+On 18th November 1998 the Defendant commenced using the name of Mulira & Co. Advocates for business not connected with the plaintiff.
+Issues: 
+Whether the suit was time-barred.
+
+Held:
+Point of law raised by the defendant accepted and suit found to be time barred. Dismissed accordingly with costs.

@@ -1,0 +1,85 @@
+Baku and another v Attorney-General
+
+Division: Constitutional Court of Uganda at Kampala
+
+Date of judgment: 11 March 2005
+
+Case Number: 4 and 6/02
+
+Before: Mpagi-Bahigeine, Engwau, Twinomujuni, Byamugisha and
+
+Kavuma JJA
+
+Sourced by: LawAfrica
+
+[1] Constitutional law  Election petitions  Whether an election petitioner can appeal to the Supreme
+
+Court from the Court of Appeal  Whether section 67(3) of the Parliamentary Elections Act of 2001 is
+
+inconsistent with the Constitution.
+
+Editors Summary
+
+The petitioners contested the 2001 Parliamentary Elections in separate constituencies and lost. They then separately filed petitions to the High Court at Gulu and lost. Later they appealed to the Court of Appeal and still lost. They then filed separate petitions to the Constitutional Court, which consolidated them but dismissed them on technicalities. The Supreme Court, however, allowed their appeal and ordered the
+
+Constitutional Court to hear the petitions on merit.
+
+The petitioners, in their application, sought declarations that under Article 137 of the Constitution, that section 67(3) of the Parliamentary Elections Act of 2001 is inconsistent with Articles 140 and 86 of the Constitution and is therefore null and void; that the said section infringes on their rights under the Constitution; and that they both have a right of appeal to the Supreme Court.
+
+Held  Jurisdiction is created by statute and there is no such thing as inherent appellate jurisdiction
+
+(Attorney-General v Shah [1971] EA 50 approved).
+
+The Supreme Court can only entertain appeals from the Court of Appeal as the Constitution, the
+
+Judicature Act or any other law may prescribe.
+
+Jurisdiction, being a creature of statute, and the Constitution being the statute that confers jurisdiction, it cannot be said that jurisdiction can be inferred by cross-reference. (Per Byamugisha JA.)
+
+The appellate jurisdiction in Uganda is conferred by specific provision of law. There is no such thing as appellate jurisdiction by inference. (Per Kavuma JA).
+
+Article 140 of the Constitution empowers the Supreme Court and the Court of Appeal to hear and determine any appeal referred to them expeditiously. The Cross-reference in Article 140 to Article 86 does not confer appellate jurisdiction to the Supreme Court in election petitions. If that was the intention of the framers of the Constitution, they would have stated so deliberately.
+
+The Court of Appeal was intended to be the last and final Court of Appeal in election petitions. Section 67(3) of the Act is not inconsistent with Articles 140, 86(1) and (2) and 2(2) of the Constitution.
+
+Article 86 of the Constitution does not provide that an appeal to the Court of Appeal in election petitions is final nor does it confer any power to any authority to determine this issue. Clause (3) only gives Parliament power to make provisions as to who is eligible to petition the High Court and in what circumstances and manner and on what condition. Hence, it does not include power to confer original or appellate jurisdiction on any court in election petitions and consequently section 67(3) of the Act could not have been enacted under authority of Article 86(3) of the Constitution. (Per Twinomujuni JA dissenting).
+
+A close reading of Article 140(2) shows that the Court of Appeal and the Supreme Court were enjoined to hear and determine election petitions as expeditiously as the High Court was required to do so under Article 140(1) of the Constitution. By reading Article 140(1) together with Article 86, the logical and inescapable conclusion is that the Constitution of Uganda settled the question of appellate jurisdiction once and for all. (Per Twinomujuni JA dissenting.)
+
+Under section 7 of the Judicature Act, once the Court of Appeal disposes of an appeal from the exercise of the original jurisdiction of the High Court, an appeal, as of right, lies to the Supreme Court.
+
+(Per Twinomujuni JA dissenting.)
+
+Articles 86 and 140 of the Constitution conferred appellate jurisdiction in election petitions on the
+
+Supreme Court of Uganda. (Per Twinomujuni JA dissenting.)
+
+Anything to do with Presidential elections is exclusively dealt with in Article 104 of the Constitution.
+
+Hence, the reference to the Supreme Court in Article 140(2) can only be in respect of other election petitions emanating from the High Court and Court of Appeal other than the Presidential election petition. (Per Bahigeine JA dissenting.)
+
+The principle that there is no inherent appellate jurisdiction presupposes a situation where there is no apparent conflict between any law under the Constitution. (Attorney-General v Shah (4) [1971] EA 50 distinguished (per Bahigeine JA dissenting)).
+
+Article 132 deals with the general appellate jurisdiction of the Supreme Court while Articles 86 and
+
+140 specifically deal with the electoral matters as evidenced by the marginal notes (per Bahigeine JA dissenting.)
+
+Constitutional rights conferred without express limitation are not whittled down by reading implicit restriction into them. It will be a sacrilege, therefore, to put a restriction on the petitioners right of access to the highest appellate court in the land when the right is clearly guaranteed under Articles 132 and
+
+140(2). Section 67(3) is inconsistent with the named Articles of the Constitution and is null and void. (Per
+
+Bahigeine and Twinomujuni JJA dissenting).
+
+Petition dismissed.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+Attorney-General v Shah [1971] EA 50
+
+Ssemogerere and another v Attorney-General Constitutional appeal number 3 of 2004

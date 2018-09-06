@@ -1,0 +1,51 @@
+Utegi Technical Enterprises (T) Ltd and another v NBC Ltd
+
+Division: High Court of Tanzania at Dar-es-Salaam
+
+Date of ruling: 16 February 2004
+
+Case Number: 137/02
+
+Before: Kalegeyaj
+
+Sourced by: LawAfrica
+
+Summarised by: A Mwanzia
+
+[1] Civil procedure  Affidavit  Falsity of contents  Wrong computation of interest and
+
+understatement of purchase price  Whether falsity goes to the root of the application.
+
+[2] Civil procedure  Decree  Execution  Decree more than 12 months  Notice to judgment debtor 
+
+Whether court may dispense with notice  Whether reasons for dispensing with notice to be recorded 
+
+Order 21, rules 20 (1) and (2) Civil Procedure Rules (Tanzania).
+
+Editors Summary
+
+The applicants had been indebted to the respondent in the sum of TShs 31 160 059 arising from a loan advanced by the respondent to the applicants and secured by a mortgage. The respondent sued the applicants seeking recovery of the outstanding sum with interest, an order of foreclosure of the mortgaged property, interest on the decretal sum at statutory rate of 12% and costs of the suit. Judgment was entered for the respondents on 6 March 2002 as prayed save that the decretal sum would attract interest at the rate of 7% per annum.
+
+The respondent, instead of resorting to court for execution, exercised its statutory powers of sale and caused to be sold the mortgaged property for the sum of TShs 22 500 000. Thereafter, the respondent applied for execution of a decree for the balance of TShs 21 055 439. The application for execution contained arithmetic errors in that the computation of interest.
+
+The respondents application for execution was by attachment of the first judgment debtors (applicant) account garnishee order. A letter from the respondents advocate accompanied the application for execution urging that the garnishee order be issued expeditiously as the judgment debtor was still running the account and in the long run there may be nothing left to attach. The Court issued the orders sought.
+
+The applicants made an application seeking stay of execution of the decree, rescinding of the garnishee order and review. The applicants contended that the respondent had not issued a notice before executing the decree which was more than 12 months after issuance, that the interest computation was wrong as it should have been based at 7%, that the affidavit in support of the execution was false for stating TShs 22 million instead of TShs 22.5 million as the sale price realised and therefore the errors made the garnishee nisi untenable and should be rescinded and/or discharged.
+
+The respondent countered that although no notice was issued, the same was curable because the Court could dispense with the notice for good reason, that the computation of interest was wrong and the outstanding amount was therefore TShs 19 607 214-97, that the sale of the property by auction was properly conducted.
+
+Held  Under Order 21, rule 20(2), the Court may dispense with notice where decree was more than twelve months old and although Order 21, rule 20(2) required that reasons for dispensing with the notice be recorded, the Court had acted on the respondents letter which stipulated that a further delay may lead to depletion of an otherwise liquid account.
+
+The error in computation of interest was rectifiable and did not go to the root of the order. On the alleged falsity of the respondents affidavit, the understatement of the purchase price by TShs 500 000 did not go to the root of the application to warrant dismissal of the application.
+
+Application dismissed.
+
+Case referred to in ruling
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+Ignazio Messina v Willow Investment SPRL civil application number 21 of 2001 (CAT)  C

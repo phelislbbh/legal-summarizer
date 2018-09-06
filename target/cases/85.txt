@@ -1,0 +1,326 @@
+
+
+                           THE REPUBLIC OF UGANDA
+
+IN THE HIGH COURT OF UGAANDA AT KAMPALA
+(COMMERCIAL COURT DIVISION)
+
+HCT-00-CC-CS-0130-2002
+
+CASEMENTS      (A)       LTD                   :::::::::::::::::::::::::::::
+PLAINTIFF
+
+                                   VERSUS
+
+UGANDA DEVELOPMENT BANK     :::::::::::::::::::::::    DEFENDANT
+Textbooks:
+Chitty on Contracts, Volume 2 London Sweet & Maxwell 1999
+
+
+BEFORE: THE HONOURABLE MR. JUSTICE YOROKAMU BAMWINE
+
+J U D G M E N T:
+
+The plaintiff's claim against the defendant is for payment of Shs.70,
+068,027= for additional partition work; retention amounting to Shs.6,
+296,435= and withholding tax receipt or value thereof amounting to Shs.2,
+518,573=.
+
+From the evidence, the plaintiff was invited by M/S Associated Architects,
+the defendant's Project Architects, to quote for the supply and erection of
+Aluminium Frame Partitions at Plot 22 Hannington Road, Kampala.  Pursuant
+to that invitation, the plaintiff forwarded a Quotation to the said Project
+Architect based on Elevation Drawings and Plans.  Later, the Architect
+wrote back to the plaintiff stating that the Quotation had been approved by
+the defendant for a total sum of Shs.125, 928,691=.  No formal contract was
+drawn up between the parties but the plaintiff went ahead and undertook the
+works based on the Quotation.  It is claimed by the plaintiff that whilst
+at work, it realized that the actual running metres exceeded the Quoted
+running meters of 255.75m.  That owing to the urgency of the work and with
+the consent of the Project Architect, it completed the works including the
+additions/variations and handed it to the defendant.
+
+The plaintiff then demanded for Shs.78,883,039= being 5% retention, 4%
+withholding tax receipts and value of additional 153.33 running metres
+installed.  The defendant declined payment claiming that the contract was
+for a lump sum as opposed to a priced bill of quantities contract; and
+further, that the plaintiff was bound by the contract price.  Hence this
+suit.
+
+At the scheduling conference held on 16/10/2002, the parties agreed:
+1.    That the plaintiff was  contracted  to  do  the  partitioning  of  UDB
+      Towers for Shs.125, 928,691=.
+2.    That the plaintiff handed over the work to the defendant.
+3.    That the defendant accepted the work.
+
+Issues were framed as follows:
+1.    Whether or not the plaintiff did extra work.
+2.    If so, whether the plaintiff is entitled to the payment sought.
+3.    Any other remedies.
+
+Representations:
+Mr. Muwema for the plaintiff.
+Dr. Byamugisha for the defendant.
+
+Later in the proceedings, counsel for the  defendant  sought  to  amend  the
+issues to include:
+(i)   Whether there was an amendment to the contract by which the  plaintiff
+      was engaged to do extra work by the defendant for which the  claim  is
+      made.
+(ii)  Whether the principle of quantum meruit applies.
+(iii) Whether the contract was a lump sum contract and plaintiff is bound
+by contract price.
+
+From the record of the proceedings, there is no  evidence  that  the  prayer
+was objected to by counsel for  the  plaintiff  or  granted  by  Court.   It
+appears to me to have remained a proposal.  Learned counsel for the  defence
+has based his submissions on the issues as framed on 16/10/2002.  I will  do
+the same.  I hope, in the process,  to  address  the  sub-issues  raised  by
+defence counsel's proposed amendment as well.
+
+As whether or not the plaintiff did extra-work, I have considered the
+evidence of the parties on the matter.
+
+PW1 Mr. Abid Alam, the Managing Director of the plaintiff company stated
+that the original work quoted for was 255.75 running metres and that the
+actual work carried out was 409.08 running metres, implying an additional
+153.33 running metres to the original amount that was quoted for.  The
+evidence of PW2 Philip Fernandes, Technical Sales Manager at the time is to
+the same effect.  I have also addressed my mind to the evidence of PW3
+Peter Kamya.  He was the defendant's Project Architect.  In a letter he
+wrote to his principal, the defendant herein, on 20/7/99, Mr. Kamya stated:
+       "Re: ADDITIONAL SUPPLY AND INSTALLATION OF OFFICE PARTITIONS AT  UDB
+       BY M/S CASEMENTS (A) LTD
+This is to refer to our discussions regarding the installation of
+additional partitioning carried out by M/S Casements (A) Ltd at UDB Towers.
+
+The total running metres as per their original quotation Ref:
+CAL/AA/96/951, dated 19/10/96, based on elevations only was 255.75 at total
+value of Shs.125,928,691= (in words) whereas the total running metres
+actually installed as per plans was 409.08 at total value of
+Shs.195,996,722 (in words) reflecting a difference of Ug. Shs.70, 068,031=
+(in words).
+
+       In view of this, it is your prerogative to settle the claim of  this
+       contractor.  However  we  still  maintain  that  the  contractor  be
+       penalized for his negligence by deducting 10 - 15% from  the  amount
+       due to him.  We hope this will now put this matter to rest
+
+
+Yours sincerely
+Arc. P. Kamya."
+
+While testifying as a witness for the plaintiff, Mr. Kamya did  indicate  to
+Court that he could not  say  whether  the  plaintiffs  did  any  additional
+works.  That he would need documents  on  the  matter.   He  attributed  his
+indecisiveness to lapse of memory, it being long since  all  this  happened.
+I must say he had a point here, given that he was  testifying  close  to  10
+years after the event.  Later, after the documents had been availed to  him,
+he conceded that going by the documents he had seen,  some  variations  were
+effected.
+
+Commenting specifically on D. Exh. 11, the letter already set out above,
+the Architect said:
+      "I was saying in short that the contractor didn't have  a  contractual
+      claim for the additional works.  However, the  client  would  exercise
+      its prerogative and pay them for what they were claiming but  penalize
+      them for some negligence which we indicated in the letter.  I  confirm
+      that additional works were done.  UDB took possession of the completed
+      work and benefited from it."
+
+In law a fact is said to be proved when Court is satisfied as to its  truth.
+ In the instant suit, the plaintiffs have alleged that some additional  work
+was done.  Their evidence is supported by  that  of  PW3  Peter  Kamya,  the
+defendant's own Architect.  An Architect  is  generally  the  agent  of  the
+principal for purposes of superintending project  works.   I  have  seen  no
+reason to  doubt  the  sufficiently  documented  additional  153.33  running
+metres to the original contractual measurements.   In  these  circumstances,
+Court is unable to accept  Dr.  Byamugisha's  argument  that  no  additional
+works were done.   On  the  balance  of  probabilities,  the  plaintiff  did
+additional work as claimed.  I so find and answer the  first  issue  in  the
+affirmative.
+
+As to whether the plaintiff is entitled to the payment sought, I have also
+addressed my mind to the able arguments of both counsel on the matter.
+I have already noted that the plaintiff was invited by M/S Associated
+Architects to quote for the supply and erection of the Aluminium frame
+partitions.  The Quotations for the works were invited from a number of
+contractors.  They quoted as follows:
+(a)   Casements (A) Ltd - Shs.125, 928,691=.
+(b)   Lags Construction - Shs.127, 125,705=
+(c)   Jay Interiors Ltd - Shs.211, 044,600=.
+
+After negotiations between the plaintiff and the project architect, the
+contract was awarded to the plaintiff at the sum of Shs.125, 928,691=
+inclusive of VAT.
+
+Asked why the plaintiff was now asking for payment outside the contract
+price, the plaintiffs witnesses said that they made a mistake in their
+quotation.  Asked what mistake it was, PW2 said:
+      "The mistake that was made was, we made the quotation according to the
+      elevation drawings submitted by the Architect.   We  did  not  compare
+      them with  the  plan  drawings  submitted  by  the  Architect  because
+      normally both these drawings should give us the same details  for  the
+      job to be done.  To elaborate further if there is a partitioning to be
+      done there are two views.  One view is taken  from  the  top  that  is
+      called plan and the other view is from  front  side  which  is  called
+      elevation view.  And both these views should ideally reflect the  same
+      partition."
+
+The defendant's Architect did not have kind words for the plaintiff's
+claim.  He stated in his letter of 17/12/98, D. Exh. X1:
+
+"...........................................................................
+.
+    Your  claim  for  additional  partitioning  amounting  to  Ug.  Shs.70,
+    068,027= is  therefore  without  foundation.   We  suspect  this  is  a
+    surreptitious attempt on your part to revise  your  quotation  up-wards
+    under the guise of additional partitioning.
+
+
+    Your statement that you based you quotations on elevations alone cannot
+    be justified.  One would wonder how a contractor of  your  caliber  and
+    experience could base your quotation on elevations alone when you  know
+    very well that it is the plans which define the  extent  of  work  more
+    fully and that the elevations complement the plans and  not  the  other
+    way round.
+
+    If this claim were to be allowed, your quotation would no longer
+be the lowest and would give you unfair advantage over your competitors.
+
+
+    As for ...................................................."
+
+Asked whether he, the Architect, ever objected to the additional  works,  he
+was categorical that he could not  have  objected  to  the  additional  work
+because he had not been made aware of it before  it  was  done.    There  is
+nothing in writing to suggest that either the  Architect  or  the  defendant
+was consulted before the additional works were done.
+
+The Architect's evidence is that by the time he was made aware that there
+was additional work to be paid for; it (the work) had already been done.  I
+noted Mr. Kamya's demeanour as he testified.  He was calm and confident.
+In my view, his evidence that he was never consulted before the additional
+works were done is unassailable.  I accept the defence version and reject
+the plaintiff's.  And herein lies the plaintiff's fate.
+
+Quotations for the works were invited from a number of contractors.  The
+defendant opted for the cheapest bidder, the plaintiff.  I would assume
+that the bid was based on past experience in the same field.
+
+In a letter dated 7/11/1996, the defendant, through its agent, the
+Architect stated, interalia:
+    "4.  Tender figure
+Your tender figure is to remain unaltered."
+
+The plaintiff accepted  that  condition.   Its  officials  have  now  turned
+around to say that they  mistakenly  based  their  quotation  on  elevation,
+instead of basing it on the drawings.  Who then should they blame for  their
+carelessness?  In my view, they have themselves to  blame  for  that  costly
+mistake.
+
+From the records, this was a lump sum contract.  It is fitting that I
+should refer to the relevant passages in Chitty on Contracts, Volume 2
+London Sweet & Maxwell 1999 para 37 - 008.  He states:
+      "Lump sum contract.   In  a  lump  sum  contract,  the  contractor  is
+      required to carry out and complete the entirety of the named  contract
+      works for a fixed sum agreed in advance, or,  as  is  more  usual,  if
+      there are changes in the  scope  of  the  named  contract  works,  for
+      "........ such other sum as shall  become  payable  .........  at  the
+      times and in the manner specified in the conditions."  In the case  of
+      lump sum contracts, the proposed contract works will  be  of  a  known
+      extent (that is, not at the development/design stage) and described in
+      the specification or Bill of Quantities.  Where the  specification  or
+      Bill of Quantities forms part of the contract, provided  the  work  is
+      sufficiently described, the contractor will be taken to have  included
+      for that work in his fixed price.   Where  work  is  not  sufficiently
+      described, and its existence is not reasonably to be inferred from the
+      language of the contract, the contractor will be entitled  to  recover
+      payment in addition to the fixed price."
+
+From the above passage, it is clear to me  that  the  plaintiff  is  at  the
+wrong end of the law.  The work was sufficiently described  to  them.   They
+must be taken to have included the works claimed for herein in  their  fixed
+price of Shs.125, 928,691=.  In my view, a contract  can  only  be  made  on
+account of a mistake if the mistake was due to the ambiguity of  the  terms;
+or, if special circumstances exist to  render  the  mistake  excusable;  or,
+where the defendant must have  known  of  the  plaintiff's  mistake  at  the
+execution of the contract.  It would appear to me that none of  the  factors
+above is available to the plaintiff.   I would consider a  lumpsum  contract
+to be one  where  the  client  essentially  assigns  all  the  risk  to  the
+contractor, who in turn can be expected to ask  for  a  higher  mark  up  in
+order to take care of unforeseen contingencies.
+
+As PW3 Kamya correctly stated, in my view, doing additional work in
+construction contracts is not uncommon.  However, if the actual cost of the
+project is under estimated, the under estimated cost will in my fair
+judgment ordinarily reduce the contractor's profit by that amount.  An over
+estimate would be to his advantage.  In the instant case, the mistake
+relied on by the plaintiff was merely the result of its own carelessness.
+The plaintiff cannot avoid performance of the contract by merely pleading
+mistake.  It also follows in my view that they cannot recover anything
+beyond the contract price as long as when they discovered the mistake, they
+did not have the courtesy of seeking the defendant's approval of any
+additional work before it was done.  It is settled law that where the
+contract is in writing, its terms can be ascertained by means of
+documentary evidence.  Where these are clear, as herein, a Court must give
+effect to the terms.  It is not the duty of the Court to re-write an
+expressly stated contract for the parties.  This is not to say, of course,
+that a contract once written cannot be varied.  It can be varied but with
+the concurrence of the other party.
+
+In the instant case, the parties agreed that the tender figure would remain
+unaltered.  The plaintiff claims that the issue of additional works was
+discussed with the defendant's Architect.  PW3 Kamya denies it.  In view of
+this Court's finding earlier on in this judgment that the Architect was
+never consulted before the additional works were done, the plaintiff has no
+valid contractual claim against the defendant for the additional work.  The
+defendant's refusal to exercise its prerogative to pay for work it did not
+sanction cannot in the circumstances be faulted.  The plaintiff's claim
+must therefore fail and it fails.
+
+As to any other remedies available to the plaintiff, there is evidence that
+it was paid in accordance with certificates issued by the Project
+Architect.  In D. Exh. X, the Architect told the plaintiff that the
+defendant did not hold any other certificate for the work they had done
+apart from the retention fee of Shs.2,435,920= which would be released to
+them after attending to all defects and uncompleted works.  He also
+rejected the claim for taxes.  In my view, he was entitled to do so.  Given
+that close to ten years later no defects or uncompleted works have been
+alleged against the plaintiff, Court is of the opinion that the plaintiff
+is entitled to have the Shs.2,435,920= released to them.  This sum is
+accordingly decreed to the plaintiff.
+
+As regards costs, the usual result is that the loser pays the winner's
+costs.  This practice is subject to the Court's discretion, so that a
+winning party may not necessarily be awarded his costs.  Taking into
+account the peculiarities of this case and the benefits derived by the
+defendant from the contract, the commercial justice of the case warrants
+that an order be made that each party bears its own costs.  I so order.
+
+Yorokamu Bamwine
+J U D G E
+25/05/2007
+
+Order:  This judgment shall be delivered by the Registrar on my behalf on
+the due date.
+
+Yorokamu Bamwine
+J U D G E
+25/05/2007
+
+
+
+
+
+
+
+
+PAGE
+
+
+PAGE  1
+
+
+
+

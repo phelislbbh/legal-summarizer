@@ -1,0 +1,26 @@
+THE REPUBLIC OF UGANDA### invalid font number 1
+### invalid font number 0
+IN THE HIGH COURT OF UGANDA HOLDEN AT KAMPALA### invalid font number 1
+### invalid font number 0
+(COMMERCIAL COURT DIVISION)### invalid font number 1
+### invalid font number 0
+HCT-00-CC-MA-0545-2005### invalid font number 1
+### invalid font number 0
+(Arising from HTC-00-CC-CS-0586-2003)### invalid font number 1
+### invalid font number 0
+INFOTECH SYSTEMS LTD APPLICANT/DEFENDANT### invalid font number 1
+### invalid font number 0
+VERSUS### invalid font number 1
+### invalid font number 0
+RAPS (U) LTD RESPONDENT/PLAINTIFF### invalid font number 1
+
+FACTS
+### invalid font number 0
+The plaintiffs advocate mistakenly entered the wrong date in his diary and he communicated that same wrong date to the client. On the day that application came for hearing they were not in court, as a result of this mistake.
+
+ISSUES
+Whether the applicant has a defence on the merits.
+
+HELD
+The applicant not only failed to disclose any facts that may entitle it to defend, but the applicant had not in fact simultaneously applied for leave to appear and defend which it ought to have done.-The excuse may have been sufficient to explain the absence of counsel and his client from court on that day, but taken alone it was not sufficient to vacate a decree lawfully entered, as it had failed to show if it was entitled to defend the suit on the merits. Application dismissed with costs.
+### invalid font number 1

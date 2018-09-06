@@ -1,0 +1,638 @@
+
+
+                           THE REPUBLIC OF UGANDA
+                   IN THE HIGH COURT OF UGANDA AT KAMPALA
+(COMMERCIAL COURT DIVISION)
+HCT-00-CC-CA-0001 OF 2005
+       Arising from Tax Appeals Tribunal Application No. TAT 8 Of 2004
+
+CELTEL UGANDA LIMITED:::::::::::::::::::::::::::: APPELLANT
+                                   VERSUS
+UGANDA REVENUE AUTHORITY:::::::::::::::: RESPONDENT
+
+Legislation referred to:
+VAT Act
+Employment Act
+Tax Appeals Tribunal Act,
+
+Cases Cited:
+Pushpa d/o Raojibhai re patel Vs. The Fleet Transport Company Limited
+[1960] EA 1025
+Esso Petroleum Co. Ltd  -Vs-  Southport Corporation [1955] 3  All ER 864
+Frank Rwakijajiri -Vs- Kabayo [1992 - 93] HCB 165.
+Sule Pharmacy Limited -Vs- The Registered  Trustees of the Khoja Shia Itana
+Shari Jamat H.C Misc. App. No. 147 of 1999(unreported).
+
+
+
+
+Textbooks:
+Shorter Oxford English Dictionary
+
+
+                   BEFORE:  HON. JUSTICE LAMECK N. MUKASA
+
+J U D G M E N T.
+
+This is an appeal from a decision of the Tax Appeals Tribunal  made  on  the
+17th  December  2004.   The  Appellant,  Celtel   Uganda   Limited,   is   a
+Telecommunication Company incorporated in  Uganda  and  is  engaged  in  the
+business  of  providing  mobile  cellular  phones   and   telecommunications
+services.   The  Respondent,  Uganda  Revenue  Authority,  is  the  revenue-
+collecting agency of the Government of Uganda.  The  facts  giving  rise  to
+this appeal are that the Respondent conducted VAT and exercise audit on  the
+Appellant for the period April 2000 to July 2003  as  result  of  which  the
+Respondent assessed VAT of Ug. Shs. 358,652,458/= and a penalty of Ug.  Shs.
+253,161,660/=.  The VAT arose on airtime issued  by  the  Appellant  to  its
+staff for use in their official duties.  The Appellant objected to  the  tax
+and the penalty and appealed to the Tribunal.   The  following  issues  were
+agreed upon before the Tribunal:-
+
+Whether the supply of airtime by the Applicant to its staff for official
+use amounted to a taxable supply;
+Whether the Applicant is liable to pay the VAT of Ug. Shs. 358,652,458/= on
+the airtime provided by the Applicant to its staff on their official duties
+and the penalty of Ug. Shs. 253,161,660/=.
+Costs and remedies.
+
+The Tribunal received written submissions on the above issues from both
+parties and after considering the submissions of each party, the Tribunal
+ruled as follows:-
+
+Airtime is a consumable product just like gas or air conditioning and as
+such is goods within the context of the VAT Act, even through both the
+Applicant and the Respondent were of the view that airtime is in the
+category of services.
+Airtime provided by mobile cellular phones, is goods and a taxable supply
+under sections 10 and 18 of the VAT Act.
+Not being an exempt supply under section 20 of the said Act is liable to
+tax.
+Any supply of airtime made to staff for use on official duties for free is
+deemed a supply made for reduced consideration between the Applicant and
+its staff under sections 3 and 18(7) of VAT Act and is liable to VAT.
+The applicant is liable to pay the VAT assessed of Ug. Shs. 358,652,458/=
+and the penalty of Shs. 253,161,660/=.
+
+The Appellant has appealed against the Tribunals ruling on the following
+grounds.
+
+The Tribunal erred in law in holding that "airtime provided by mobile
+cellular phones, is goods and a taxable supply under sections 10 and 18 of
+the VAT Act.  Not being an exempt supply under section 20 of the said Act,
+is liable to tax".
+
+The Tribunal erred in law in holding that "airtime is a consumable product
+just like gas or air conditioning and as such is goods within the context
+of the VAT Act, even though both the Applicant and the Respondent were of
+the view that airtime is in the category of services".
+
+The Tribunal erred in law in holding that "any supply of airtime made to
+staff for use on official duties for free is deemed a supply made for
+reduced consideration between the Applicant and its staff under sections 3
+and 18(7) of the value Added Tax Act and is liable to VAT."
+
+The Tribunal erred in law in upholding the assessment of Ug. Shs.
+358,652,458/= and the penalty of Ug. Shs. 253,161,660/=.
+
+The Respondent is contention is that the supply of airtime by the Appellant
+to its staff purportedly for the execution of their official duties and
+purportedly for no consideration was a taxable supply under the VAT Act and
+therefore subject to VAT of 17% of the fair market value thereof.  Further
+that the assessment for VAT and the penalty was properly made by the
+Respondent and should be upheld.
+
+The main issues which arise from the grounds of appeal are whether:-
+The supply of airtime provided by the mobile cellular phones is a supply  of
+goods or a supply of services; and
+The supply of airtime is a taxable supply.
+
+Section 1(h) of the Value Added Tax Act defines "goods" to include all
+kinds of movable and immovable property, thermal and electrical energy,
+heating, gas, refrigeration, airtime conditioning and water, but does not
+include money.  And Section 10 of the Act provides:-
+ "(1) Except as otherwise provided under this Act, a supply of goods  means
+        any arrangement under which the owner of   the goods parts or  will
+        part with possession of the    goods,  including  an  agreement  of
+        sale and purchase.
+           A  supply  of  electrical  or  thermal  energy,   heating   gas,
+           refrigeration, air conditioning and water is a supply of goods.
+The application of goods to own use is a supply of goods".
+
+While "Services" are defined by section 1(t) to mean anything  that  is  not
+goods or money.  And section 110 if the Act provides:
+
+    "(1) Except as otherwise provided under this Act, a supply of  services
+    means any supply which is not a supply of goods or money, including -
+               The performance of services for another person;
+The making available of any facility or advantage; or
+The toleration of any situation or the refraining from the doing of any
+activity.
+
+
+(2)   A supply of services made by an employee to an employer by  reason  of
+      employment is not a supply made by the employee."
+
+
+        While section 12 provides:-
+       "(1)     A supply of services incidental to the supply of  goods  as
+       part of the supply of goods.
+      A supply of goods incidental to the supply of services is part of  the
+      supply of services.
+      -----------"
+The Tribunal in its ruling looked at the definitions of "goods" "money"  and
+"services" in the interpretation section of the VAT  Act  and  having  found
+that Airtime is not defined anywhere in the Act held that airtime under  the
+VAT Act is neither money nor services.  The Tribunal employed  the  doctrine
+of ejusdem generis and interpreted the word "airtime" by relating it to  the
+definition of the words "goods" in  the  Act  more  specifically  the  words
+embodied in the  clause  "  thermal  and  electrical  energy,  heating,  gas
+refrigeration, air conditioning and water."  The  Tribunal  found  that  the
+above words give the word "airtime" colour and  meaning  and  content.   And
+concluded that since the definition of the word "goods" is  not  exhaustive,
+the section having proceeded the definition with the words  "includes",  the
+word "airtime" fits in the  definition.   The  Tribunal  finally  held  that
+airtime provided by mobile cellular phones is goods under section 10 of  the
+Act.
+
+In its statement of facts and reasons in support of the Application before
+the Tribunal the Appellant contended that the subject to VAT under
+application of own use and supplies for reduced consideration under the
+provisions of the VAT Act could not apply to airtime as it was services and
+not goods.  In its statement of Reasons for the Tax Decision the Respondent
+contended that the Applicant/Appellant company makes taxable supplies of
+services as part of its business activities and argued that the supply of
+airtime to staff purportedly for no consideration is an application of the
+services to own use and further that the taxing of a supply of goods
+applied to use provided for order the VAT Act can be extended to the supply
+of services applied to own us under the rules of statutory interpretation.
+The above statements in their respective statements, which formed the
+parties' pleadings before the Tribunal, show that according to both parties
+airtime is in the category of services.   Therefore the Tribunals holding
+that airtime provided by mobile cellular phones is goods under section 10
+of the VAT Act was contrary to the parties pleadings which were to the
+effect that it is a service.  The issue is whether the Tribunals holding
+should in the circumstances be upheld or not.
+
+In his submissions counsel for the Appellant argued that the Tribunal erred
+in holding that "airtime" is "goods" for the reasons that the holding was
+contrary to the facts on which the parties presented the case and secondly
+that the Tribunal gave meaning to the word "airtime" which was not an issue
+before it as agreed upon by the parties.  Counsel further contended that
+the Respondent had in its pleadings and submission before the Tribunal
+shown that the Respondent imposed the tax not on the basis that the
+Appellant was supplying goods but on the basis that it was supplying
+services in the form of airtime.  Reference was made to the holding in
+Pushpa d/o Raojibhai re patel Vs. The Fleet Transport Company Limited
+[1960] EA 1025 where it was stated by the Court of Appeal for Eastern
+Africa that:-
+      "It is of course a salutary and necessary rule that a party  is  bound
+      by his pleadings.  If, however, particulars are give in  undue  detail
+      and what is proved varies from the ways which are material, it remains
+      the duty of the court to see that justice is done and leave  to  amend
+      will be given at any stage.  If, on the other  hand,  the  particulars
+      given have misled the defendant or led to his shaping his  case  in  a
+      certain way that is a very different matter."
+
+
+Counsel also referred to the holding in the case of Esso Petroleum  Co.  Ltd
+-Vs-  Southport Corporation [1955] 3  All ER 864  quoted  with  approved  in
+the above case by Lord Racliffe at page 1035 that:-
+
+
+      "To condemn a party on a ground of which us fair notice has been given
+      may be as great a denial of justice as to condemn him on a  ground  on
+      which his evidence has been improperly excluded."
+
+
+Counsel submitted that the Respondent was  bound  by  its  assertion,  which
+assertion was accepted by the  Appellant  throughout,  that  the  supply  of
+airtime was a supply of  services.   Further  that  it  is  a  principle  of
+justice that the Tribunal should have proceeded on the basis of  the  agreed
+facts and should not have departed from them except by amendment  and  after
+the parties had been given an opportunity  to  be  heard  on  the  amendment
+which the Tribunal had not done thus causing injustice to the appellant.
+
+On the meaning of the word "airtime" which the Tribunal found was order a
+duty to give counsel argued that the question had not been posed by either
+party and submitted that the question was irrelevant and the Tribunal was
+in error to answer the question.
+
+The main issue before the Tribunal was whether the supply of airtime by the
+Applicant to its staff for official use amounted to taxable supply.
+Section 18(1) of the VAT Act provides;-
+      "A taxable supply is a supply of goods  or  services,  other  than  an
+      exempt supply, made by a taxable person for a consideration as part to
+      his or her business activities.
+
+
+A supply whether of goods or services, if not exempt, is  taxable.   Whether
+the supply of airtime was goods or  services  it  was  imperative  upon  the
+Tribunal to define the word airtime so as to be able to classify it  whether
+among the taxable or exempt supplies.  I note however that the Tribunal  did
+not define "airtime" but  only  proceeded  to  classify  it  as  "goods"  as
+opposed to "services".
+
+As to whether the Tribunal was justified to find that "airtime" was "goods"
+as opposed to "services"; the general view of both parties, Counsel for the
+Respondent submitted that the Tribunal is mandated to make such
+interpretation of the Law as it deems necessary to determine the
+application.  That this includes making interpretations that may differ
+from the pleadings of either or both the parties should it be necessary in
+determining the application.  Counsel argued that simply because the
+parties submitted that the supply of cellular phone airtime was a supply of
+services doesn't mean that the Tribunal must stick with that interpretation
+if it is not convinced by the arguments raised.  Secondly that no new
+grounds were raised by any of the parties.
+
+ It is trite law that evidence must be consistent with pleadings and a
+Court is not permitted to reach a decision based on grounds which were not
+pleaded.  See also Frank Rwakijajiri -Vs- Kabayo [1992 - 93] HCB 165.   A
+party is bound by its pleadings.  However in the instant case the
+Respondent did not during the trial before Tribunal make any attempt to
+change its pleadings or line of argument.  The Tribunal on its own motion
+made a finding different from the view as pleaded by the Respondent.  This
+is clearly indicated in its ruling where the Tribunal stated;
+      "... the Tribunal reaches a  conclusion  that  airtime  ...  is  goods
+      within the context of the VAT Act, even though both the Applicant  and
+      the Respondent were of the view that airtime is  in  the  category  of
+      services"
+
+
+Therefore the instant case is distinguishable from  the  cases  cited  above
+since there was no diversion from the pleadings by any of the parties.   The
+issue is whether on its own the  Tribunal  was  justified  to  make  such  a
+finding, in the circumstances of this case.  Taxation Appeals Tribunals  are
+established by the Tax Appeals Tribunal Act, section 22 of which provides;-
+"22 (1)     In any proceeding  before  a  Tribunal,  the  procedure  of  the
+           tribunal is, subject to this Act, within the discretion  of  the
+           Tribunal.
+A proceeding before a Tribunal shall be conducted with as  little  formality
+and technicality as possible, and the Tribunal shall not  be  bound  by  the
+rules of evidence but may inform itself on any matter in such manner  as  it
+thinks appropriate.
+           --------"
+
+
+Employing the rules of Court to the  proceedings  before  the  Tax  Tribunal
+section 33 of the Judicature Act provides;-
+      "The High Court shall, in the exercise of the jurisdiction  vested  it
+      by the Constitution, this Act or any written law; grant absolutely  or
+      on such terms and conditions as it thinks just, all such  remedies  as
+      any of the parties to a cause or matter is entitled to in  respect  of
+      any legal or equitable claim properly brought before it,  so  that  as
+      far as possible all matters in controversy between the parties may  be
+      completely and finally determined  and  all  multiplicities  of  legal
+      proceedings concerning any of those matters avoided. "
+
+
+The main issue before the Tribunal was whether the supply of airtime  was  a
+taxable supply under the VAT Act.  Under the VAT Act there are two types  of
+supplies, that is "goods" or "services".  It  was  necessary  before  making
+decision as to whether a supply is taxable to determine the category of  the
+supply in question.  Though both parties had proceeded in  their  respective
+view that the supply of airtime was a supply of services, the  Tribunal  was
+entitled on the evidence before it and the law  as  provided  in  the  Value
+Added Tax Act to make its independent decision as to  the  category  of  the
+supply  which  finding  was  necessary  for  the  purposes  of  finally  and
+completely determining all the matters in controversy.  That is whether  the
+supply was a taxable supply  under  the  Act.   The  issue  is  whether  the
+Tribunal made a correct finding when it held that the supply of airtime  was
+supply of goods under the VAT Act.  This brings me to the second  ground  of
+appeal.
+
+The second ground is that the Tribunal erred in law in holding that
+"airtime is a consumable product just like gas or air conditioning and as
+such goods within the context of the VAT Act, even though both the
+Applicant and the Respondent were of the view that the airtime is in the
+category of services."   In arriving at its decision the Tribunal
+considered the definition of "goods" in section 1 of the VAT Act and
+adopting the doctrine of ejusdem generis (Latin for "of the same kind or
+class".)  This rule of general statutory interpretation is to the effect
+that when a general word or phrase follows a list of specific persons or
+things, the general word or phrase will be interpreted to include only
+persons or things of the same type as those listed.
+
+Section 1 of the VAT Act provides;-
+      "1. In this Act, where the context otherwise requires -
+(h) "goods" includes all kinds of movable and immovable property, thermal
+and electrical energy, heating, gas, refrigeration, air conditioning and
+water, but does not include money."
+
+The definition above by the use of the word "includes"  is  not  limited  to
+examples given.  However it must be read together  with  section  10,  which
+relates to the supply of goods.  Under the section a supply of  goods  means
+any arrangement under which the owner of the goods parts or will  part  with
+possession of the goods,  including  an  agreement  of  sale  and  purchase.
+There is therefore an element of the owner having possession and parting  or
+agreeing to part with possession of the item  to  be  supplied.   The  owner
+must have been in position to possess the item for supply.   The  supply  of
+the  electrical  or  thermal  energy,  heating,  gas,   refrigeration,   air
+conditioning or water is specifically classified as a supply of goods  under
+sub-section 2  of  the  section.   The  above  supplies  are  scientifically
+collected or generated by the owner/supplier whereby the supplier  possesses
+the supply and then supplies it to the consumer/buyer.
+
+The Tribunal found that "airtime" is within the same class of supplies as
+the above.  As already pointed out herein, the Tribunal found that it had a
+duty to give a meaning to the word "airtime" but had actually not executed
+that duty.  The Advanced Learners Dictionary 6th ed. defines "airtime" as
+"(1) the amount of time given to a particular subject or radio or
+television (2) the amount of time that is paid for when you are using a
+mobile phone."  Airtime is therefore the time paid for to transmit massages
+by airwaves on phone.   The supplier in the instant case connects the buyer
+to the airwaves transmission.  The supplier doesn't possess the airwaves
+but facilitates the consumer's connection to the airwaves for the period of
+time paid for.  Without that element of first possession and then parting
+or agreeing to part with it, the supply of airtime cannot be a supply of
+goods under section 10 of the VAT Act.  Therefore the Tribunal erroneously
+found that the supply of "airtime" is a supply of goods.  Under section
+1(t) of the Act "services" means anything that is not goods or money.  I
+have already held that "airtime" is not "goods" under the Act and clearly
+it is not money as defined by para (n) of the section.  The definition of
+"services" in the Act is exclusive; it excludes "goods" and "money".  I
+accordingly find that the supply of airtime is a supply of services under
+section 11 of the Act.
+
+The section provides:-
+      "11 (1) Except as otherwise provided  under  this  Act,  a  supply  of
+      services means any supply which is not a supply  of  goods  or  money,
+      including -
+The performance of services for another person;
+The making available of any facility or advantage; or
+The toleration of any situation or the refraining from the doing of any
+activity."
+
+
+The supply of airtime is making available of a facility, thus  a  supply  of
+service.
+
+The third good of appeal is that the Tribunal erred in law in holding that
+"any supply of airtime made to staff for use on official duties for free is
+deemed a supply made for reduced consideration between the Applicant and
+its staff under sections 3 and 18(7) of the Value Added Tax Act and is
+liable to VAT."
+
+The Tribunal found that airtime provided by mobile cellular phones is a
+taxable supply under sections 10 and 18 of the VAT Act, it not being an
+exempt supply under section 20 of the Act.  I have already held that the
+supply of airtime is not a supply of goods under section 10 but a supply of
+services under section 11 of the Act.  As regards taxable supplies section
+18(1) of the Act provides:-
+      "(1) A taxable supply is a supply of goods or services, other than  an
+      exempt supply made by a taxable person for a consideration as part  of
+      his or her business activities."
+
+The subsection shows that a taxable supply must have the following
+qualities:-
+      "   (i)          Must be a supply of either of goods or services.
+             (ii)      It must not be an exempt supply.
+Must be by a taxable person
+Must be for a consideration, and
+Must be as part of his or her business activities.
+
+As already held a supply of airtime is a supply of services.  I must point
+out that it is section 19 of the Act which provides for exempt supply and
+not section 20.   Under section 19 of the VAT Act a supply of goods or
+services is an exempt supply if it is specified in the second schedule to
+the Act Airtime is not among the supplies specified in the schedule.
+Sections 6 and 7 of the Act respectively define and show the process by
+which a person can be registered as a taxable person and it not disputed
+that the Appellant is a taxable person under the Act.  The Appellant is in
+the business of selling airtime and in its normal business receives payment
+in form of money for the airtime sold.   Therefore airtime provided by
+cellular phones is a taxable supply.
+
+In the instant case the Appellant case is that the Appellant provides its
+staff with airtime for use in execution of their official duties.  That
+there is no payment received or receivable by the Appellant from its staff
+in respect of the airtime so provided because the Appellant is the provider
+and user of the airtime through its staff.
+
+Counsel for the Appellant submitted that since the Respondent had charged
+VAT Act on airtime as a supply of services, section 18(5) of the VAT Act
+prevented it from imposing VAT on the Appellant.
+
+The subsection reads:
+      " (5) The Application to own use by a taxable person of goods supplied
+      to him or her for the purposes of his or her business activities shall
+      be regarded as a supply of those goods for consideration  as  part  of
+      his or her business activities."
+
+
+Counsel agued that under above subsection VAT could  not  be  charged  on  a
+supply of services since the subsection  limits  itself  to  the  supply  of
+goods.
+
+Subsection 6 provides:-
+      " Where goods have been supplied to a taxable person for the  purposes
+      of his or her business activities,  the  supply  of  those  goods  for
+      reduced consideration shall be regarded as a supply for  consideration
+      unless the goods are supplied or used only as trade samples"
+
+
+Counsel submitted that the airtime supplied could not be captured under  the
+subsection since it was not a supply of goods; the Appellants staff are  not
+VAT taxable persons during their employment with the Appellant and  make  no
+taxable supplies while working with the Appellant.  As  such  could  not  be
+registered as taxable persons under the Act.  Further that the  airtime  was
+not for the purposes of the Appellant's staff business  activities  but  for
+the business activities of the Appellant itself.
+
+Under the VAT Act there at two categories of supplies, the supply of goods
+and the supply of services.  Clearly subsections 18 (5) and (6) limit
+themselves to only the supply of goods and could not apply where the supply
+was of services.
+
+However the Tribunals holding was that any supply of airtime made to staff
+for use on official duties for free is deemed a supply made for reduced
+consideration between the Applicant and its staff under sections 3 and
+18(7) of the Act.  Section 18(7) provides;-
+      "(7) A supply is made for reduced consideration if the supply is  made
+      between associates for no consideration or between  associates  for  a
+      consideration that is less than the fair market value of the supply."
+
+
+The issue is whether the Appellant's members of  staff  were  associates  to
+the Appellant under the provisions of the VAT Act.  An associate is  defined
+by section 3(1) which provides;-
+
+      "3(1) for the purposes of  this  Act  "associate"  in  relation  to  a
+      person, means any other person  who  acts  or  is  likely  to  act  in
+      accordance with the directions, requests, suggestions or wishes of the
+      person whether or not they are communicated to that other person."
+
+
+Then subsection (2) of the Act gives specific types of associates.   Clearly
+there was no evidence to know, whether  directly  or  indirectly,  that  the
+Appellant's staff  qualified  among  any  of  the  specified  categories  of
+associates under subsection 3(2) of the  Act  in  their  business  relations
+with the Appellant.  However,  as  rightly  submitted  by  the  Respondent's
+counsel this list is not exhaustive.  Counsel for the  Respondent  submitted
+that any supply of airtime made to staff for  use  on  official  duties  for
+free is deemed a supply made for reduced  consideration  between  associates
+and thereby a supply made for consideration and liable to VAT under the  VAT
+Act.  Fair market value of a taxable supply is defined by  section  2(1)  of
+the VAT Act to mean the consideration in money which a similar supply  would
+generally fetch if supplied in similar circumstances at that date in  Uganda
+being a  supply  freely  offered  and  made  between  persons  who  are  not
+associates.  On the basis of the above definition  Counsel  argued  that  it
+follows that a supply of airtime to staff for  less  than  the  fair  market
+value will be a supply for reduced consideration since it was  made  between
+a associates.  That under section 2(1)  parties  will  be  associates  if  a
+relationship exists whereby the other person acts or is  likely  to  act  on
+the directions, requests and suggestions  of  the  party  giving  them.   He
+contended that  the  Appellants  staff  were  under  the  master  -  servant
+relationship, not independent contractors, and as such expected  on  act  or
+the  Appellant's  directions,  requests  and   suggestions   and   therefore
+associates of the Appellant under the definition.
+
+On the other hand Counsel for the Appellant argued that the staff of the
+Appellant were not its relatives, partners or trustees and did not
+constitute 50% or more of its voting power and were not in any relationship
+ejusden generis to any of the foregoing.   He therefore submitted that they
+were not associates of the Appellant.  Counsel further relied on the
+definition of the word "associate" in the Shorter Oxford English Dictionary
+the relevant part of which states that an " associate" is:-
+      "One who is united to another  by  community  of  interests,  etc  ...
+      partner, comrade, companion,---- companion in arms,  ally---  one  who
+      shares an office, or position of authority wish anther,  on equal  and
+      intimate terms, a companion, mate - One who belongs to an  association
+      wish a status subordinate to that of a full member  or  "fellow"  -  A
+      thing placed or found in conjunction with another --- "
+
+
+Counsel further submitted that a member of staff of the Appellant is a  mere
+employee and referred to the definition of an "employee"  and  "employer"  -
+in  the  Employment  Act.   Under  Section  1  of  the  Employment  Act  (h)
+"employee" means any person employed for wages and  includes  an  apprentice
+and a domestic servant.
+        "Employer" means any person, Company, firm or corporation, that has
+        entered into a contract of service to employ any other person,  and
+        the agent, foreman, -manager or factor of that employer, and  where
+        a person  has  entered  in  to  a  contract  of  service  with  the
+        Government or with  any  officer  on  behalf  the  Government,  the
+        Government Officer under whom  that  person  is  working  shall  be
+        deemed to be his or her employer."
+
+If guided by the above  dictionary  definition  and  the  definition  of  an
+employee and employer  in  Employment  Act  the  Appellants  employees/staff
+cannot be regarded as its associates.  However the VAT Act gives a  specific
+definition of the  word  "associate"  which  gives  a  safer  guide  in  the
+circumstance of this care.   It  is  trite  law  of  statutory  construction
+(called the generalia specialibus rule)  that  where  there  is  a  specific
+legislative provision and a general provision  on  a  particular  matter  or
+procedure,  the  specific  provision  takes  precedence  over  the   general
+provision.  See Sule Pharmacy Limited -Vs- The Registered  Trustees  of  the
+Khoja Shia Itana Shari Jamat H.C Misc. App. No. 147 of 1999(unreported).
+
+The word "associate" in the VAT must be given its specific definition
+assigned to it in section 3 of the Act.  The Appellants staff were not in
+any relationship ejusedem generis to the classified associates in
+subsection (2) of the Act but as already pointed out the list therein is
+not exhaustive.  It does not limit the general provision in subsection (1)
+of the section.  It provides;-
+      "(2) without limits the generality of subsection  (1),  the  following
+      are treated as an associate of a person - --".
+
+
+The Appellant's members of staff are employees  of  the  Appellant  and  are
+thereby expected to work on the directions, reports and suggestions  of  the
+Appellant as their employer/master.  In its statement of Facts  and  Reasons
+in  Support  Respondent  -  of  the  Application  before  the  Tribunal  the
+Appellant stated;
+      "Facts of the case
+--- The airtime provided is based on each staffs job communication
+requirements and any personal abuse of the phones or airtime provided to
+staff results in appropriate disciplinary action---."
+
+The above goes to show that the airtime provided is used by the staff upon
+the directions of the Appellant.  This brings the Appellant's staff within
+the ambit of an "associate" under section 3(1) of the VAT Act.
+
+The remaining issue is whether a supply of airtime to the Appellants staff
+was a supply made for reduced consideration under section 18(7) of the Act.
+ Under section 18(1) of the Act a taxable supply is a supply of goods or
+services, made by a taxable person for a consideration and under subsection
+(4) a supply is made for a consideration if the supplier directly or
+indirectly receives payment for the supply; Under subsection 6 where goods
+have been supplied to a taxable person for the purposes of his business
+activities, the supply of those goods shall be regarded as a supply for
+consideration and under subsection (7) a supply is made for reduced
+consideration if the supply is made between associates for no consideration
+or between associates for a consideration that is less than the fair market
+value of the supply.  I have already held that the supply of airtime by the
+Appellant to its staff was a supply of services and the Appellant and its
+staff were associates within the provisions of section 3 of the VAT Act.
+Therefore it was supply of services between associates.    However the
+Appellants case before the Tribunal was that the supply was for no
+consideration.  The Tribunal held that any supply of airtime made to staff
+for use on official duties for free is deemed a supply made for reduced
+consideration between the Appellant and its staff under sections 3 and
+18(7) of the VAT Act and is liable to VAT.
+
+Section 18(7) of the Act makes reference to "A supply" and I have found
+that supplies are in two categories under the Act - "supplies of goods" and
+"supplies of services."  In the instant case I have already held that the
+supply of airtime was a supply of services.
+
+While submitting about the provisions of subsection 7 of section 18 Counsel
+for the Appellant argued that subsection (7) cannot stand alone.  That it
+must be read together with subsection 18(6) which limits itself to supply
+of goods.  He therefore concluded that there was no supply of goods to the
+Appellant's staff written the meaning of subsection 18(6) and (7) of the
+Act.  Subsections 18(5) and (6) make specific reference to supplies of
+goods. Subsection 18(6) is applicable in reference of supply of goods
+supplied to a taxable person for purposes of his or her business activities
+in which case such a supply if for a reduced consideration, shall be
+regarded as a supply for consideration.    The issue is whether the supply
+in subsection 18(7) refers to supplies generally or to supplies of goods
+only.  My considered view is that subsection 18(2), (4), (7) and (8) make
+provision for supply generally whether of "goods" or "services".   Under
+the subsection any supply whether of "goods" or services", if made between
+associates for no consideration or between associates for a consideration
+that is less than the fair market value of the supply, is a supply made for
+reduced consideration.   Subsection 18(7) doesn't make any reference to the
+forging subsection (6) for them to be read together.  All the subsections
+in section 18 must be read in light of subsection 18(1), which recognises
+the taxable supplies as being supplies either of goods or services.
+
+I therefore find that the airtime provided by mobile cellular phone
+companies is a supply of services, that the supply made by the Appellant to
+its staff was between associates for no consideration and as such at
+reduced consideration under section 3 and 18(7) of the VAT Act and
+therefore a taxable supply under section 18(1) of the VAT Act.
+
+In view of my finding above I find that the Tribunal was correct to uphold
+the assessment of Ug. Shs. 358,652,458/= and the penalty of Ug. Shs.
+253,161,660/=.
+
+
+In the premises the appeal is dismissed with costs.
+
+
+
+Lameck N. Mukasa
+J U D G E
+5/01/06
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE
+
+
+PAGE  15
+
+
+
+

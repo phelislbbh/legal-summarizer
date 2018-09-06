@@ -1,0 +1,39 @@
+Sodha v Vora and others
+
+Division: Milimani Commercial Courts of Kenya at Nairobi
+
+Date of ruling: 2003
+
+Case Number: 1191/02
+
+Before: Ringera J
+
+Sourced by: LawAfrica
+
+Summarised by: C Kanjama
+
+[1] Bank  Guarantee  Variation of contract with principal debtor  Whether effect is to discharge guarantee.
+
+[2] Civil procedure  Injunction  Interlocutory injunction  Principles for grant of interlocutory injunction.
+
+[3] Contract  Variation  Whether variation of principal debtors obligations discharges the guarantor.
+
+Editors Summary
+
+The Plaintiff was the Managing Director in a company that obtained credit facilities from the Fourth Defendant bank. The First to Third Defendants were the Plaintiffs co-directors. The Plaintiff agreed to guarantee payment of the loan and charged his property for this purpose. Subsequently, the bank obtained further guarantees from the co-directors. Two years later, the bank served statutory notice of its intention to realise the charged security on account of non-payment. The Plaintiff filed suit to discharge his guarantee on the eve of the auction and sought an ex parte injunction. It was claimed that the further guarantees amounted to a substantial variation of contract to his detriment. In response, the bank claimed that the Plaintiffs application had been brought after excessive delay. It was also argued that the further guarantees did not amount to a variation of contract, and that in any case the charge which was to be realised was a separate and independent security. The charge stated that the guarantor would be deemed principal debtor for the purposes of the charge.
+
+
+
+Held  The taking of additional securities by the bank did not have the effect of altering the contract of guarantee at all or to the prejudice of the guarantor. Further, a construction of the wording of the charge made clear that the charge was an independent security not tied to the related guarantee (Reid v National Bank of Commerce [1971] EA 538 distinguished). In the facts of this case, no prima facie case had been established for the grant of an interlocutory injunction. Since the property charged had been converted into a commodity for sale, the Plaintiff would not suffer any irreparable loss that could not be adequately compensated by an award of damages after trial.
+
+Application for injunction dismissed with costs
+
+Case referred to in ruling
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+Reid v National Bank of Commerce [1971] EA 538  D

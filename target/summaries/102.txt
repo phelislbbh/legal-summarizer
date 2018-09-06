@@ -1,0 +1,47 @@
+Commissioner of Income Tax v Westmont Power (k) Limited
+
+Division: High Court of Kenya at Nairobi
+
+Date of judgment: 4 April 2006
+
+Case Number: 626/02
+
+Before: VISRAM J
+
+Sourced by: LawAfrica
+
+Summarised by: R Rogo
+
+[1] Interpretation of statutes  Principles of interpreting taxation laws in cases of ambiguity.
+
+[2] Taxation law  Whether generation of electricity qualifies to be a manufacturing process under the
+
+Income Tax Act  Whether investment deductions and wear and tear deductions are applicable.
+
+Editors Summary
+
+The respondent imported two barges for fuel storage and power generation and subsequently claimed an Investment Deduction allowance of KShs 1 534 415 670 and Wear and Tear allowance of KShs 123 955 759. This resulted in a declared income loss of KShs 1 612 606 560. The appellant however revised the loss to KShs 30 971 320 on the basis that the barges was not covered by the circumstances which would entitle the respondent to make the claims. The respondent appealed to the Local Committee pursuant to section 86(1)(b) of the Income Tax Act. The Local Committee, in holding for the respondent, stated that power generation has always been a manufacturing process and that the barges carry the function of premises and should be defined as such. The appellant however appealed arguing that prior to 2001 power generation was not a manufacturing process and that it only became a manufacturing process after the amendment to paragraph 24 of the Second Schedule to the Income Tax Act vide Finance Act 2001. 
+
+
+
+Held  Taxation laws that have the effect of depriving citizens of their property by imposing pecuniary burdens resulting also in penal consequences must be interpreted with great caution. In this respect, it is paramount that their provisions must be express and clear so as to leave no room for ambiguity. Any ambiguity in such a law must be resolved in favour of the taxpayer and not the public revenue authorities which are responsible for their implementation. Inland Revenue v Scottish Central Electricity Company [1931] 15 TC 761 followed. Electric power generation is a process that amounts to what is defined in the Act as a manufacturing process since it involves the conversion of one thing into another which is desired for consumption. A purposeful interpretation must be adopted if one is to appreciate the purpose of exemption contemplated in these matters. Appeal dismissed.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means explained; F means followed; O means overruled)
+
+East Africa
+
+Commissioner of General Income Tax v Power Limited [1970] EA 328
+
+Other
+
+Commissioner of Inland Revenue v Scottish Central Electricity Power Company [1931] 15 TC 761
+
+Inland Revenue v Scottish Central Electricity Company [1931] 15 TC 761  F
+
+Quebec Hydro-Electric Commission v Deputy Minister of National Revenue
+
+State Electricity Commission of Victoria v Commissioner of Taxation [1999] FCA

@@ -1,0 +1,179 @@
+
+REPUBLIC OF UGANDA
+
+IN THE HIGH COURT OF UGANDA HOLDEN AT KAMPALA
+
+(COMMERCIAL COURT DIVISION)
+
+HCT-00-CC-MA-0695-2005
+
+(Arising from HCT-00-CC-CI-0025)
+
+IN THE MATTER OF THE COMPANIES ACT, CAP 110
+
+AND
+
+IN THE MATTER OF A WINDING UP PETITION BY RANKCONSULT (U) LIMITED
+
+
+Application by chamber summons by URA for appointment of an interim
+liquidator, in accordance with Section 238 of the Companies Act-Rule 27 of
+the Companies (Winding Up) Rules
+Brief facts:
+M/S Rankconsult (U) Ltd filed a petition for winding up by order of court
+on the ground that it could no longer meet its financial obligations. That
+petition was opposed by one of the creditors of the company, or the only
+creditor so far to respond to that petition, M/S Uganda Revenue Authority,
+the tax collection agency for the Government of Uganda. The hearing of the
+said petition was held over until an application filed by URA was heard and
+disposed of.
+Issues:
+Whether there was justification to appoint an interim liquidator.
+Held:
+URA failed to show that there was justification at this stage in the
+proceedings to appoint an interim liquidator. Accordingly the application
+was dismissed with costs.
+Legislation referred to:
+Companies Act, Companies (Winding Up) Rules,
+Cases Cited:
+Re Union Accident Insurance Co. Ltd [1972] All E R 1105.
+
+            BEFORE: THE HONOURABLE MR. JUSTICE FMS EGONDA-NTENDE
+
+                                   RULING
+1. M/S Rankconsult (U) Ltd, hereinafter referred to as the company, filed a
+petition for winding up by order of court on the ground that it can no
+longer meets its financial obligations. That petition is opposed by one of
+the creditors of the company, or the only creditor so far to respond to
+that petition, M/S Uganda Revenue Authority, hereafter referred to as URA,
+the tax collection agency for the Government of Uganda. The hearing of the
+said petition was held over until an application filed by URA was heard and
+disposed of. This ruling is in respect of that application.
+2. URA applied to this court for appointment of an interim liquidator, in
+accordance with Section 238 of the Companies Act. In addition URA seeks
+these other orders. 1. A competent and professional firm of auditors be
+appointed interim liquidators. 2. The company files its statement of
+affairs from the year 2000-2005. 3. Costs of this application and that of
+the interim liquidators be provided for.
+3. This application is based upon 7 grounds set forth in the chamber
+summons which I will reproduce below.
+1. The petitioner was a recipient of large sums of money from the Electoral
+Commission from which taxes fell due and were payable in 2001/2002 but did
+not remit the money. 2. The petitioner engaged the applicant in protracted
+negotiations with numerous assurances/ability of its competence/ability to
+pay the said amount and the same did not materialise. 3. The petitioner has
+in the mean time transferred all its funds from the said accounts to
+unknown persons and created floating charges on its properties. 4. The
+petitioner has neither filed statements of account with Uganda Revenue
+Authority nor the Company Registry and has failed to produce books of
+accounts. 5. The petitioner formed a new company in April 2005 and in a
+fraudulent preference has transferred the same shares into the names of its
+individual shareholders. 6. The petitioner's winding petition is an abuse
+of court process. 7. It is in the interest of substantive justice that a
+professional firm of Auditors is appointed as interim liquidators of the
+respondent company.
+4. This application is supported by an affidavit sworn by Mr. Okodi James,
+the Manager Debt Collection and Tax Appeals. He states that the Petitioner
+owes URA Shs.4, 281,884,492.00 (Four billion, two hundred and eighty one
+million, eight hundred eighty four thousand four hundred and ninety two
+only) which arose out of a contract with the Electoral Commission. The
+petitioner received all its payments from Electoral Commission but failed
+to remit the taxes due. The petitioner engaged URA in protracted
+negotiations since 2002 until June 2005. URA is now in the midst of an
+investigation into the financial affairs of the petitioner and its
+directors, and Mr. Okodi contends, it is in the interest of substantive
+justice that an interim liquidator is appointed pending the conclusion of
+its investigations. The affidavit contains other matters in support of the
+grounds set out herein earlier.
+5. This application is opposed and an affidavit in reply was sworn by Mr.
+Frank Katusiime, the Managing Director of the company. It refutes all
+allegations of bad faith, stating that the money it received from the
+Electoral Commission, it paid out to other creditors of the company. And
+now the company has no cash to pay its tax obligations.
+6. Section 238 of the Companies Act states,
+'(1) The court may appoint the official receiver to be the liquidator
+provisionally at any time after the presentation of a winding up petition
+and before the making of a winding up order. (2) Where a liquidator
+(hereinafter referred to as interim liquidator) is so appointed by the
+court, the court may limit and restrict his or her powers by the order
+appointing him or her.'
+7. Rule 27 of the Companies (Winding Up) Rules, (hereinafter referred to as
+the Rules) provides in part,
+'(1) After the presentation of a petition for the winding up of a company
+by the court, upon the application of a creditor, or of an contributory, or
+of the company, and upon proof by affidavit of sufficient ground for the
+appointment of an interim liquidator, the court, if it thinks fit and upon
+such terms as in the opinion of the court shall be just and necessary, may
+make appointment. (2) The order appointing the interim liquidator shall
+bear the number of the petition, and shall state the nature and short
+description of the property of which the interim liquidator is ordered to
+take possession, and the duties to be performed by the interim liquidator.'
+8. Neither the statute nor the rules made there under, detail the
+situations that would warrant the appointment of an interim liquidator. It
+appears though that the power to do is wide and unrestricted but must serve
+some purpose in furtherance of a legitimate objective. What can be gathered
+from English case law referred to by counsel is that a provisional
+liquidator may be appointed in obvious cases of insolvency or when the
+assets of the company are in jeopardy. See Re Highfield Commodities Ltd,
+[1984] 3 All E R 884. An interim liquidator may be appointed if it is in
+the public interest. See Re Union Accident Insurance Co. Ltd [1972] All E R
+1105.
+9. Rule 27 (2) of the Rules require that the order for appointment of the
+interim liquidator specifically states the nature and short description of
+the property the liquidator is ordered to take possession of and the duties
+to be performed by the interim liquidator. I presume that this information
+must be available on the application if the court is to mention it in the
+order it may issue. If this information, that is what property or
+properties the interim liquidator is to take possession of, is not
+disclosed on the affidavits of the applicant, the court would be unable to
+comply with this rule. Similarly, if the applicant does not articulate the
+duties that he proposes the interim liquidator should perform, the court is
+hand capped, as it cannot issue an order without detailing the duties the
+interim liquidator is to perform.
+10. Mr. Ssekatawa, learned counsel for URA, submitted that this application
+was grounded in public interest, presumably given that what is at stake for
+URA is collection of taxes. Mr. Birungyi and Mr. Barata, learned counsel
+for the company submitted that no public interest had been made out to
+justify appointment of an interim liquidator. They submitted that the
+liquidator that would be appointed on the main petition was capable of
+carrying out all the functions of the interim liquidator which URA wanted.
+11. This application fails to show that there are any assets of the company
+that are in jeopardy or assets that the interim liquidator should be
+ordered to take possession of anyway. On the contrary its thrust seems to
+be that the assets of the company have already been dissipated, dispersed,
+or otherwise dealt with. No particulars of these assets are provided. The
+immediate task for an interim liquidator is to protect assets of the
+company, or the public interest, in case the company is being used to hurt
+public interest. It would appear in this case there are no assets to
+protect; at least none are disclosed by this application.
+12. Mr. Ssekatawa, in his address to court, relied on the public interest
+as the ground for appointment of an interim liquidator. This ground was not
+articulated in the chamber summons or supporting affidavit. Mr. Ssekatawa
+does not show the public interest issues at stake here save presumably that
+the URA is engaged in collection of tax revenue. It is not demonstrated how
+the appointment of an interim liquidator will protect the recovery of tax
+obligations due from the company to URA. All, this court is told, is that
+URA is conducting an investigation into the financial affairs of the
+company, and URA would like an interim liquidator appointed, pending its
+finalisation of its investigations. This request is open ended. It is not
+clear what would be the purpose of appointing an interim liquidator given
+that URA is conducting its own investigations which could well go ahead,
+along side the winding up process.
+13. By the very nature of the office of an interim liquidator he or she has
+a very limited role in between the presentation of the petition and the
+making or refusal of winding up order. The duties of the interim liquidator
+must clearly be set forth in the order appointing him. For this to be done,
+the applicant should have made mention of the duties the interim liquidator
+was to perform in this period. This application has not done so.
+14. URA has failed, in my view, to show that there is justification at this
+stage in the proceedings to appoint an interim liquidator. Accordingly I
+dismiss this application with costs.
+Dated at Kampala this 14th day of October 2005
+
+
+
+
+
+FMS Egonda-Ntende
+Judge
+

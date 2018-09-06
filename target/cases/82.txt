@@ -1,0 +1,245 @@
+Cahill and others v Nandhra and others
+
+Division: Court of Appeal of Kenya at Nairobi
+
+Date of judgment: 5 April 2006
+
+Case Number: 57/02
+
+Before: Tunoi, Githinji and Waki JJA
+
+Sourced by: LawAfrica
+
+Sourced by: LawAfrica
+
+Summarised by: E Ongoya
+
+[1] Civil practice and procedure  Representative actions  Applicable principles.
+
+JUDGMENT
+
+Tunoi, Githinji and Waki JJA: This appeal against the decision of Ringera J (as he then was) sitting at
+
+Milimani Commercial Courts, Nairobi, on 19 December 2001 raises an important point of practice and procedure relating to the construction of the words of Order I, rule 8 of the Civil Procedure Rules. Should the words used therein be construed restrictively and exclusively rather than liberally and inclusively?
+
+The facts giving rise to the suit and this interlocutory appeal may be shortly stated. Tarlock Singh
+
+Nandra, Mahendra Patel, Dinesh Shah and Tajdin Jiwa, hereinafter referred to as the named respondents, brought action in the superior court as plaintiffs on their own behalf and in a respective capacity on behalf of the depositors of Trust Bank Limited as at 18 December 1998 against the appellants, the renowned International Accountancy and Audit firm of KPMG Peat Marwick, praying for judgment against them jointly and severally, inter alia for:
+
+(a) KShs 8 105 000 000.
+
+(b) Interest on (a) at 20 per centum per annum from 1 December 2000 until payment in full.
+
+(c) General damages for fraud and interest thereon from the date of judgment; and
+
+(d) costs and interest thereon at court rates.
+
+The plaint and the amended plaint show that three main causes of action were pleaded against the appellants. These were, first as auditors of Trust Bank Limited, hereinafter referred to as the Bank, they failed to perform their statutory duties under the Banking Act by failing to disclose to the respondents the true and correct financial position of the Bank thereby causing the respondents to continue depositing their funds with the Bank which Bank was placed under statutory management and ultimately in liquidation with the consequence that the respondents lost their deposits. The second is that the appellants performed their duties as auditors of the Bank in a negligent manner and that such negligence resulted in the respondents loss of their deposits. The third is that as drafters or promoters of the scheme of arrangement of the reconstruction of the Bank the appellants fraudulently altered the agreed terms of reconstruction agreed between the respondents and former shareholders of the Bank by discharging the latter from their obligations to repay KShs 2,6 billion embezzled from the Bank and thereby obstructed the respondents chances of recovering their losses. The respondents claim as damages the sum of KShs
+
+8 105 000 000 from the appellants together with interest thereon at 20% per annum from 1 December
+
+2000 being the value of the deposits lost when the Bank was declared insolvent and placed under statutory management. They also claim general damages for fraud and interest thereon from the date of judgment.
+
+The appellants duly filed a defence the gist of which is to deny in toto the averment as to the breach of their statutory duties. They also denied that they were guilty of fraud. It is further contended by them that they owed no duty of care to the respondents or at all and aver that no cause of action is disclosed against them.
+
+The appellants again denied that the respondents have any right to bring the suit in a representative capacity as pleaded in the plaint since the depositors referred to do not all have the same interest in the suit and no order had been applied for or made under Order I, rule 8(2) of the Civil Procedure Rules. The appellants pray that all references to the representative nature of the suit should be struck out. This is actually the gravamen of the appeal now before us.
+
+On 16 May 2001 the respondents took out a chamber summons under Order I, rules 8 and 22 of the
+
+Civil Procedure Rules for orders:
+
+(1) That notice of institution of the suit be given to all depositors of Trust Bank Limited as at 18
+
+December 1998 on whose behalf or benefit the suit has been instituted.
+
+(2) That the said notice be given in the form of a public advertisement to be made on two separate occasions, the first one in the Daily Nation Newspaper and the second in the Standard newspaper.
+
+ (3) That any person on whose behalf or benefit the suit has been instituted be at liberty to apply to the court to be made a party to this suit.
+
+(4) That further directions be made in the case as the court may deem just or expedient to grant.
+
+Mr Patel, a partner in the firm of KPMG Peat Marwick, on 8 June 2001 swore an affidavit in opposition to the application. He deponed that while some or many of the depositors as at the chosen date may well have similar motives they do not have the same interest in the suit. They each have different distinct interests in the suit and given the nature of the relief sought and the facts pleaded the suit is not one in which a representative order can properly be made. 
+
+It is manifest from the record that permission to proceed with the suit in a representative capacity was not obtained. For a representative suit, the superior courts permission under Order 1, rule 8 is mandatory and it was not in dispute that the orders and directions sought by the respondents were mandatory if that court was satisfied that the suit is a representative action. However, the appellant strenuously contended that it was not so.
+
+Order 1, rule 8 reads as follows:
+
+8 (1) Where there are numerous persons having the same interest in one suit, one or more of such persons may sue or be sued, or may be authorised by the court to defend in such suit, on behalf of or for the benefit of all persons so interested.
+
+( 2) The court shall in such case direct the plaintiff to give notice of the institution of the suit to all such persons either by personal service or, where from the number of persons or any other cause such service is not reasonably practicable, by public advertisement, as the court in each case may direct.
+
+( 3) A ny person on whose behalf or for whose benefit a suit is instituted or defended under subrule
+
+(1) may apply to the court to be made a party to such suit.
+
+The synopsis of the above rule therefore is that the conditions necessary to bring a suit within the rule
+
+are:
+
+(i) Numerous persons.
+
+( ii) Same interest.
+
+(iii) Authority or permission of the court.
+
+(iv) Notice of suit.
+
+Thus, a representative suit is one which is filed by one or more persons or parties under this rule on
+
+ Of themselves and others having the same interest. It is also clear that there is no requirement that a person seeking to institute a suit in a representative capacity must establish that he had obtained sanction of the persons interested on whose behalf the suit is proposed to be instituted.
+
+The learned trial Judge, properly in our view, appreciated that the dispute in the superior court depended on the courts interpretation of the words same interest in one suit. At the outset it is apparent that it was accepted by both parties that there existed numerous persons or a group of persons inconvenient to implead individually.
+
+Mr Oyatsi, acting for the respondents before that court submitted that the depositors had the same interest in the case ie the recovery of their respective deposits or money which they were unable to recover after the Bank was placed under statutory management. He argued that the depositors were not precluded from suing in a representative action, either because the class is fluctuating or that the relief sought is damages.
+
+To buttress his submission Mr Oyatsi relied on a commentary on the Indian Civil Procedure Code by
+
+CK Takwani (3ed) at 96-101 and Duke of Bedford v Ellis and others [1900-1903] All ER 694. He submitted that the depositors as a class have one common interest in their deposits in the Bank and their grievance is common. Mr Oyatsi contended that the appellants had breached their statutory and common law duties of care to the depositors as a consequence of which they have suffered loss. He averred that they have also fraudulently altered the scheme of arrangement to the loss and prejudice of the respondents. And the relief sought, that is to say, the recovery of their deposits is beneficial to all.
+
+Mr Oyatsi also submitted that the depositors as a group could sue and they should not be regarded as an indeterminate class. In this regard he relied on the cases of Yuen Kun Yeu and others v Attorney General [1986] LRC 300 (Comm), Irish Shipping Limited v Commercial Union Assurance Company and another [1989] 2 All ER 853 and Markt and Company Limited v Knight Steamship Company Limited [1910] 2 KB 1021 to support his contention that a representative suit could lie even if the relief sought was damages.
+
+Mr Deverell, (as he then was) who appeared for the appellants in the superior court, submitted that it could not be assumed that all the depositors of the Bank as at 18 September 1998, were still depositors when the suit was filed on 5 December 2000. He pointed out that in excess of 75% of the total number of deposits as at the chosen date were of amounts less than KShs 100 000 and most if not all had been repaid in full by the Bank subsequent to the chosen date and before the suit was filed. Approximately 6.5% of the total number of deposits as at the chosen date were covered by bearer certificates of deposit (BCD) with the result that the identity of the deposit holders cannot be established from the records of the Bank. Thus the group of persons sought to be represented is a varying and indeterminate one and that the identity of all its members was not known to the appellants. Mr Deverell further submitted that given the nature of the claims, it could not be said that the named respondents and the represented persons had the same interest in the composite loss of KShs 8,1 billion. He contended that each depositor would be obliged to prove his deposit, if any, that he was owed a duty of care by the appellants either at common law or under the Banking Act and this constituted a distinct and a separate cause of action by each of the respondents. Mr Deverell also argued that in as far as the fraud concerning the scheme of arrangement was concerned, the same was alleged to have been committed in May 1999 and it could not be said in those circumstances that all the depositors as at September 1998 had a common interest in what was alleged to have occurred in 1999.
+
+Relying on Prudential Assurance Company Limited v Newman Industries Limited [1981] Ch 229 and the proposition of law abstracted therefrom by the editors of Supreme Court Practice 1997, Volume 1 in discussing Order XV, rule 12 (which deals with representative actions) Mr Deverell submitted that a representative order will not issue if the effect thereof would in any circumstances have the effect of conferring on a member of the class represented a right which he could not have claimed in a separate action or of barring a defence which the defendant could have raised in such proceedings. He submitted that the position of the appellants here is that they may have separate defences against each of the claim by the represented respondents and that those defences might be barred to them if the suit proceeded on the basis of a representative action in which a block lump sum was claimed. Such defences might, for example, include payment of some depositors by the DPF, or negotiation of bearer certificates subsequent to their issue, or the fact that a particular depositor was not misled by the accounts and balance sheets into depositing or continuing to deposit money with the Bank.
+
+The appellants also drew the superior courts attention to the cases of Balwant Singh v Joginder
+
+[1962] EA 395 where a representative order was refused in a libel action and CBS/Sony Hong Kong
+
+Limited v Television Broadcast Limited [1987] 13 FRS 262 in which it was held that it was inappropriate to award damages to a plaintiff suing in a representative capacity in the absence of admissions and special circumstances.
+
+Finally, the appellants urged the court to refuse the representative order on the grounds that as the represented persons were not parties stricto sensu, they were not liable to give discovery and no costs could be recovered from them in the event of the appellants succeeding in the action.
+
+The learned trial Judge held as follows on these submissions and the related issues:
+
+The claim in the present suit sounds in tort contrary to the opinion of the plaintiffs counsel. Breach of statutory duty of care is to my mind a claim in tort essentially, so is the claim in negligence and fraud. Of the cases cited, the one which in this context is most pertinent is Prudential Assurance Company Limited v Newman Industries Limited and others [1979] 3 All ER 507. As seen earlier the same case is authority for the proposition that a representative action could lie in tort even though the members of the class have separate causes of action provided care was taken to ensure that the action did not confer on any member of the class a right he could not have claimed in a separate action or bar a defence which the defendant could have raised in such separate action. The case also held that because of that reason a plaintiff in his representative capacity would normally be able to obtain only declaratory relief.
+
+And the authorities I have so far analysed seem to suggest that the words same interest do not mean one joint cause of action and relief. A representative action can lie in either contract or tort where numerous persons claim either in one cause of action jointly or in separate causes of actions severally.
+
+After considering Carnie and another v Essanda Finance Corporation Limited [1995] 127 ALR 76, a decision of the High Court of Australia, the learned trial Judge held:
+
+The key words in these opinions are significant common interest and community of interest. For my part,
+
+I agree with the Australian High Court that the rule being a facilitative one must be given a broad interpretation which will secure its purposes, of enabling several parties to come to justice in one action rather than in separate actions. With that in mind I think it is logical and appropriate that parties who have a community of interest in the determination of the substantial questions of law or fact in the suit qualify as persons with the same interest in the suit. In the instant matter there can be no question that the named plaintiffs and the represented persons have a community of interest in the determination of the issues whether or not the defendants owed them any duty of care under the statute or common law or whether they deceived them in the preparation of the scheme of arrangement and whether or not the losses they have allegedly suffered are consequential upon any breach of such duty or deception. They are in my opinion persons with the same interest in the suit. It may very well be that is the kind of interest the defendants counsel called motive. If it was it does not matter.
+
+The learned trial Judge also found that the plurality of the respondents, though varying from time to time, was not a barrier to them suing as a class. He thought that their names could be ascertained at any given time by reference to the bank records and from the results of a public advertisement, if need be. The learned trial judge then granted the orders sought. On the consideration about the unavailability of discovery or the represented persons unamenability to costs by reason of their not being parties to the suit
+
+stricto sensu, the judge thought that they would have been important ones in the exercise of discretion if the orders sought were discretionary. However he held that the giving of the orders and directions sought by the respondents were not discretionary. They were mandatory once the persons seeking them persuade the court that they are numerous and have the same interest in the suit. In that regard, he thought that the situation in Kenya is different from what obtains in both England and Australia because the respective rules are worded differently. The rules in the latter jurisdictions confer on the court a discretion to grant or not to grant a representative order even if the precondition of numerous persons with the same interest is satisfied. The learned trial Judge then granted the application as prayed. The appellants being aggrieved by this decision promptly preferred this appeal.
+
+There are thirteen grounds of appeal of which grounds one, two and three relate to the learned trial Judges alleged misdirection when construing the words of Order 1, rule 8. It is contended by Mr Fraser, who appears for the appellants before us that the learned Judge misdirected himself in that:
+
+(a) He failed properly to appreciate that the words used are restrictive and exclusive rather than liberal and inclusive and failed to have regard for the provisions of Order 1, rule 8 which provide for alternative, more appropriate procedures for multiparty litigation;
+
+and
+
+(b) he construed the rule by reference to the practice and procedure in other jurisdictions without appreciating the extent to which the practice of such courts had changed following the revision of their rules from a form of wording in all material respects the same as Order 1, rule 8 to a form which was materially different to Order 1, rule 8.
+
+Mr Fraser further argued that the learned Judge erred in finding that the persons sought to be represented constitute persons who have the same interest in the suit within the meaning of Order 1, rule 8 and yet the facts of the case showed otherwise. He submitted that in the circumstance of this case it could not be said with any degree of certainty that the respondents and all the persons they sought to represent had an identical interest. Moreover, it is not known what reasons led these people to deposit their money with the Bank. It could be for various different reasons which are not common to all of them. He submitted that the number of depositors cannot be known and that it is possible that many of them are out of Kenya and in different countries. Again, he argued, that it is not possible which depositors relied on misrepresentation and which ones suffered damage. Thus, it cannot be said that all depositors have the same interest in the same suit.
+
+Mr Fraser led us through both local and English authorities which tend to show that the words of
+
+Order 1, rule 8 were given restrictive interpretation. In JJ Campos and LD Cruz v CL De Souza and others [1933] (XV) KLR 86, the issue arose as to whether members of a club committee could be sued as individuals. The High Court of Kenya held that they could not be sued as individuals in a matter affecting the affairs of the club upon a construction of Order 1, rule 8, but that any such action must be against the club as a whole or its representatives. But about a decade later the predecessor of this Court in Daud Abdulla and Osman Haji Ladha v Ahmed Suleiman (1946) 13 EACA 1 held:
+
+(1) That Order 1, rule 8 authorises the bringing of a representative suit where there are numerous persons having the same interest in one suit and says nothing about suits founded in contract or in tort or any other kind of suit.
+
+(2) That the sole test is whether the plaintiffs and the persons whom they claim to represent have the same interest in the suit and that this is the case here.
+
+The court observed that the rule authorises the bringing of a representative action where there are numerous persons having the same interest in one suit and that the sole test is whether the plaintiffs and the persons whom they claim to represent have the same interest in the suit.
+
+It held that:
+
+In Lord MacNaghtens words in Duke of Bedford v Ellis [1901] 70 LJ Ch at 105, given a common interest and a common grievance, a representative suit is in Order if the relief sought is in its nature beneficial to all whom the plaintiff proposes to represent. Here we are satisfied on the facts as disclosed by the plaint that the plaintiffs and those whom they propose to represent have a common interest and a common grievance that the relief sought is beneficial to all of them and that consequently a representative action, under Order 1, rule 8, is in order.
+
+The court was of the view that the case did not fall within the ambit of the rule enunciated in Markt and
+
+Company Limited v Knight Steamship Company Limited (ibid). The court held that the members of the
+
+Jamat (a Mohamedan religious association) have a common interest in the subject matter of the suit and that the hypothetical case of the railway accident put forward by the trial judge in the court below was not the point, for there the victims would have varying interests and claims. One might have suffered superficial injuries whilst another was maimed for life.
+
+It is worthy of note that there appears to have been a significant departure by the court from the traditional, narrow and conservative construction of Order 1, rule 8. We observe that historically the
+
+Common Law Courts had no power to hear an action by a representative plaintiff. However, in the Court of Chancery representative actions were permitted in certain cases. Lord MacNaghten in Bedford v Ellis
+
+24 [1901] AC at 8 observed:
+
+The old rule in the Court of Chancery was very simple and perfectly well understood. Under the old practice the court required the presence of all parties interested in the matter in the suit, in order that a final end might be made of the controversy. But when the parties were so numerous that you never could come to justice, to use an expression in one of the older cases, if everybody interested was made a party, the rule was not allowed to stand in the way. It was originally a rule of convenience; for the sake of convenience it was relaxed.
+
+In Bedford v Ellis (ibid) a number of plaintiffs were permitted to sue on behalf of themselves and all other growers of fruit, flowers, vegetables, roots and herbs within the meaning of the Covent Garden Market Act 1828 (UK) to enforce statutory preferential rights to stands in the market. The plaintiffs sought a declaration as to the true construction of the Act, an injunction to restrain the infringement of their statutory rights and an account of the sums which they had allegedly been overcharged. Lord Macnaghten, with whom the majority concurred, identified three criteria which must be satisfied before the representative rule can apply (28 [1901] AC at 8); Given a common interest and a common grievance, a representative suit was in order if the relief sought was in its nature beneficial to all whom the plaintiff proposed to represent.
+
+The majority held there was a common interest and it did not matter that the group was a fluctuating body which would be difficult to catalogue. It was enough that there was a clear description of the growers sought to be represented in the Act. The fact that the plaintiffs were claiming separate and different rights under the Act did not detract from the practicality of using the representative procedure.
+
+It is evident, therefore, that the courts were moving away from the tendency to construe the rule narrowly save for one significant exception, Markt and Company Limited v Knight Steamship Company Limited (ibid) which tended to limit the scope of the representative action to exclude those cases where the relief claimed was damages and where separate and individual contracts were involved.
+
+The learned trial judge in his judgment thought that of the cases cited to him the one which was most pertinent is Prudential Assurance Company Limited v Newman Industries Limited and others [1979] 3
+
+All ER 507 which is authority for the proposition that a representative action could lie in tort even though the members of the class have separate causes of action provided care was taken to ensure that the action did not confer on any member of the class a right he could not have claimed in a separate action or bar a defence which the defendant could have raised in such separate action. 
+
+In the light of all these decisions, therefore, Mr Fraser urged us to find the learned trial Judge wrong for having adopted a liberal approach towards the scope of the representative action. He asserted that there is no justification for construing the words of Order 1, rule 8 liberally.
+
+Mr Oyatsi for the respondents contended that Mr Fraser was trying to bring new interpretation to the
+
+Order and that there was no reason at all for the courts in Kenya to move backwards and confer a restrictive interpretation to the Order, especially after the predecessor of this Court had adopted a liberal construction in the case of Daud Abdullah (ibid). Mr Oyatsi argued that the decision of Ole Keiwua J (as he then was) in Dr Sunil Vinayak v Diners Club International Limited High Court civil case 1885 of
+
+1996 which followed the so-called conservative approach in Markt and Company Limited (ibid) was wrong. He submitted that the decision of Ringera J captured the gist of the principle of a representative action as enunciated in the order. Mr Oyatsi defended the learned trial Judges acceptance of the
+
+Australian Courts liberalised construction. He urged us not to follow the decisions in the cases cited by
+
+Mr Fraser.
+
+In Carnie and another (ibid) the High Court of Australia discussed a rule substantially identical to our
+
+Order 1, rule 8(1). Mason CJ, Dean and Dawson JJ held at paragraph 5 of their speech:
+
+All that this subrule requires is numerous parties who have the same interest. The subrule is expressed in broad terms and it is to be interpreted in the light of the obvious purpose of the rule, namely, to facilitate the administration of justice by enabling parties having the same interest to secure a determination in one action rather than in separate actions. It has been suggested that the expression same interest is to be equated with a common ingredient in the cause of action by each member of the class (Prudential Assurance v Newman
+
+Industries [1981] Ch 229 at 255). In our view this interpretation might not adequately reflect the content of the statutory expression.
+
+It may be it extends to a significant common interest in the resolution of any question of law or fact arising in the relevant proceedings. Be that as it may, it has now been recognised that persons having separate causes of action in contract or tort may have the same interest in proceedings to enforce those causes of action.
+
+And McHugh J in paragraph 1 of his speech said:
+
+In my opinion, a plaintiff and the represented persons have the same interest in legal proceedings when they have a community of interest in the determination of any substantial question of law or fact that arises in the proceedings. Other factors may make it undesirable that proceedings should continue as a representative action, but that is a matter for the exercise of discretion not jurisdiction.
+
+As correctly observed by Ringera J the key words in the decision are significant common interest and community of interest. Thus, it is manifestly clear that in order to invoke Order 1, rule 8, it is not necessary that the cause of action must be the same. What is required, we think, is that there should be the same interest, ie:
+
+(i) Common interest; or
+
+( ii) Common grievance.
+
+Also same interest must be distinguished from the expression same transaction. See Mulla: The Code of Civil Procedure (16ed) at 1527. In other words, what is required under the rule is that the parties should have the same interest; it is not necessary that their interest arises from the same transaction.
+
+In the matter before us, it is not in dispute that all the respondents are depositors of Trust Bank.
+
+Indeed they are numerous in number but their exact number can be ascertained through the Bank records.
+
+It matters not that some of them may be in or out of Kenya. They are concerned with the loss of their deposits which they allege, inter alia, to have arisen due to the appellants negligence and breach of their statutory duty. The respondents claim a specific sum of money and damages. They therefore have a common interest and a common grievance against the appellants. They have in fact a community of interest. Some of the issues to be determined in the suit are whether or not the appellants owed the respondents and the represented persons any duty of care under the statute or common law or whether they deceived them in the preparation of the scheme of arrangement and whether or not the losses they have allegedly suffered are consequential upon any breach of such duty or deception. We think that these issues would be a common denominator even if each of the respondents and the represented persons are ordered to file distinct, separate and individual suits. As the respondents and the represented persons have exhibited that they have a community of interest in the determination of some substantial issue of law or fact in the same action, they have the same interest within the meaning of the rule. In such a case, therefore, they should be allowed to file a representative suit and the learned trial Judge was right to hold so.
+
+We were informed from the Bar that there are 30780 depositors of the collapsed Bank. Of course, each of them, we think, is interested in the recovery of his deposit. Can we then imagine the unlikely scenario where separate and individual suits are lodged? No doubt they would take a long time to determine; and to the detriment of all parties concerned. In these circumstances therefore, it is now obvious that the object for which Order 1, rule 8 was enacted was to facilitate the decision of questions in which a large body of persons, as in the case before us, are interested, without recourse to the ordinary procedure. Thus, the main purpose of the Order is to forestall insuperable practical difficulties in the institution of separate suits in cases where the common right or interest of a community or members of an association or large sections is involved.
+
+The case law in Australia, see Carnie and another (ibid) shows that the courts there have given the equivalent of Order 1, rule 8 a more liberal meaning by allowing representative actions to proceed. We are of the opinion that in this age of economic advancement and Age of Consumerism, Kenya Courts should adopt the Australian approach in construing Order 1, rule 8. It is no longer feasible and practicable for our Civil Procedure Rules to adopt the old rule of construction favoured by the Court of Chancery which required the presence of all parties interested in the matter in the suit to be present before a decision of the controversy was made. The rule has to be construed liberally for the sake of convenience. Though we think that the rule should be relaxed and developed liberally to meet modern requirements of representative civil litigation, we hasten to add that representative actions should not be allowed to work injustice to any of the litigating parties. However, in the matter before us, we are of the view that no injustice has been occasioned to the appellants by allowing representative action. No doubt the course adopted saved them the possibility of being in and out of court throughout their natural life. 
+
+We concur with the learned trial Judge therefore that the rule being a facilitative one must be given a broad interpretation which will secure its purpose of enabling several parties to come to justice in one action rather than in separate actions. In the result, grounds one, two, three and twelve of the grounds of appeal must fail.
+
+Mr Fraser also contended that the numerosity of the respondents and the represented persons made it difficult to identify the class which the respondents wished to identify. We think that the onus of the respondents is not to identity every depositor; rather it is to identify the class with sufficient particularity and this has been sufficiently done in the amended plaint. See Yuen Kun Yeu (ibid) and the Duke of
+
+Bedford (ibid). Numerosity itself, of course, is not a barrier to suing as a class; and, in any case though the respondents number varied from time to time they are not an indeterminate class and as pointed out earlier on, there is a register of depositors.
+
+It is argued also by Mr Fraser that the representative nature of the suit will deprive the appellants of
+
+defences they would otherwise have against those represented persons who had received payments from
+
+Trust Bank Limited or the Deposit Protection Fund which have been made since 18 September 1998 and who were holders of Bearer Certificates of Deposit (BCDs) as at 18 September 1998 but who have since negotiated the BCDs for value and also, whose actions were not in fact affected by the act of the appellants, alleged by the respondents to be negligent and whose conduct was not in fact affected by the acts of the appellants alleged by the respondents to be fraudulent. This submission was also rehashed before the learned trial Judge who conceded that the appellants fear that the suit would deprive them of
+
+defences they would have in separate actions appear to be well founded. However, he held that having come to the conclusion that the named respondents and the persons sought to be represented constitute numerous persons who have the same interest in the suit within the meaning of Order I, rule 8(1) of the
+
+Civil Procedure Rules there is no discretion on the part of the court to decline to allow an action which otherwise qualifies as a representative action to continue as such. We would agree with him. The learned trial Judge having held that the action was a representative suit there was no room or basis for exercising discretion to stop the action proceeding as a representative action. Grounds five, six and seven of the grounds of appeal are equally dismissed.
+
+We think that we need not examine the remaining grounds of appeal since those grounds which we have already discussed are sufficient to dispose of the appeal. However, we believe that whichever way we would have considered them the decision thereon would not have had any significant bearing on the final decision which we have eventually reached.
+
+Having considered all the very persuasive and vigorous submissions so tenaciously made and maintained by Mr Fraser on behalf of the appellants, we have come to the conclusion that this appeal must fail and we therefore dismiss it with costs.
+
+For the appellant:
+
+Mr Fraser
+
+For the

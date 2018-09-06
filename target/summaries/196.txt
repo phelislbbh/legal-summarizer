@@ -1,0 +1,61 @@
+Kanyabwera v Tumwebaze
+
+Division: Supreme Court of Uganda at Mengo
+
+Date of judgment: 21 February 2005
+
+Case Number: 6/04
+
+Before: Oder, Karokora, and Kanyeihamba JJSC
+
+Sourced by: LawAfrica
+
+[1] Appellate procedure  Duty of a first appellate court  Re-evaluation and scrutiny of the evidence
+
+on record  Whether the Court of Appeal had discharged its duty.
+
+[2] Civil procedure  Ex parte hearing  Procedure to be followed where party applying for ex parte
+
+hearing not ready to proceed  Whether the trial court erred in permitting suit to proceed ex parte 
+
+Order 9, rule 17(1)(a)  Civil Procedure Rules.
+
+[3] Civil procedure  Review  Application for review  Error on the face of the record  Principles to
+
+be applied in determining existence of error on the face of the record  Absence of affidavit of service 
+
+Whether absence of affidavit amounted to an error on the face of the record.
+
+Editors Summary
+
+The respondent sued the appellant for damages in negligence arising from a traffic accident. The appellant filed a written statement of defence in which he pleaded contributory negligence on the part of the respondents driver. After several adjournments, the trial judge adjourned the hearing on 23 March 1998 and directed the respondent to serve the appellant and to go with the police so that in the event that the appellant refused service, the police could swear an affidavit to that effect. Subsequently, when the case came up for hearing, the trial judge recorded that he was satisfied with service and that since neither the appellant nor his advocates had shown up, the case would proceed ex parte. The case was then heard on various dates after which judgment was delivered, in the respondents favour, on 27 October 2001. Some time later, the appellant filed an application in the High Court seeking an order setting aside the ex parte judgment. The High Court dismissed it on the ground that the trial judge had been satisfied with service. The appellant then applied to the High Court for a review of its order on the ground that there was an error on the face of the record. This time, the High Court granted the application and set aside the ex parte judgment. The respondent then successfully appealed to the Court of Appeal to have the order of review set aside and the ex parte judgment restored. The appellant now appealed to the Supreme Court on the grounds that the Court of Appeal erred when it held that there had been service and that the alleged service was proper. Counsel for the appellant argued, inter alia, that it was not sufficient for the trial judge to accept counsels submission that the appellant had been served and that the Court of Appeal should have subjected all the evidence to a fresh and exhaustive re-evaluation. In reply, counsel for the respondent argued that the Court of Appeal had properly performed its duty and had reached the correct conclusion in holding that the defendants counsel was properly served. 
+
+
+
+Held  Per Tsekooko, Mulenga and Kanyeihamba JJSC concurring. The ruling made by the trial judge on 10 November 1998 had to be read in the context of the record as a whole. Though the ruling was brief, the only reasonable conclusion to be drawn from it was that there was evidence of satisfactory service on counsel for the appellant. Although the judge omitted to record that he had, in fact, sighted both the hearing notice and the affidavit of service, he should be presumed to have seen the documents. The Court of Appeal, therefore, correctly held that there had been effective service of the hearing notice on the appellants counsel. It was clear from the record that on the day the trial judge permitted the trial to proceed ex parte, the respondent and his counsel were not ready to prosecute the case. In the event, the case was heard on at least two other later dates following adjournments sought by the respondent. Order 9, rule 17(1)(a) which permitted a trial to proceed ex parte was not intended to allow a party to have indefinite ex parte hearing without making the other party aware (sic). The trial judge erred in permitting the case to proceed ex parte when the respondent was not ready to proceed fully and this amounted to an unfair hearing, sufficient to set aside the ex parte judgment. Per Oder and Karokora JSC concurring. In order for an error to be a ground for review, it had to be one apparent on the face of the record that did not require any extraneous matter to show its correctness. It had to be so manifest that no court would permit it to remain on the record. In this instance, the absence of an affidavit of service from the record was an error justifying a review of the trial judges refusal to set aside the ex parte judgment. If the Court of Appeal had properly re-evaluated the evidence, it would have concluded that neither the appellant nor his counsel was served with the hearing notice of the suit. The court record did not show that the trial judge had a sight of the returned documents and the affidavit of service. The absence of the affidavit of service led to the inevitable conclusion that the hearing notice had not been served. Appeal allowed. Case to be heard de novo by the High Court.
+
+Cases referred to in judgment:
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Banco Arabe Espanol v Bank of Uganda [1999] 2 EA
+
+Bogere and another v Uganda criminal appeal number 1 of 1997 (SCU) (UR)
+
+D Mbonigaba v Nkinzehiki civil suit number 687 of 1971
+
+Kifamunte Henry v Uganda criminal appeal number 10 of 1997 (SCU) (UR)
+
+Osuna Otwani v Bukenya Ssalongo civil number 62 of 1974 (1976) HCB
+
+Selle v Associated Motor Boat and another [1968] EA 123
+
+United Kingdom
+
+Pandya v Thomas [1947] AC 484 (HL)

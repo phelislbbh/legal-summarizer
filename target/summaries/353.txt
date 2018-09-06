@@ -1,0 +1,55 @@
+Nkoloma v NBC Holdings Corporation Ltd
+
+Division: Court of Appeal of Tanzania at Dodoma
+
+Date of judgment: 15 September 2000
+
+Case Number: 44/97
+
+Before: Ramadhani, Lubuva and Lugakingira JJA
+
+Sourced by: L J S Mwandambo
+
+Summarised by: H K Mutai
+
+[1] Bank  Loan  Overdraft account  Bankers Order Card  Combination of accounts  Transfer of
+
+funds from an account in credit to loan account in debit  Whether bank justified in combining accounts
+
+ Whether plea of non est factum regarding BOC could be maintained  Whether bank could hold a lien
+
+over customers account in credit  Whether a bank was obliged to give notice to a customer before
+
+combining accounts.
+
+Editors Summary
+
+In 1990 the Appellant obtained a loan of TShs 9 300 000 from the Respondent through his account number 18-0009. The loan was to be repaid with effect from 31 March 1992. He later obtained an overdraft facility from the Respondent for the period 1991 to 1994 on account number 25/549. As part of the conditions for the loan, the Appellant was to open an ordinary account and execute a Bankers Order Card (BOC) authorising the Respondent to debit loan instalments as and when they fell due. The Appellant was also obliged to pay a commitment fee and interest on the loan at a rate of 27,5% per annum payable quarterly. The ordinary account was never opened but the BOC was signed on 14 October 1992 to take effect from 27 October 1992. Over a period of time starting on 28 September 1991 and ending on 29 December 1994, various amounts of money were transferred from the overdraft account by the Respondent to the loan account number 18-0009 and used to service the loan. Five of the deductions were made before the signing of the BOC and eight afterwards. The Appellant brought suit against the Respondent seeking a refund of the amount deducted and interest thereon on the ground that the Respondent had neither legal justification nor his consent to carry out the deductions. His suit was dismissed by the High Court whereupon he brought the present appeal in the Court of Appeal. His primary grounds of appeal were that his plea of non est factum was wrongly rejected and that the trial Judge erred in finding that the Respondent had a lien on the money deducted. Counsel for the Respondent submitted, inter alia, that the first five deductions were effected under the banks inherent power to debit a borrowers account with a credit balance, that the BOC authorised the deductions for the repayments and that the Respondent had a lien on monies in the bank belonging to the Appellant. 
+
+
+
+Held  The first five deductions could not have been carried out under the authority of the BOC as it was not even in existence at the time and, indeed, as to three of them, the date for the repayment of the loan had not even arrived. However, the fact that the Appellants counsel had not questioned this fact suggested that these deductions could be justified as payments of the commitment fee and interest. The plea of non-est factum regarding the BOC could not be upheld as the opening of a BOC had been one of the terms of the loan agreement, an agreement that had been read out to the Appellant and that he had signed in the presence of his advocate. The eight deductions made between 28 December 1992 and 29 December 1994 that is after the coming into operation of the BOC, were therefore validly made under its authority. The power of a bank to combine accounts where a customer had more than one account with a bank was a common law right exercisable in the context of a banker/customer relationship. It could only be exercised where a customer was unable or unwilling to repay an overdraft incurred in one account although another account was in credit or where a customer drew a cheque for an amount exceeding the balance in the account involved but the deficiency could be made up using funds in another account. Where there was no agreement to keep the funds separate, a bank was not obliged to give notice to the customer before combining the accounts. Furthermore, where a customer was aware of his commitments to a bank but deliberately avoided meeting them, then the bank was entitled to combine accounts without notice even where there was an agreement not to do so. The bank was therefore justified in combining the Appellants accounts. On the issue of lien, a lien could not attach the balance standing to the credit of a customers account as that money was part of the banks general funds and the bank could not have a lien over its own property, especially when that property was also in its possession.
+
+The appeal would therefore be dismissed.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Buckingham Co v London and Mindland Bank (1895) 12 TLR 70
+
+Teale v William, William and others (1984) 11 TLR 56
+
+Page 189 of [2000] 1 EA 187 (CAT)
+
+United Kingdom
+
+Garnett v MKewan (1872) LR 8 Ex 10
+
+National Westminister Bank Ltd v Halesowen Presswork and Assemblies Ltd [1972

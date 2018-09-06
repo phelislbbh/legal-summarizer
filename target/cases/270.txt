@@ -1,0 +1,302 @@
+
+                           THE REPUBLIC OF UGANDA
+
+IN THE HIGH COURT OF UGANDA HOLDEN AT KAMPALA
+
+COMMERCIAL COURT DIVISION
+
+HCT-00-CC-CA-0007-2006
+
+(Appeal from a ruling of the Tax Appeals Tribunal in Civil Application  No.
+26 of 2006)
+
+MATOVU AND MATOVU ADVOCATES
+APPELLANT
+
+VERSUS
+
+UGANDA REVENUE AUTHORITY
+RESPONDENT
+
+Legislation referred to:
+VAT Act, Cap.349, and
+Tax Appeals Tribunal Act.
+
+
+
+
+
+
+BEFORE: THE HONOURABLE MR. JUSTICE FMS EGONDA-NTENDE
+
+JUDGMENT
+
+The appellants were the applicants before the Tax Appeals Tribunal. They
+went to the tax appeals tribunal to contest the issuance of a third party
+agency notice by the respondent, dated 22 September 2005, to the Uganda
+Electricity Board seeking to collect the sum of Shs.260,194,312.00 being
+VAT tax arrears that the firm of Matovu and Kimanje Advocates acknowledged
+as due and owing in earlier proceedings before the Tax Appeals Tribunal.
+The appellants contended that this money claimed was due from Matovu and
+Kimanje Advocates and not Matovu and Matovu Advocates. Since the tax
+liability arose and was admitted by the firm of Matovu and Kimanje Nsibambi
+Advocates, the said firm has ceased to exist, with the partnership business
+dissolved.
+Mr. John Matovu was a partner in the firm of Matovu and Kimanje Advocates,
+and is now a partner in the firm of Matovu and Matovu Advocates. Uganda
+Revenue Authority has turned to Mr. John Matovu, and in particular to his
+new firm, Matovu and Matovu to pay the outstanding vat arrears that were
+adjudged by consent of the parties, including Matovu and Kimanje Advocates,
+before the Tax Appeals Tribunal, to be due and owing to the Uganda Revenue
+Authority.
+The complaint before the TAT was in effect that Mr. John Matovu is being
+compelled to pay the tax liability of Mr. Kimanje, his former partner in
+Matovu and Kimanje Nsibambi Advocates.
+The Tax Appeals Tribunal heard both parties and found that the third party
+agency notice issued by the Uganda Revenue was properly issued, and that
+Mr. John Matovu, or Matovu and Matovu Advocates can be compelled to pay the
+tax liability of the Matovu and Kimanje Advocates. The tribunal dismissed
+the application with costs.
+The appellant appeals against that decision and has set forth two grounds
+of appeal. Firstly that the tribunal erred in law and in fact when they
+held that the respondent properly issued a Third Party Agency Notice
+against the appellant for the recovery of taxes due to the partners in M/S
+Matovu & Kimanje Nsibambi Advocates under S. 71 of the VAT Act. Secondly
+that the tribunal erred in fact when they held that the Applicant
+guaranteed the Tax Liability (debt) of M/S Matovu & Kimanje Nsibambi
+Advocates by issuing post dated cheques which bounced.
+Mr. John Matovu, learned counsel for the appellant, submitted that he
+relied on the submissions made in the tribunal. He argued that Section 71
+of the VAT Act does not authorise recovering of money due from one partner
+from another partner without the consent of such partner. He argued that
+there was some ambiguity in this section with regard to the question of
+discharge of a partnership tax liability, and that this ambiguity ought to
+be resolved in favour of the tax payer. With regard to ground 2 he stated
+that the cheques in question were signed by both partners at the time, and
+were not only signed by him.
+Ms Ann Bitature, learned counsel for the respondent opposed the appeal,
+arguing that there was no ambiguity in Section 71 of the VAT Act. Secondly
+that this section imposed joint and several liability on the partners in a
+firm for the tax liability of that firm, and the tax authority could
+proceed against a partner either jointly or severally for the tax liability
+of the firm. This is what occurred in this situation. With regard to ground
+2 she submitted that this was raised as an issue of fact, a matter that was
+not appealable. She prayed that this appeal be dismissed.
+The Tribunal resolved the issues in question stating in part,
+           'The Tribunal agrees with the Applicant that the discretion in
+           71(1) (a) is exercisable by the partner, and not the respondent
+           to determine which partner. The Tribunal further agrees with the
+           applicant that according to Section 71(1) (b) each partner has
+           the obligation to meet his burden of the partnership depending
+           on the Partnership Deed.'
+The Tribunal, however, went on to state, after drawing a connection between
+Mr. John Matovu and the previous proceedings, the post dated cheques issued
+in relation thereto, and the partnership deed of Matovu & Kimanje Nsibambi
+Advocates,
+           'The Tribunal assumes that this Article of the Partnership was
+           followed to the letter when dissolving the partnership. The
+           Tribunal further presumes that the person who
+           undertook/guaranteed payment of tax by signing post dated
+           cheques in settlement of the outstanding tax obligations must
+           have taken interest in ensuring that the tax is paid.  The
+           Tribunal therefore finds that in the Third Party Agency Notice,
+           the Respondent  was reminding Mr. John Matovu, now of Matovu &
+           Matovu Advocates for the outstanding taxes he had undertaken to
+           bear.'
+I must point out, at this stage, that this last finding is erroneous. The
+purpose of a third party agency notice is to collect monies in the hands of
+a third party belonging to the person liable to pay the tax, and not to
+remind the taxpayer that the liability is still outstanding. See Section 40
+of the VAT Act.
+ The Tribunal went on to hold that as Mr. John Matovu guaranteed/undertook
+to pay the outstanding tax which he knew he is liable to pay the said such
+tax. To found against the appellants the Tribunal rested its finding on a
+ground, not advanced by any of the parties. It was not definitely advanced
+by the respondent. The result is that the Tribunal rested its decision on a
+matter both of law and fact that had not been argued before it. Whereas it
+is possible for a court or tribunal to decide thus, this is an undesirable
+practice, unless such issue or matter be brought to the attention of the
+parties for their views to be known.
+In the instant the cheques that the tribunal treated as a guarantee by Mr.
+Matovu to pay the tax were actually issued by the firm of Matovu & K
+Nsibambi Advocates on their clients account. This is evident from a reading
+of the cheque leafs on record. The cheques were firm cheques and not
+individual cheques of Mr. John Matovu. It is therefore surprising that the
+Tribunal holds that because Mr. John Matovu signed the cheques it must be
+taken that he guaranteed the payment of taxes due.
+Guarantee is an agreement whereby one party agrees to pay the debts of
+another in case of default by that other party to pay the debt. There was
+no evidence before the tribunal in these proceedings of the existence of an
+agreement of guarantee, and the tribunal erred in law, to presume the
+existence of such an agreement, and find, albeit obliquely, that it formed
+sufficient basis for the issue of a third party agency notice in respect of
+proceeds due to a former partner of a partnership liable to pay the tax in
+question.
+The tribunal having agreed with Mr. John Matovu's interpretation of Section
+71 of the VAT Act, and found that that Act, read together with the
+partnership deed of Matovu & Kimanje Nsibambi Advocates, imposed on each
+partner the obligation to meet his share of the burden of the tax
+obligation, it had no logical basis to find that Mr. John Matovu was then
+liable to pay the tax obligation of the partnership of Matovu & Kimanje
+Nsibambi Advocates, apart from his share of that tax burden. However, on my
+part, and with respect to the tribunal, I do not share the conclusions of
+the tribunal with regard to application of Section 71 of the VAT Act to the
+facts of this case.
+Both parties provided different views on the application of Section 71 of
+the VAT Act, providing reasons for each particular view or position,
+together with authorities to support their contentions. The tribunal merely
+agreed with the appellant, without an analysis of both the reasons for and
+against that position, and choice of what reasons were acceptable and why
+such reasons were acceptable and why the reasons for the adverse party were
+not acceptable to the tribunal.
+The tribunal had an obligation to provide a reasoned decision on that issue
+rather than merely adopting one position and proceeding on to other
+matters. Section 19 (2) of The Tax Appeals Tribunal Act, which imposes this
+obligation, states,
+           'The tribunal shall give reasons in writing for its decision,
+           including its findings on material questions of fact and
+           reference to the evidence or other material on which those
+           findings are based.'
+The tribunal in its decision under the section entitled 'Findings, Ruling
+and Award of The Tribunal' started with this statement.
+           'The tribunal has carefully considered the submissions by
+           Counsel for the Applicant. The Tribunal however finds that there
+           is , in principle, an agreement by both parties that the matter
+           falls squarely within the provisions of Section of section 71
+           (1) (a) and (b) of the VAT Act.'
+The Tribunal then set out the provisions of the section. The Tribunal then
+concluded that it agreed with the applicant's position. It is clear that
+the position of the respondent was never examined before accepting the
+position of the applicant. The tribunal was obliged to examine the same,
+and was entitled, if it was so minded, to reject the position, but
+providing reasons for that rejection. It was an error not to do so.
+Basically the case for the appellant is that under Section 71 (1) (a) of
+the VAT Act, the tax liability for a partnership is imposed on all the
+partners though this liability may be discharged by one or the other of the
+partners. The discharging of the tax by the partners or any one of them
+would be a choice made by the partners or partner. It is then argued that
+though under Section 71 (1) (b) this tax liability is joint and/ or
+several, if it is enforced severally, it would render Section 71(1) (a)
+meaningless. Each partner should therefore meet his or her part of the tax
+burden incurred by the defunct partnership. The tax burden of the
+partnership cannot be imposed upon one former partner.
+The case for the respondent was that Section 71 of the VAT Act had to be
+read as a whole, and if it was read as whole, it is then clear that whereas
+under Section 71(1) (a) one partner may choose to discharge all tax
+liability of all the partners and partnership, under Section 71(1) (b) of
+the same Act, all partners were jointly and severally liable, and thus
+liability could be enforced severally against one or each of the partners.
+I will set out Section 71 (1) of the VAT Act. It states,
+           ' Application of Act to partnerships and unincorporated
+           associations.
+                                         (1) This Act applies to a
+           partnership as if the partnership were a person, but with the
+           following changes-                               (a) obligations
+           that would be imposed on the partnership are imposed on each
+           partner, but may be discharged by any of the partners;
+
+             (b) the partners are jointly and severally liable to pay any
+           amount that would be payable by the partnership,'
+There is no ambiguity in the provisions of this section. They provide
+firstly in Section 71 (1) (a) that the obligations of the partnership are
+imposed on each partner. Each partner, in my view, is made to carry the
+burden of the partnership. Each partner carries this liability singly.
+There is no suggestion that the burden is divided up between the partners
+in any manner or proportion. Secondly one partner may choose to discharge
+the tax liability though all the partners bear the burden singly.
+Section 71 (1) (b) then provides that the partners are jointly and
+severally liable to pay any amount that would be payable by the
+partnership. I reject the claim by the appellant made in the tribunal that,
+
+           'Further Section 71 (1) (b) f Cap. 349 states that the partners
+           are jointly and severally liable to pay any amount that would be
+           payable by the partnership. A literal interpretation of this
+           would be that, each partner is entitled to meet his part of the
+           obligation. In the circumstances therefore; each partner should
+           meet his part of the obligation that accrued fro the defunct
+           firm and or partnership. To state otherwise, would render
+           section 71(a) irrelevant and of no legal effect.'
+I am unable to point to any part of the provisions referred to by counsel
+for the appellant which would suggest that that the provisions of Section
+71 (1) (a) of the VAT Act, say that each partner is entitled to pay only
+such partner's share of the obligation of the tax burden of the partnership
+only. The provisions do not attempt to divide up proportionally or in any
+other manner whatsoever the tax burden of the partnership other than to
+make all the partners and or any one of them liable for the whole tax
+burden of the partnership. There is no way, 'stating otherwise' renders
+Section 71 (1) (a) of the VAT Act, irrelevant and of no legal effect.
+It is true as Mr. John Matovu argued in tribunal below that the word
+'imposed' refers to the power of the respondent to impose the tax and it is
+the taxpayer who discharges the tax obligation. The language of Section
+71(1) (a) is very clear. The obligations that would be imposed on the
+partnership as one person are imposed on each partner. Each partner has the
+responsibility to bear the burden of the partnership. The provision may be
+harsh in its full import. However I see no ambiguity. However, if any
+ambiguity did exist such ambiguity is then removed by Section 71 (1) (b) of
+the Act, which expressly provides for joint and several liability of the
+partners for the tax burden of the partnership.
+I would accordingly reject the position of the appellant that Section 71
+(1) of the VAT Act does not impose liability on one partner. It does impose
+liability on each of the partners and on all the partners. Collection can
+be made from one partner or from all the partners. One partner may
+discharge all liability or all of the partners may discharge the liability
+of the partnership.
+The Tribunal in its decision gave consideration, in construing the
+provisions of Section 71 (1) of the Act, to the provisions of the
+partnership deed of Matovu & Kimanje Nsibambi Advocates. This was an error.
+In determining the liability between the two partners it is, of course,
+relevant to consider the terms of their agreement and give effect to them.
+This would be relevant in an action between the partners. However, it is
+not relevant in construing the statutory powers of the respondent, provided
+under the VAT Act, which was the matter in issue, in these proceedings.
+It is not in dispute that the subject matter of the third party agency
+notice was tax liability of the defunct Matovu & Kimanje Nsibambi
+Advocates. Mr. John Matovu was a partner in that firm. All the partners in
+that firm were liable to pay the tax liability of the firm and one of the
+partners could opt to discharge the liability of the firm.
+At the same time the respondent was authorised under Section 71 (1) (b) of
+the Act, to collect the tax from any one of the partners whether jointly or
+severally. The issuance of the third party agency notice in respect of
+liability of the partnership to a third party, in respect of monies due
+from that third party to one partner, Mr. John Matovu, under the name and
+style of Matovu and Matovu, was therefore lawful. I would accordingly
+reject ground number one of the appeal.
+Given what I have already expressed in paragraphs 11 to 14 herein above, I
+agree that the tribunal erred to find that the appellant had guaranteed the
+tax liability of Ms Matovu & Kimanje Nsibambi Advocates by issuing the post
+dated cheques in question in a previous proceeding. Those cheques were not
+issued by Mr. John Matovu as such, but by the firm, Matovu & Kimanje
+Nsibambi Advocates. Secondly, issuing a cheque to a person may create some
+liability based on that cheque as a bill of exchange but not, necessarily,
+liability as a guarantee. I am aware of no law that creates liability based
+on guarantee, merely on the issuance of a cheque.
+I would allow ground no.2 to succeed but this is inconsequential to the
+substance of the dispute discussed in relation to ground no1 of the appeal.
+In the result I would dismiss this appeal with costs here and below.
+Signed, dated and delivered at Kampala this 28th day of September 2006
+
+
+
+
+
+FMS Egonda-Ntende
+Judge
+
+
+
+
+
+
+
+
+
+
+PAGE
+
+
+PAGE  1
+
+
+
+
+

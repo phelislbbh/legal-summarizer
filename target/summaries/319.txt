@@ -1,0 +1,47 @@
+Mwangi v Braeburn Ltd
+
+Division: Court of Appeal of Kenya at Nairobi
+
+Date of Judgment: 9 July 2004
+
+Case Number: 12/04
+
+Before: OKubasu JA, Onyango Otieno and Ringera JJA
+
+Sourced by: LawAfrica
+
+Summarised by: A Mwanzia
+
+[1] Civil procedure  Injunction  Mandatory injunction  Principles for grant of interlocutory
+
+mandatory injunctions  Order XXXIX, rule 1, 2 and 3 Civil Procedure Rules.
+
+[2] Contract  Privity  Contract between school and parents for enrolment of minor  Whether minor
+
+may sue on the contract.
+
+Editors Summary
+
+The appellant filed a suit through his next friend and father Moses K Mwangi against the respondent seeking a mandatory injunction for release to him of his school leaving certificate and final examination certificate, a declaration that the continued holding of the said certificates was illegal and general damages for breach of contract. During the subsistence of the suit in the lower Court, the respondent filed an application pursuant to the provisions of Order VI, rule 13(1)(a), (b), (c), (d), Order XXXI, rules 1 and 2 of the Civil Procedure Rules for orders that the appellants suit be dismissed or struck out on grounds that the filing of the suit contravened the law in that no written authority by the next friend was made and filed before or on the institution of the suit; that the appellant had no locus standi against the school and that the whole suit was a sham, unmentorious, vexatious, embarrassing, frivolous and an abuse of the Court process. Before the respondents application could be heard, the appellant filed his own application under Order XXXIX, Rules 1, 2 and 3 of the Civil Procedure Rules seeking an order to compel the school to release to him his school leaving certificate and the final examination certificate unconditionally pending the hearing and determination of the suit. The appellants application was heard first and granted by the Magistrate finding that the appellant was not a party to the contract between the respondent and his parents and was not claiming relief under the contract but only sought his rights to get the proceeds of his work. She also found that there was no justification in the continued retention of the certificates. As regards the respondents application, the Magistrate declined to grant the same finding that the omission to file a written consent by the next friend was a curable defect, and secondly that the suit disclosed triable issues as to warrant the same proceeding for trial. The respondent appealed against the Magistrates decisions in the two applications to the High Court. The High Court Judge found that there existed no privity of contract between the appellant and the respondent and therefore the appellant had no right in his own right to the certificate or exam results. He faulted the Magistrates decision ordering the release of the certificates to the appellant. The Judge also ordered that the suit proceed to hearing as ordered by the Magistrate. The appellant was dissatisfied and appealed to the Court of Appeal from the High Courts holding that he had no right to the certificates. The respondent cross-appealed on the High Courts refusal to strike out the suit and instead ordering for the same to proceed for hearing. 
+
+
+
+Held  The Learned Judge was correct in finding that the contract was between the appellants parents and the school and accordingly only the parents could sue for any alleged breach thereof. The order for mandatory injunction made in favour of the appellant could not stand. Further, the application for mandatory injunction ought not to have been allowed on any proper consideration of the principles governing the grant of mandatory injunctions since the case was a most contentious one. Despina Pontikos [1975] EA 38, Mucoha v The Ripples Ltd civil application number Nai 186 of 1992 (UR) and Localball International v Agro Export [1986] 1 All ER 901considered. The Learned Judge having found that the appellant had no privity of contract with the school and that he could not therefore seek the reliefs he sought for breach of contract, it inexorably followed that the suit ought to have been struck out. Appeal dismissed, cross appeal allowed.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Despina Pontikos [1975] EA 38  C
+
+Mucoha v The Ripples Ltd civil application number Nai 186 of 1992 (UR)  C
+
+United Kingdom
+
+Locabail International Finance Ltd v Agroexport and others [1986] 1 All ER 901  C

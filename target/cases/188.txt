@@ -1,0 +1,247 @@
+Kaganda v Mzumbe
+
+[2000] 2 EA 389 (HCT)
+
+Division: High Court of Tanzania at Dar-Es-Salaam
+
+Date of judgment: 4 September 1998
+
+Case Number: 121/97
+
+Before: Mackanja J
+
+Sourced by: A Bade
+
+Summarised by: H K Mutai
+
+[1] Appeal  Industrial dispute  Appeal from the Industrial Court  Procedure to be followed 
+
+Jurisdiction to hear appeal  Whether the Civil Procedure Code applies to appeals from the Industrial
+
+Court  Whether a single judge of the High Court has the jurisdiction to hear an appeal from the
+
+Industrial Court  Section 27(I)C  Industrial Court Act.
+
+Editors Summary
+
+The decision of the High Court in OTTU (on behalf of PP Magasha) v Attorney-General that section
+
+27(I)C of the Industrial Court Act was unconstitutional to the extent that it deprived a person of his basic
+
+right of appeal except on grounds of jurisdiction, left a lacuna in the appeal procedure by failing to
+
+provide for the proper procedure to be followed in appeals from the Industrial Court. The responsibility
+
+for filling this void lay with Parliament, which had the power to legislate an appropriate appellate
+
+procedure. In the absence of such legislation, there was nothing in any statute to justify the hearing by a
+
+single judge of the High Court of an appeal from the Industrial Court, especially in view of the fact that
+
+the Industrial Court did not fall within the definition of the words subordinate court. Accordingly, until
+
+Parliament legislated otherwise, appeals from the Industrial Court should lie to the High Court sitting as a
+
+full Bench as was the case with references to the High Court for revisions of Industrial Court proceedings
+
+under the remaining part of section 27(I)C.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+Harman Singh Bhogal v Jadva Karsan [1953] EACA 17
+
+OTTU (on behalf of PP Magasha) v The Attorney-General and another civil case number 53 of 1994
+
+R v Industrial Court, Ex parte Aeronautical Engineering Association [1953] 1 Lloyds Report 597
+
+Judgment
+
+MACKANJA J: This appeal arises from the decision of the Deputy Chairman of the Industries Court in
+
+trade dispute number 18 of 1994. The Appellants lodged the trade dispute to challenge the Respondents
+
+decision to terminate their contracts of employment. At the end of the trial the Industrial Court found for
+
+them. They could not execute the award under which they were to
+
+Page 390 of [2000] 2 EA 389 (HCT)
+
+be re-instated because the Respondent successfully applied for stay of execution. It is this stay of
+
+execution that the appeal is all about. The memorandum of appeal is accompanied only by the ruling, but
+
+the drawn order staying the execution and from which it is appealed, does not accompany the
+
+memorandum of appeal. When I noticed that omission I invited the parties to argue, inter alia, whether or
+
+not Order XXXIX, Rule I as read with Order XL, Rule 2 apply to the memorandum of appeal in these
+
+proceedings.
+
+The Appellants have made a spirited argument regarding procedures that should govern their appeal.
+
+They contend, with considerable verve, that there is no law under which appeals to this Court are to be
+
+pursued. They argue Civil Procedure Code is meant for civil cases, unless so specifically stated within
+
+the Code itself or in any other statute of relevance to a case such as this one. The force in the Appellants
+
+arguments the Respondents with the unenviable task of rebutting those arguments, for indeed there is no
+
+statute at the moment that provides for appeals from the Industrial Court to this Court.
+
+Mr Kisusi, learned counsel for the Respondent, tackled his task with great clarity. As is obvious from
+
+his arguments, he also believes that this Court is not a proper forum for appeals from the Industrial Court
+
+because there is no statute which has created such a procedure. It is his contention that a right to appeal
+
+can only be founded on a statute. He cites two cases as authority for this: Harman Singh Bhogal v Jadva
+
+Karsan [1953] EACA 17 at 18 and R v Industrial Court, Ex parte Aeronautical Engineering Association
+
+[1953] I Lloyds Report 597 at 601.
+
+Learned counsel has made the point that even though this Court has declared as unconstitutional
+
+section 27(I)C of the Industrial Court Act of 1967 to the extent it deprives a person of his basic right of
+
+appeal except on grounds of jurisdiction in terms of civil case number 53 of 1994, the Court stopped
+
+short of saying:
+
+(a) to which court a person aggrieved by a decision of the Industrial Court on grounds other than lack
+
+of jurisdiction may appeal;
+
+(b) in what form the appeal should be;
+
+(c) who should sit to determine the appeal;
+
+(d) in how many days the appeal should be made, and
+
+(e) the powers which the appellate court should have when determining appeals from the Industrial
+
+Court on matters other than lack of jurisdiction.
+
+This point, albeit in a lay way, has also been raised by the Appellants. In fact, they have gone further.
+
+They argue, in effect, that a decision that decisions of the Industrial Court are appeallable is usurpation of
+
+legislative functions which defeats the whole purpose of separation of powers. They argue, and the
+
+argument is quite tempting, that the question of legislation belongs to Parliament. Mr Kisusi is at one
+
+with the Appellants on the question of legislative functions when he argues that the power to enact laws
+
+rests with Parliament. So once this Court declared section 27(I)C of the Industrial Court Act to be
+
+unconstitutional, it remained for Parliament to enact provisions of law enabling persons aggrieved by
+
+decisions of the Industrial Court on grounds other than lack of jurisdiction to appeal to whatever forum
+
+Parliament was going to set up or to
+
+Page 391 of [2000] 2 EA 389 (HCT)
+
+seek such other remedy as Parliament considered fit. That forum need not be this Court. I am persuaded
+
+to accept this argument.
+
+Learned counsels submissions remind me of the English system of industrial justice. In England they
+
+have industrial tribunals which are headed by judges. Anyone aggrieved by their decisions may appeal to
+
+the Employment Appeals Tribunal. So who knows, maybe Parliament may be inclined to emulate that
+
+system. They say, and I am a believer in it, that Parliament has undoubted wisdom. It would not have
+
+been impossible for that august body to come out with legislation which would take care of all the
+
+complications which have been brought about by a decision of this Court which all fair-minded people
+
+would say is a milestone in the development of our young jurisprudence in the field of human rights.
+
+I admire the zeal with which Mr Kisusi has approached the problems which were created when, for
+
+the first time in the history of this nation, workers and their employers have been given access to another
+
+judicial institution in search of justice. He has taken up the issue with the Attorney-General to whom he
+
+made very impressive proposals, stressing that the right of appeal is not governed by any general
+
+principles. I agree. It must be conferred by statute. Mr Kisusi backed up his arguments with the
+
+authoritative and scholarly works of SA de Smith in his Administrative Law (3 ed) at 14. This is in
+
+addition to the two cases he has cited to me in this appeal. The suggestions he put to the
+
+Attorney-General are very sound. Let me emphasise the fact that our country needs a dynamic law that
+
+has to be abreast of changing circumstances. It will do a lot of good to this country, and particularly to
+
+industrial justice, if the government took serious account of the need to take steps to streamline the
+
+Industrial Court of Tanzania Act of 1967, with the decision of this Court in OTTU (on behalf of PP
+
+Magasha) v The Attorney-General and another civil case number 53 of 1994.
+
+The Magasha case has left a lacuna in the appeal procedure. What, then can be done before the
+
+position is normalized? The answer is not easy to find.
+
+It is public knowledge that the Industrial Court is headed by a judge of the High Court. I can find
+
+nothing on the statute book which could justify an appeal from this Court to be heard by a single judge of
+
+the same Court. That is probably why a reference to this Court for revision of revisional proceedings of
+
+the Industrial Court under the remaining part of section 27(I)C is done by a full Bench of this Court. In
+
+fact a full Bench sat to decide Magashas case.
+
+I have not lost cognizance of the fact that the Industrial Court does not fall within the definition of the
+
+words subordinate court. One would say, then, that the High Court is not seized of appellate
+
+jurisdiction over decisions originating from the Industrial Court. On the same parity of reasoning the
+
+Industrial Court, though headed by a judge, is not equivalent to the High Court, nor, unlike the Loans and
+
+Realisation Trust Tribunal whose decisions are declared to be equivalent to those of this Court in terms
+
+of the Loans and Advances Realisation Trust Act, do the decisions of the Industrial Court rank pari passu
+
+with the decisions of this Court. In these circumstances the Industrial Court lies somewhere between
+
+courts subordinate to this Court and this Court. This being the case, and in order to bring credence to our
+
+judicial system, appeals from the Industrial Court should lie to the High Court sitting as a full Bench
+
+unless and until Parliament, in its undoubted wisdom, deems it necessary to
+
+Page 392 of [2000] 2 EA 389 (HCT)
+
+legislate on an appellate procedure or if the Court of Appeal, on an appeal to it, directs otherwise. That
+
+being my view, I feel I will not act intra vires my powers if I go on to determine the appeal on the merits.
+
+That should be done by this Court sitting as a full Bench. The appeal, therefore, remains intact.
+
+Accordingly, the record of proceedings shall be remitted to the honourable the judge-In-charge to
+
+re-assign it to a full Bench of this Court.
+
+For the Appellant:
+
+Information not available
+
+For the Respondent:
+
+Mr Kisusi

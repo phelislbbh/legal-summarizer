@@ -1,0 +1,101 @@
+Allimasi v Kerawala Ltd
+
+Division: High Court of Tanzania at Dar Es Salaam
+
+Date of judgment: 6 June 1973
+
+Case Number: 4/1973 (51/74)
+
+Before: Onyiuke J
+
+Sourced by: LawAfrica
+
+[1] Master and Servant  Summary dismissal  Jurisdiction  Not affected by Severance Allowance Act
+
+(Cap. 487)  Security of Employment Act (Cap. 574) s. 28 (T.).
+
+JUDGMENT
+
+Onyiuke J: This is an appeal from the decision of the district court Mtwara dismissing the appellants claim with costs on the ground that the district court had no jurisdiction to entertain the claim.
+
+The case commenced in the district court as a result of a report submitted by the labour officer Mtwara under s. 132 of the Employment Ordinance. The appellant was a driver by calling. The respondent was a limited liability company carrying on quarrying operations among other activities in Mtwara/Mikindani. The appellants case was that he was employed by the respondent in 1959 as a driver on a monthly wage of Shs. 250/- and that he had worked continuously for the respondent up to 20 October 1971 when his employment was terminated without notice, and without payment in lieu of notice. He claimed Shs. 250/- being one months wage in lieu of notice and Shs. 1,625/- being severance allowance for 15 years continuous service. He called two witnesses who testified that the appellant worked for the respondent but neither was able to say on what terms the plaintiff was employed.
+
+The respondents case was that the appellant was only employed from time to time as the need arose on a daily basis as a casual worker; that the arrangement was that the appellant would be paid at the end of each day depending on the number of trips he made for the day. The rate for a trip was Shs. 2/-. The respondent tendered in evidence payment vouchers with the appellants thumb prints showing that he received his wage at the end of each day. The appellant admitted the thumb prints were his but gave an explanation of this which apparently did not impress the magistrate. The respondents daily wages were not constant but varied according to the number of trips he made per day.
+
+The magistrate in a closely reasoned judgment reviewed the whole evidence and though he was inclined to accept the respondents case that the appellant was a casual employee within the meaning of the term as defined in s. 2 of the Employment Ordinance he however dismissed the appellants claim on the ground that the jurisdiction of the court to entertain the claim was ousted by s. 28 of the Security of
+
+Employment Act (Cap. 574). The appellant has now appealed to this court against the decision.
+
+The magistrate treated the appellants claim as one for summary dismissal. Part of his judgment reads as follows:
+
+It is clear from the evidence of the plaintiff that this termination of employment was that of dismissal, even if his evidence that he was on a monthly basis employment was accepted. I say this because s. 30 of Employment (Amendment) Act 1962 provides that an oral contract of service from month to month can be terminated:
+
+(i) by notice;
+
+( ii) by payment in lieu of notice;
+
+(iii) summary dismissal for lawful cause.
+
+Since the plaintiff was neither given notice nor paid in lieu of notice then this termination in law is that of summary dismissal.
+
+There can be no doubt that the magistrate took the correct view of the law. In Kitundu Sisal Estate v. Shingo, [1970] E.A. 557, Law, J.A. stated at p. 558: Summary dismissal means dismissal without notice and the plaintiffs contention that their services were wrongly terminated without notice can only, in my view, be considered as a contention that they were summarily dismissed. Again in Ali Mohamed v. Kunduchi Sisal Estates (1971 HCD No. 431) Onyiuke, J. in the course of this judgment dealing with summary dismissal stated as follows:
+
+S. 20 of the Security of Employment Act gives the right to an employer to dismiss an employee summarily for breaches of the disciplinary code in cases in which such penalty is allowed under the Code. S. 21 prescribes the procedure to be followed before that right can be exercised. Mr. Kolimbas contention was that unless an employer complied with this procedure for a breach which justifies summary dismissal under the code any purported dismissal cannot amount to summary dismissal within the meaning of s. 28 of the Security of Employment Act and therefore falls outside the ambit of the prohibitory provisions of that section. The short answer to this contention is that where an employer does not comply with the Act his action becomes wrongful but it is still summary dismissal for which but for s. 28 of the Act the employee can bring an action for damages. Compliance with the provisions of the Act is a complete defence to an action for wrongful summary dismissal but that is not the point. S. 28 precludes the Court from entertaining any proceedings in regard to summary dismissal so that the question whether the employer has a defence or not can hardly arise.
+
+Compliance with the provisions of the Act does not constitute summary dismissal. It provides a justification for summary dismissal. What the appellant was contending in the present case was that he was summarily dismissed without lawful cause and that was precisely what s. 28 precludes any court from inquiring into. The appellant was not represented by counsel in this appeal but Mr. Lakha, for the respondent, has been of great assistance to the court and had drawn my attention to any point that could possibly be urged in favour of the appellant. One of such points was whether the appellants claims could be treated separately so that his claim for severance allowance should have been entertained in the court below. If this was possible then the magistrate should not have dismissed that part of the appellants claim for want of jurisdiction. The relevant sections of the Severance Allowance Act (Cap.487) are ss. 3, 4, and 11. S. 3 provides as follows: Subject to this Act, where an employee has been in the continuous employment of an employer for a period of three months or more and, on or after the twenty-fifth day of June, 1962. 
+
+(a) (1) the employment is terminated by the employer . . . the employer shall pay to the employee 
+
+A severance allowance.
+
+S. 4 (1) of the Act provides as follows:
+
+An employer shall not be liable to pay any severance allowance to or in respect of any employee who:
+
+(a) Immediately before the cessation of his employment was
+
+(1) . . .
+
+(2) A casual employee;
+
+(b) was summarily dismissed for lawful cause.
+
+S. 11 provides as follows:
+
+The amount of any severance allowance which an employer is required to pay to or in respect of an employee, may be recovered by the employee or in the event of his death by any of his dependants by suit as a debt to such employee or to such dependants.
+
+I do not think that s. 11 of the Severance Allowance Act can be used to by-pass the mandatory provisions of s. 28 of the Security of Employment Act. The basis of the appellants claim whether in respect of the one months wage in lieu of notice or of the severance allowance was that his employment was wrongfully terminated, that is to say, summary dismissal for no lawful cause and that he was therefore entitled to his claims. But for s. 28 of the Security of Employment Act the court would have to inquire into the issue of wrongful dismissal. The effect of s. 28 however is to oust the jurisdiction of the court to do just that. I hold that the appellants claims are so interwoven that they fall within the ambit of the prohibitory provisions of s. 28 of the Security of Employment Act and that the magistrate was justified in dismissing his claim for lack of jurisdiction. 
+
+Mr. Lakha has further urged, this time in favour of the respondent, that the magistrate, having found as a fact that the appellant was a casual employee, should have dismissed the case on its merits. He submitted that the payment vouchers admittedly signed by the appellant showed clearly that he was employed as a casual employee. I doubt whether it was open to the magistrate to have inquired into that issue. I am of the view that where a plaint discloses facts which bring a case within the class of cases in respect of which the jurisdiction of the court is expressly taken away by statute the court must decline to entertain the case. The correct approach, I think is for the court to ask whether assuming the facts disclosed in the plaint to be true its jurisdiction to entertain it is taken away. If the answer is in the affirmative it should dismiss the suit for want of jurisdiction.
+
+It has to be pointed out that the fact this case was referred to the district court by a labour officer could not confer on it a jurisdiction which was expressly taken away by s. 28 of the Security of Employment Act. The prohibitory provisions of s. 28 (1) of the Act are by s. 28 (2) extended to cover any civil proceeding under Part XI of the Employment Ordinance. S. 132 under which the labour officer purported to refer the dispute to the district court comes under Part XI of the Employment Ordinance.
+
+If the appellant in spite of the payment vouchers he signed wishes to pursue the matter he has to take the dispute to a Conciliation Board.
+
+Finally, I wish to refer to the decree drawn up and signed in this case in the district court. The magistrate in his judgment dismissed the plaintiffs case with costs.
+
+Part of the decree in this case reads as follows:
+
+It is ordered that the suit be dismissed. Defendant to pay to the plaintiff Shs. 1,875/  .
+
+Neither the appellant nor the respondent was represented by advocate in the court below but even if the respondent was so represented the costs of the defence and of counsel could not possibly amount to Shs. 1,875/  which incidentally was above even the plaintiffs claim. It was obvious that the officer who drew up the decree thought that judgment was for the appellant. The district magistrate inadvertently signed the decree no doubt under pressure of work. The result however would have been disastrous to the appellant if advantage was taken of this mistake and execution was levied on his property. The provisions of the Civil Procedure Code are clear and unambiguous and should be strictly complied with.
+
+O. 20 r. 6 provides as follows:
+
+(1) The decree shall agree with the judgment, it shall contain the number of the suit, the names and descriptions of the parties and particulars of the claim and shall specify clearly the relief granted or other circumstances of the suit.
+
+(2) The Decree shall also state the amount of costs incurred in the suit and by whom or out of what property and in what proportions such costs are to be paid.
+
+O. 20 r. 7 provides as follows:
+
+The decree shall bear date the day on which the judgment was pronounced and when the Judge or Magistrate has satisfied himself that the decree has been drawn up in accordance with the judgment he shall sign the decree.
+
+It is hoped that these provisions of the order will always be borne in mind. In the final result I dismiss this appeal. I order however that the decree be re-drawn and properly signed.
+
+Order accordingly.
+
+The appellant in person:
+
+For the respondent:
+
+MA Lakha (instructed by Lakha & Co, Dar es Salaam)

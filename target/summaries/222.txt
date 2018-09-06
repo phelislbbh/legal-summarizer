@@ -1,0 +1,77 @@
+Kerekona v Uganda
+
+Division: Supreme Court of Uganda at Mengo
+
+Date of judgment: 4 August 2000
+
+Case Number: 46/99
+
+Before: Wambuzi CJ, Tsekooko, Karokora, Mulenga and Kanyeihamba
+
+JJSC
+
+Sourced by: LawAfrica
+
+Summarised by: M Kibanga
+
+[1] Appeal  Appellate Court  Lower court making a fundamental mistake in conduct of proceedings 
+
+Whether fundamental defect precluding appellate court from deciding on appeal relying on the lower
+
+courts proceedings other than to order a retrial or grant an acquittal.
+
+[2] Criminal practice and procedure  Previous conviction  Trial court making reference to previous
+
+conviction  Whether such reference improper.
+
+[3] Criminal practice and procedure  Trial  Criminal trial  Evaluation of evidence  Court
+
+evaluating evidence of the prosecution and conducting trial before evaluating defence evidence 
+
+Misdirection by Judge  Whether misdirection making trial fundamentally defective.
+
+Editors Summary
+
+On the night of 3 June 1994 the Appellant while in the company of another person broke into the house of the complainant, who was asleep with his wife. The Appellant who was armed with a matchete attacked the complainant. There was a lit hurricane lamp and the complainant was able to see the Appellant and the other assailant. A struggle ensued and the Appellant cut the complainant with the matchete. Meanwhile, some persons heard the commotion and arrived at the scene. The other assailant escaped. The Appellant was tied up. Upon searching the house, the complainant discovered that a weighing machine and some money had been stolen. The complainant and the other persons went to the home of the other assailant and arrested him. The Appellant and the other person were later charged with aggravated robbery. Before trial the Appellants co-accused died. The High Court tried, convicted and sentenced the Appellant to death. He appealed to the Court of Appeal and although the Court of Appeal noted that the procedure adopted by the High Court was fundamentally wrong for considering the prosecution case in isolation before considering the Appellants case, the Court of Appeal nevertheless used the record of proceedings of High Court to confirm the conviction of the Appellant. On appeal to the Court of Appeal, the Appellants advocate argued that the Court of Appeal ought not to have relied on the proceedings of the High Court to re-evaluate the evidence given in the High Court. Referring to the Appellants previous conviction in another case, the High Court had remarked on the Appellants propensity to be on the wrong side of the law. The Appellants advocate argued that the Court of Appeal should have quashed the conviction for this reason also. 
+
+
+
+Held  It was fundamentally wrong to evaluate the case of the prosecution in isolation and then consider whether or not the case for the defence rebutted or casts doubt on it. No single piece of evidence should have been weighed except in relation to all the rest of the evidence; Okethi Okale and others v R [1965] EA 555 followed partly and distinguished substantially. The proceeding of the lower court remained valid for all purposes until declared null and void by a higher court; R M Naker v R [1956] 23 EACA 528 and Loizean and another v R [1956] 23 EACA 566 followed. There was possibly no situation in which an appellate could be precluded from re-evaluating the evidence on record of a trial court simply because of a misdirection in the judgment by the trial court. The first appellate court had to re-evaluate the evidence on record and draw its own inferences and, if it was of the opinion that the judgment of the trial court could not be supported, that judgment would be set aside; D R Pandya v R [1957] EA 336, S M Ruwala v R [1957] EA 358, Bogere Moses v Uganda Supreme Court criminal appeal number 1 of 1997 (unreported) and Kifamunte Henry v Uganda Supreme Court criminal appeal number 10 of 1997 (unreported) followed. Failure of a lower court to comply with the rules of preparing a judgment would be fatal to a conviction where there was insufficient material on record to enable the appellate court to consider the appeal on merits; Willy John v R [1956] 23 EACA 590 followed. The misdirection by the Judge in recording the evidence was not fatal to the conviction. It was not proper for the Judge to refer to the previous allegation of conviction for robbery, but that did not prejudice the Appellants case. There was sufficient evidence to support the conviction and sentence. The appeal was dismissed.
+
+
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Augustion Orete and others v Uganda [1996] EA 431
+
+Bogere Moses v Uganda Supreme Court criminal appeal number 1 of 1997 (unreported)  F
+
+D R Pandya v R [1957] EA 336  F
+
+Kifamunte Henry v Uganda Supreme Court criminal appeal number 10 of 1997 (unreported)  F
+
+Ndege Maragwa v R EACA criminal appeal number 156 of 1964
+
+Okethi Okale and others v Republic [1965] EA 555  D and F
+
+Phillibert Loizean and another v R [1956] 23 EACA 566  F
+
+R M Naker v R [1956] 23 EACA 528  F
+
+S M Ruwala v R [1957] EA 358  F
+
+Willy John v R [1956] 23 EACA 509  F
+
+United Kingdom
+
+Annbamunthodo v Oilfields Workers Trade Union [1961] AC 945
+
+General Medical Council v Sparkman [1943] AC 627

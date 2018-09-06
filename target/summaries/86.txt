@@ -1,0 +1,61 @@
+Catholic Diocese of Moshi v Attorney-General
+
+Division: High Court of Tanzania at Dar-es-Salaam
+
+Date of Ruling: 28 January 1998
+
+Case Number: 3/97
+
+Before: Mapigano J
+
+Sourced by: A Bade
+
+Summarised by: C Kanjama
+
+[1] Administrative law  Delegated legislation  Tax remission order had not been published in the
+
+Gazette  Revocation of order before publication in the Gazette  Whether the order had legal validity
+
+prior to publication in the Gazette.
+
+[2] Evidence  Doctrine of estoppel  Representation as to future conduct  No contractual obligation 
+
+Whether estoppel would operate against the Minister.
+
+[3] Judicial review  Natural justice  Decision of Minister to give waiver of duty for goods revoked 
+
+Whether Minister took into account irrelevant considerations  Whether Applicants entitled to be heard
+
+ Whether there was a failure of natural justice.
+
+Editors Summary
+
+In 1994, the Moshi District Council passed a resolution to solicit money for construction of a road from the general public. They approached the Applicants who agreed to contribute money from the sale of used clothes to be imported by it from abroad. It was suggested that remission of sales tax and import duty be obtained from the government. Mr James Mbatia, an MP, applied to the government on the Applicants behalf for the remission. The Minister for Finance made orders to that effect and appointed agents to clear the goods from the port of Dar-es-Salaam. Before the orders could be gazetted, the Applicants were informed that the Minister had revoked the remission orders.
+
+On an application for orders of certiorari and mandamus, the Court was called upon to consider: (1) whether the Minister took into account the status of Mr James Mbatia as an opposition politician in order to revoke the orders; (2) whether there was denial of natural justice; (3) the applicability of estoppel; and (4) the legal validity of unpublished remission orders.
+
+Held  Since no reasons were given for the revocation decision, the allegation that the Minister considered the irrelevant issue of Mr James Mbatias status as an opposition politician was mere speculation.
+
+There was lack of fairness in not allowing the Applicants an opportunity to be heard prior to the revocation decision.
+
+In order to give rise to an estoppel, a representation must relate to an existing or past event. A mere statement of intention or a promise to do something in future does not create an estoppel. The Ministers statement was a statement in futuro and there was no evidence that he contracted to fulfil it. Therefore estoppel could not operate in this case. Alderson v Maddison LRS Ex D 293 adopted.
+
+According to section 26 of the Interpretation of Laws and General Clauses Act of 1972, any subsidiary legislation must be published in the Gazette unless inter alia it has no legislative effect. The orders of remission in this case would have been made by the Minister under the power conferred upon him by section 7(1) of the Customs Tariff Act 12 of 1976 and section 28(1) of the Sales Tax Act 13 of 1976 which require publication of the notice. However, the requirement for publication is no more than directory and failure to comply will not affect the validity of the remission orders. Jones v Robson [1901]
+
+I QB 673 adopted.
+
+Application allowed.
+
+Cases referred to in ruling
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+United Kingdom
+
+Alderson v Maddison LRS Ex D 293  A
+
+Jones v Robson [1901] I QB 673  A

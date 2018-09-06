@@ -1,0 +1,269 @@
+Barkrania and another v Kagau
+
+[2004] 2 EA 14 (CAK)
+
+Division: Court of Appeal of Kenya at Nairobi
+
+Date of Judgment: 18 March 2004
+
+Case Number: 21/02
+
+Before: Tunoi, Githinji JJA and Onyango Otieno AJ
+
+Sourced by: LawAfrica
+
+Summarised by: C Kanjama
+
+[1] Damages  Special damages  Assessment of damages  Future medical expenses  Loss of earnings
+
+ Whether evidence given of future medical expenses  Whether claim for loss of earnings remote or
+
+proximate.
+
+Editors Summary
+
+The Respondent sustained injuries in a road traffic accident due to the alleged negligence of the
+
+appellants. He claimed general and special damages under various heads, including KShs 400 000-00 for
+
+future medical expenses and KShs 2 800 000-00 for loss of business earnings. Liability was entered by
+
+consent at 80% against the appellants. The trial Judge after considering the submissions, awarded
+
+KShs 120 000-00 for future medical expenses and KShs 200 000-00 for loss of future earnings.
+
+The future medical expenses were in relation to surgical operations required to regraft the fracture
+
+sites and to remove the plates and screws inserted to aid healing of the fracture injuries suffered in the
+
+accident. The loss of future earnings was in respect to two computer contracts awarded to a company run
+
+by the respondent which were allegedly cancelled due to his injury.
+
+The Appellants appealed against the two awards. They argued that the Judge ought to have awarded a
+
+lesser sum for future medical expenses. They also argued that the claim for business loss should not have
+
+been allowed because the net loss from the value of two cancelled contracts was not disclosed and the
+
+said loss occurred to the company and not to the respondent.
+
+Held  The trial court had properly considered the medical opinion that the respondent required further
+
+surgery to improve his medical condition. Since the assessment of the quantum of damages was an
+
+exercise of discretion by the trial court, the appellate court would not disturb the award unless it was
+
+shown that the trial Judge proceeded on a wrong principle of law. Butt v Khan [1981] KLR 349.
+
+Page 15 of [2004] 2 EA 14 (CAK)
+
+The facts giving rise to the loss of business contracts were not strictly proved. Further, the loss of
+
+business was not suffered by the appellant personally, and no proximity between the accident and the loss
+
+of the contracts had been established. The trial court had failed to investigate the issue of causation.
+
+KCM Thyssen v Wakisu Estate Ltd [1960] EA 288 considered. Hence, the claim for consequential
+
+business loss was not proved and no sum ought to be awarded.
+
+Appeal allowed in part. Award for future medical expenses upheld while award for business loss
+
+overturned.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+Butt v Khan [1981] KLR 349  F
+
+Hahn v Singh [1985] KLR 716  F
+
+KCM Thyssen v Wakisu Estate Limited [1960] EA 288  C
+
+Judgment
+
+TUNOI, GITHINJI JJA AND ONYANGO OTIENO AJ: This appeal is only against the award of
+
+KShs 120 000 as future medical expenses and the award of KShs 200 000 as loss of earnings (business)
+
+to the respondent.
+
+The respondent, as the plaintiff in the superior court, claimed general and special damages for the
+
+injuries he sustained in a road traffic accident due to the alleged negligence of the appellants.
+
+He claimed special damages under several heads namely:
+
+(a) Medical report - KShs 2 000
+
+(b) Medical bills - KShs 200 000
+
+(c) Police abstract - KShs 100
+
+(d) Car hire services (loss of user) - KShs 273 000
+
+(e) Future medical expenses - KShs 400 000
+
+(f) Loss of earnings (business) - KShs 2.8 million.
+
+There was a consent judgment on liability apportioning liability at 80% against the appellants and at 20%
+
+against the respondent. The superior court (Mwera J) after considering the submissions awarded KShs
+
+120 000 for future medical care and KShs 200 000 as loss of future earnings. The appellants appeal
+
+against the two awards on the grounds that they were not convincingly proved by the respondent.
+
+The assessment of damages is an exercise of discretion by the trial court. An appellate court will not
+
+disturb the award unless it is shown that the Judge proceeded on a wrong principle of law or that he
+
+misapprehended the evidence in some material respect and so arrived at a figure which was either
+
+inordinately high or low as to represent an entirely erroneous estimate Butt v Khan [1981] KLR 349.
+
+Regarding the award of KShs 120 000 for future medical expenses the respondent had suffered a
+
+multiple fragment fracture of the left humerus and plates and screws were inserted. Doctor Njoka was of
+
+the view that respondent
+
+Page 16 of [2004] 2 EA 14 (CAK)
+
+would require an operation to repair fracture site, which would cost about KShs 100 000 and also an
+
+operation for removal of plates and screws, which would cost KShs 100 000.
+
+There was also a medical report of Dr RP Shah dated 17 June 1997 indicating that the respondent did
+
+not require an operation for removal of the plate. The Learned trial Judge considered the two medical
+
+reports and counsels submissions and awarded KShs 120 000. The appellants counsel does not show
+
+where the Learned Judge went wrong. He submitted that a sum of about KShs 60 000 should have been
+
+given which shows that the complaint is really on the quantum of damages. It has not been shown that the
+
+Learned Judge either erred in principle or misapprehended the evidence in assessing the appropriate
+
+award for future medical expenses and in our view the Learned Judge cannot be faulted.
+
+The respondents claim for loss of earnings was based on his evidence that because of the injuries he
+
+sustained as a result of the road traffic accident, he failed to perform two contracts worth KShs 2.8
+
+million and as a result the two contracts were cancelled. The respondent gave evidence that he was the
+
+managing director of a company called Intergalle Services Limited which had been awarded two
+
+contracts  one from Messrs AJ Faulkner and Sons Limited for training 30 people on Informix
+
+(Computer training) at KShs 20 000 per person  total KShs 600 000 and another from Messrs Afrostock
+
+International Limited for supply of computers worth KShs 2.8 million. According to the respondent he
+
+had to buy and supply the computers but did not do so because of the injuries and consequently the
+
+contract was cancelled. The respondents counsel submitted at the trial that the claim for KShs 2.8
+
+million should not be allowed because firstly, the net loss was not proved, and, secondly, the claim would
+
+only have been made by the company and not by the plaintiff.
+
+The Learned Judge agreed that the claim of KShs 2.8 million was not proved and said in part:
+
+That no figure was put forth as to what would have constituted the gross income and that the net income after
+
+deduction of VAT, other taxes, expenses involved in the training and supplying computers is not placed
+
+before the Court. However, the defence did concede that plaintiff suffered some loss though, except that it
+
+was not quantified. It is true in a case like this, this Court ought to be guided as to what was expected from the
+
+two deals and what would have been the net loss because plaintiff could not perform. This was a grave
+
+omission on the part of the plaintiff. But if he had clinched the deals the plaintiff would have made some
+
+money. But he was down with injuries from the accident. This Court thinks it fair to award KShs 200 000.
+
+The loss of earning quantified at KShs 2.8 million was pleaded as special damages, although the facts
+
+giving rise to such loss were not pleaded. As this Court has often said, special damages must not only be
+
+pleaded but also strictly proved Hahn v Singh [1985] KLR 716.
+
+In the present case, the Learned Judge made a specific finding that the loss of earning claimed was not
+
+proved but nevertheless proceeded to award KShs 200 000 certainly as an estimate of the loss without
+
+any factual basis. In doing so the Learned Judge undoubtedly, erred in principle.
+
+The claim for loss of earning was also fraught with the following other problems. Since the
+
+documents relied on by the respondent at the trial showed that the two contracts were offered to a
+
+company and not to the respondent as an individual, the Learned Judge should have considered the
+
+appellants submission
+
+Page 17 of [2004] 2 EA 14 (CAK)
+
+that the loss of profits (if any) was incurred by the company and make the appropriate finding on that
+
+issue proceeding to award damages.
+
+Furthermore, the Learned Judge should have investigated the veracity of respondents claim that the
+
+non-performance of the contracts was due to illness. The respondent suffered a left arm fracture on 7
+
+August 1993 and was admitted in hospital for one week. That injury alone could not have stopped him
+
+from buying computers and supplying them by 30 September 1993. He did not also explain what training
+
+on informix entails and did not show that the injury could not have allowed him to conduct the training
+
+from 6 September 1993.
+
+Lastly, the claim for loss of earning, rather, loss of profitable contracts inevitably raised the
+
+problematical question of remoteness of damages as what the appellant was asserting is that due to injury
+
+caused by negligence of the appellant he was unable to perform two remunerative contracts and as a
+
+consequence third parties cancelled the contracts. It is a question of law whether the loss of earnings
+
+claimed in this case was caused by the negligence of the appellant or by a novus actus interveniens  ie a
+
+new and independent act of third parties resulting in the cancellation of the two contracts. The Court did
+
+not investigate the issue of causation. The case of KCM Thyssen v Wakisu Estate Limited [1960] EA 288
+
+is a good illustration of the problem of remoteness of damages arising from personal injury claims.
+
+It is evident from the foregoing that the respondents liability to pay the KShs 2.8 million loss of
+
+earnings claimed or part of it was not established and the appeal against the award of KShs 200 000
+
+should be allowed.
+
+The appellant has partially succeeded and is entitled, in our view, to half the costs of the appeal.
+
+For the above reasons, the appeal against the award of KShs 120 000 as future medical expenses is
+
+dismissed but the appeal against the award of KShs 200 000 as loss of earnings is allowed and the award
+
+set aside. We would give half of the costs of the appeal to the appellants.
+
+For the appellants:
+
+Information not available
+
+For the respondents:
+
+Information not available

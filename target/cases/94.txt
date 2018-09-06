@@ -1,0 +1,101 @@
+Chesoni and another v Silverstein and another
+
+Division: High Court of Kenya at Nairobi
+
+Date of judgment: 10 March 2006
+
+Case Number: 1444/02
+
+Before: Visram J
+
+Sourced by: LawAfrica
+
+Summarised by: R Rogo
+
+[1] Civil practice and procedureSummons to enter appearance  Failure to apply for extension of validity of summons  Whether the Registrar can re-issue summon that have already expired  Effect of defendant having entered appearance.
+
+RULING
+
+Visram J: In this application, dated 18 March 2005, and brought under Order V, rule 1(7), Order XVI, rule 6 and Order VI, rules 13(1)(c) and (d) of the Civil Procedure Rules, the applicant seeks to strike out the Summons and the plaint on the ground that the same were not served on time.
+
+The original summons were issued on 6 September 2002. The said summons together with the plaint were collected from the Registry by counsel for the plaintiff but were not served on the defendants. It would appear that the plaintiff then went to slumber until 11 February 2005, when counsel wrote to the Deputy Registrar requesting for reissuance of summons, as the original ones had expired. The Registrar on 28 February 2005, proceeded to issue fresh summons which were served on the respondents on 7 March 2005, some thirty months later. Hence, this application to strike out the same.
+
+In his submissions before this Court, counsel for the defendant/applicant, Mr Gichuhi, argued that the original summons having been issued on 6 September 2002 and with no application made pursuant to
+
+Order V, rule 1 for extension of the validity of those summons, the same were deemed to have expired after twelve months. He argued that the same could not be reissued simply by way of a written request to the Deputy Registrar, as Order V, rule 2 and 5, required that an application for extension of validity of summons be made by filing an application and an affidavit in court. Counsel relied on the cases of Raju
+
+Investments Limited v Vipin Chandulal Rajani High Court civil case 3320 of 1991 (UR), Kalsi v
+
+Waitathu [2001] LLR 5817 (HCK) Stephen Karuoya Mwangi v Joyce Mumbi High Court civil case 77 of
+
+2002 (UR), Mobil Kitale Service Station v Mobil Oil Kenya Limited [2004] KLR PPI and Rajani and others v Thaithi [1996] LLR 443 (CAK).
+
+Relying on the case of Shah v Investment and Mortgages Bank Limited [2001] 1 EA 274, Mr Adere,
+
+Counsel for the plaintiff/respondent, argued that the summons had been properly re-issued by the Deputy
+
+Registrar. In his view the Shah case had laid down the rule that a defective summons did not invalidate the suit. He submitted that if a defective summons can be re-issued, as was done in the Shah case (supra) so can an expired summons. To him there is no difference between a defective summons and an expired summons.
+
+Mr Adere further argued that even if the summons was invalid, that would only render the service of the summons defective, but not render the plaint invalid. In other words, the two documents, the plaint and the summons, were separable. He submitted that the defendants having entered appearance, were now estopped from challenging the validity of the summons.
+
+Let me begin, if I may, with the relevant Civil Procedure Rules that govern this application, and the issue before this Court. Order V, rules 1(1), (2), (3), (4), (5), (6) and (7) state as follows:
+
+1. A summons (other than a concurrent summons) shall be valid in the first instance for twelve months beginning with the date of its issue and a concurrent summons shall be valid in the first instance for the period of validity of the original summons which is unexpired at the date of issue of the concurrent summons.
+
+2. W here a summons has not been served on a defendant, the court may by order extend the validity of the summons from time to time for such period not exceeding in all twenty-four months from the date of its issue if satisfied that it is just to do so.
+
+3. W here the validity of a summons has been extended under subrule (2), before it may be served it shall be marked with an official stamp showing the period for which its validity has been extended.
+
+4. W here the validity of a summons is extended, the order shall operate in relation to any other summons
+
+(whether original or concurrent) issued in the same sum which has not been served so as to extend its validity until the period specified in the order.
+
+5. Application for an order under sub rule (2) shall be made by filing an affidavit setting out the attempts made at service and their result, and the order may be made without the advocate or plaintiff in person being heard.
+
+6. As many attempts to serve the summons as are necessary may be made during the period of validity of the summons.
+
+7. W here no application has been made under subrule (2) the court may without notice dismiss the suit at the expiry of twenty-four months from the issue of the original summons.
+
+Based on these provisions, the original summons, once issued, is valid for a period of twelve months.
+
+Where service has not been effected within this period, the court may extend its validity for a specified period. However, the application for extension of its validity must be made during the lifetime of the summons, not after it has expired. Once its validity has expired, there is nothing to extend. It is dead. You cannot breathe new life into it. You cannot reissue it. In fact, there is no provision that I can find in the
+
+Civil Procedure Rules allowing for the reissue of summons. What the rules provide for is the extension of the validity of the summons. And as I have observed, it is not possible to extend a summons that has expired, that is dead, that simply does not exist. In Uday Kumar Chandulal Rajani v Charles Thaithi [1996] LLR 443 (CAK) the Court of Appeal, dealing with almost similar facts stated as follows:
+
+Order V, rule 1 provides a comprehensive code for the duration and renewal of summons, and therefore the non-compliance with the procedural aspect caused by failure to renew the summons under this rule is such a fundamental defect in the proceedings that the inherent powers of the Court under section 3A of the Civil Procedure Act cannot cure. The first summons having expired and the Deputy Registrar having held that there was no proper service he could not in the circumstances reissue fresh summons after the expiry of the aforesaid 24 month period. Neither did the entry of appearance by the defendants revive the summons which had expired. (T)he original summons in an action is only valid for the purposes of service for 12 months from the date of its re-issue. The Court, before 1996, could only by order extend its validity from time to time for such period not exceeding 24 months from the date of its issue if satisfied that it was just to do so. However, in this case, neither the plaintiff nor his advocate did exhaust the provisions of Order V, rule 1(5) by making any application for extension of the validity of the original summons; and consequently, the Court had no power to extend the validity of summons beyond 24 months, when in fact there was no valid summons in existence. It follows, therefore, that the alleged service upon the defendants was ineffective and invalid and so were the summons issued (by the Deputy Registrar).
+
+Now, it is common ground that the plaintiff had never in fact applied for the extension of the validity of summons, during the lifespan of the summons. What they did was simply to write a letter to the Deputy
+
+Registrar requesting that the summons be reissued, and the Deputy Registrar did exactly that. So, according to the decision in the case of Uday Kumar (supra), and my own decision in Kalsi v Waitathu
+
+[2001] LLR 5817 (HCK) the summons having expired, there was nothing to extend, and reissuance thereafter of the summons was invalid.
+
+However, Mr Adere has referred to the case of Shah (supra) arguing that an expired summons could indeed be reissued. I am unable to agree with him in that interpretation of the Shah case. In my humble opinion, that is not what the Shah case is all about. The Shah case was majorly about whether an unsigned plaint is valid in law.
+
+However, one of the other issues that the Court had to deal with in that case, related to the validity of a defective summons. Note defective summons, not expired summons. There, the presiding Judge in the High Court had found that the summons was invalid because it had provided for entry of appearance within ten days instead of giving the defendants at least ten day to enter appearance. The learned Judge having found the summons to be defective ordered fresh summons to issue. The Court of Appeal upheld that decision. However, that situation, in my view, is completely different with what I find in the case before me. What I have is an expired summons, not a defective summons, and accordingly I find that the Shah case is inapplicable to, and distinguishable from, this case.
+
+Mr Adere submitted before me that should I find the summons defective or invalid, I should not strike out the plaint, as it stands on its own. I would disagree. The two documents are indeed inseparable.
+
+Without the Summons, the defendant cannot be called upon to answer the claims in the plaint. Indeed
+
+Order V, rule 1(7) states that where no application to extend the validity of summons has been made, the suit may be dismissed.
+
+Finally, let me say, for what it is worth, that the plaintiffs application for reissue of summons, by way of a letter to the Deputy Registrar was irregular. Order V, rule 1(5) stipulates that an application for extension of the validity of summons must be supported by an affidavit setting out the efforts made at service. No such application was made. The fact that the defendant entered appearance is neither here, nor there, and in any event that of itself could not validate an invalid summons (see Uday Kumar case
+
+(supra)). Indeed, Lord Denning in the case of Macfay v United African Limited [1961] 3 All ER 1169 at
+
+1172 stated:
+
+If an act is void, then it is in law a nullity and not a mere irregularity. It is not only bad but incurably bad . . .
+
+And every proceeding which is founded on it is also bad and incurably bad. You cannot put something on nothing and expect it to stay there. It will collapse.
+
+Accordingly and for reasons cited above, I will allow this application, and strike out the suit herein, with costs to the defendant/applicants.
+
+For the appellant:
+
+Mr Gichuhi
+
+For the respondent:
+
+Mr Adere

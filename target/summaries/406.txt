@@ -1,0 +1,63 @@
+Republic v Kenya Anti-Corruption Commission and others ex parte okoth
+
+Division: High Court of Kenya at Nairobi
+
+Date of judgment: 27 January 2006
+
+Case Number: 112/05
+
+Before: Nyamu, Ibrahim and Makhandia JJ
+
+Before: Nyamu, Ibrahim and Makhandia JJ
+
+Sourced by: LawAfrica
+
+Summarised by: R Rogo
+
+[1] Amendment of statutes  Whether the Attorney General has power to make small amendments to statutes.
+
+[2] Criminal procedure  Whether a person who has been discharged under section 89(5) of the
+
+Criminal Procedure Code can be recharged for the same offence.
+
+[3] Interpretation of statutes  Effect of repealing a statute to continuing cases under that statute 
+
+Saving provision in the law.
+
+[4] Judicial review  Jurisdiction of courts to grant declaratory remedies.
+
+Editors Summary
+
+The applicant had been charged with an alleged offence of corruption in office contrary to section 3(1) of the Prevention of Corruption Act (Chapter 65 of the Laws of Kenya). However, the said Act was repealed when the Anti-Corruption and Economic Crimes Act, 2003 was enacted and became law on 2 May 2003. The applicant thereafter raised a preliminary objection to the validity of the charge in view of the repeal in the law and she was subsequently discharged under section 89(5) of the Criminal Procedure Code (Chapter 75 of the Laws of Kenya). The second respondent however rearrested and recharged the applicant with the same offence under the repealed law. She therefore filed this judicial review application seeking to prohibit the respondents from trying her on the basis of the same charge sheet. She also sought an order that a rectification done by the Attorney General of section 23(3)(e) of the Interpretation and General Provisions Act (Chapter 2 of the Laws of Kenya) was null and void. 
+
+
+
+Held  A discharge under section 89(5) of the Criminal Procedure Code does not amount to an acquittal so as to bar a further charge on the same facts. It is clear to the court that the situation covered by the section is before any formal proceedings and it is the very first act the court does to ascertain if there is triable offence as disclosed by the charge or complaint as drawn. It is indeed a threshold act. It is now settled law that discharges under section 82(i) and section 87(a) of the Criminal Procedure Code which are in turn brought about by a nolle prosequi and withdrawal respectively are no bar to subsequent proceedings founded on the same facts. These events do not happen at the threshold of the proceedings yet they do not constitute a bar to the institution of fresh charges or proceedings. It follows therefore, by analogy, the rejection of a charge or complaint cannot constitute a bar to any subsequent proceedings. The powers granted to the trial court under section 89(5) of the Criminal Procedure Code are exercisable when in the opinion of the court the complaint does not disclose an offence and that the provision does not bar the prosecution from reframing the charges with a view to disclosing an offence be it in terms of supplying better particulars or stating the provisions of the law under which the charges are filed. There is no intention whatsoever in the Repealing Act ie the Anti-Corruption and Economic Crimes Act 2003 that the offences under the Prevention of Corruption Act Chapter 65 were to cease being offences on the repeal of the Act, and since it is not disputed that the offence took place before the repeal of the Prevention of Corruption Act, we find that the offences were saved by the Interpretation and General Provisions Act section 23(3). There is no violation of section 77(4) of the Constitution as the offence of corruption and the penalty attached to the offences are defined under a written law as saved. If the transitional statute does not show contrary intentions, offences and proceedings under a law repealed remain in force. (R v Fisher 1 All ER 1969 followed; National Housing Corporation Intex Construction miscellaneous application number 131 of 1996 distinguished). The use of the word repealed in section 23(3)(e) was a mistake which the Attorney General could correct pursuant to powers conferred on him by section 13 of the Revision Act. The Attorney General has two distinct powers under the section: (a) The rectification of any clerical or printing errors appearing in the Laws of Kenya; (b) The rectification of any other errors in a manner not inconsistent with the powers of revision conferred by Chapter 1. (Pioneer General Assurance Society Limited v Ziwa (1974) EACA 161 applied; Jaramogi Oginga Odinga v The Electoral Commission High Court civil case number 5936 of 1992 distinguished). Quite apart from the powers conferred on the Attorney General under section 13 of the Revision Act, the court has power to correctly interpret the relevant section so as to give effect to the intention of the legislature. The meaning of the word repealed given to section 23(3)(e) is contrary to sense or reason and the court would not be helpless even if it were to hold that the Attorney General had no powers under section 13. The word repealing would have to be inserted under the above rules of construction as well. (The King v Vasey and Lally 2 KB 750). Under section 23(1) of the Anti-Corruption and Economic Crimes Act, an investigator and the Director have all the powers, privileges and immunities of a police officer as set out in section 19 of the Police Act. It cannot be reasonably disputed that a police officer has powers to present a charge or complaint before a competent court. The courts jurisdiction under sections 8 and 9 of the Law Reform Act (Chapter 26) is confined only to the grant of the judicial orders of certiorari, prohibition and mandamus. Declarations are outside the jurisdiction of the court in judicial review. Application dismissed. 
+
+
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Jaramogi Oginga Odinga v The Electoral Commission High Court civil case number 5936 of 1992  D
+
+National Housing Corporation Intex Construction Nairobi High Court Miscellaneous application number
+
+131 of 1996  D
+
+Pioneer General Assurance Society Limited v Ziwa (1974) EACA 161  AP
+
+Republic v Antonine Auma Okoth case number 5 of 2004
+
+United Kingdom
+
+R v Fisher All ER [1969]  F
+
+The King

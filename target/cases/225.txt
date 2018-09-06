@@ -1,0 +1,675 @@
+Kibalama v Alfasan Belgie CVBA
+
+[2004] 2 EA 146 (CAU)
+
+Division: Court of Appeal of Uganda at Kampala
+
+Date of Judgment: 2 June 2004
+
+Case Number: 19/02
+
+Before: Mukasa-Kikonyogo CJ, Kitumba and Byamugisha JJA
+
+Sourced by: LawAfrica
+
+Summarised by: M Adriko
+
+[1] Civil procedure  Admission  Judgment upon admission  Meaning of admission  Order 11, rule
+
+6, Civil Procedure Rule  Damages  Contract  Assessment of damages  Whether damages should be
+
+assessed by court even when the plaintiff has lost the suit.
+
+[2] Civil procedure  Pleadings  Contract  Pleading contents of a contract in pleadings  Contract 
+
+Trade custom  Meaning of trade custom  When trade custom can be pleaded by a party to the contract.
+
+Editors Summary
+
+The appellant, in 1994 was introduced to the export manager of the respondent for the purposes of
+
+carrying on the business of importing drugs in Uganda. It was alleged that a verbal agreement was made
+
+between the parties pursuant to which the appellant verbally placed orders together with payments in
+
+cash which would be transferred to the respondents bank account in Europe. The respondent would
+
+dispatch the drugs to Uganda. Appellant claims to have had a telephone discussion with the respondents
+
+export manager during which he placed an order for drugs worth US$ 15 000. The respondent did not
+
+send the drugs.
+
+In a civil suit, the appellant claimed a sum of US$ 15 000 or its equivalent in Ugandan Shillings;
+
+general damages for breach of contract, interest on the sum at the bank rate from the date of transfer until
+
+payment in full and costs of suit.
+
+Page 147 of [2004] 2 EA 146 (CAU)
+
+At trial, the appellant relied on pleadings which, among other omissions, did not include any
+
+documents showing the type of drugs ordered, whether any dispatchments of drugs were made and the
+
+unit costs of the drugs, if any. He then tried to plead a trade custom to the effect that transactions of the
+
+kind referred to in this suit would be made in a verbal form and that this was common in the drugs trade.
+
+The trial Judge dismissed the suit.
+
+The appellant appealed.
+
+Held  In suits based on contract, the plaint must allege the contract and then its breach. The plaint must
+
+also state the terms of the contract, the time when the cause of action arose, whether contract was express
+
+or implied, whether it was oral or written; the dates and names of the parties thereto.
+
+The plaint in this case did not state the type of drugs that were supposed to be delivered, the quantities of
+
+the drugs nor when the breaches occurred. Thus it did not satisfy the provisions of Order 7, rule 1(e) of
+
+the Civil Procedure Rules which require a plaint to state facts constituting a cause of action and when it
+
+arose.
+
+A trade usage is a particular course of dealing between parties who are in a business relationship. The
+
+usage must be known to all persons who normally enter into that relationship and must thus be presumed
+
+to have intended to adopt that course of dealing and to have incorporated it into their contractual
+
+relationship unless by agreement it is expressly or impliedly excluded. For a course of dealing to become
+
+a usage, it must be so well known by the parties affected by it, it must be certain, it must be reasonable
+
+and it must not be contrary to legislation or a fundamental principle of law. A trade usage may be proved
+
+by a calling witnesses with clear, convincing and consistent evidence that the usage exists as a fact, is
+
+well known and has been practiced by those affected by it. (Newbold P in Harilal v Standard Bank
+
+[1967] EA 512 quoted with approval, Bhogal v International Computers (EA) Ltd [1972] EA 55 cited).
+
+In order to rely on trade custom or usage, the appellant had to show a consistent course of dealing in
+
+which the terms of the verbal agreement between himself and the respondent had been incorporated in
+
+the past. He also had to show that he and the respondent knew of those terms in question. Under
+
+section 47of the Evidence Act (Chapter 6), the Court may need the opinion of persons having the means
+
+of knowledge on usage or custom if it has to form an opinion about it.
+
+The appellant did not adduce evidence from any source other than himself on which the Court could
+
+have made an inference of the trade usage or custom that he was claiming. He thereby failed to prove the
+
+existence of the contract for the supply of drugs.
+
+Under Order 11, rule 6, judgment can be entered at any stage of the suit where an admission of facts
+
+had been made. Such an admission, however, must be unequivocal in order to entitle the party to
+
+judgment without waiting for the determination of any other question between the parties.
+
+Although the respondent company admitted receiving US$ 15 000 from the appellant, this did not
+
+amount to an admission under Order 11, rule 6 Civil Procedure Rules since it explained that his money
+
+was a partial payment of a debt the appellant owed it.
+
+Page 148 of [2004] 2 EA 146 (CAU)
+
+Damages are awarded for breach of contract after proof that the terms of the contract were breached.
+
+However, even when the plaintiff fails to prove breach of contract, it is a prudent judicial practice for the
+
+trial Judge to assess the damages the successful party would otherwise have been entitled to, had he
+
+succeeded in the suit. This is vital in saving time when, the appellate Court orders that the case be
+
+remitted to the trial court for the assessment of damages. (Sell v Associated Motor Boat Co [1968] EA
+
+123, Mute v Elikana [1975] EA 201, AKPM Lutaaya v Attorney-General civil appeal number 10 of 2002
+
+(UR) followed).
+
+The trial Judge should have assessed the damages although the plaintiffs suit had been dismissed.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+Bhogal v International Computers EA Ltd [1972] EA 55 - APP
+
+Harilal v Standard Bank [1967] EA 512  APP
+
+Lutaya v Attorney-General civil appeal number 10 of 2002 (UR)  F
+
+Mute v Elikana [1975] EA 201  F
+
+National Enterprises Corporation and others v Nile Bank Ltd civil appeal number 17 of 1994 (UR)  F
+
+Selle v Associated Motor Boat Co [1968] EA 123  F
+
+Judgment
+
+BYAMUGISHA JA: On the 28 January 1998, the appellant filed a suit in the High Court of Uganda
+
+against the respondent claiming a sum of US$ 15 000 or its equivalent in Uganda shillings; general
+
+damages for breach of contract; interest on the sums at bank rate from the date of transfer till payment in
+
+full and costs of the suit.
+
+The facts that led to the institution of the proceedings as they can be gathered from the pleadings filed
+
+by the parties appear to the following. In or around 1994 the appellant was introduced to the export
+
+manager of the defendant, one Eddy Van Qudendijck for purposes of carrying on the business of
+
+importing drugs in Uganda. It was alleged that the agreement between them was verbal in that the
+
+appellant would verbally place orders with cash, which would be transferred, to the respondents bank
+
+account in Europe. On receipt of the money, the respondent would in turn dispatch the drugs to Uganda.
+
+On 12 January the appellant claimed that after a telephone discussion with the respondent through Eddy
+
+Van Qudendijck he placed an order for drugs worth US$ 15 000 for the benefit of Cox Research
+
+Laboratories. He dispatched the stated amount to the respondents bank account and same was received.
+
+The respondent failed or refused to send the drugs hence the suit.
+
+In its written statement of defence and counterclaim, the respondent denied the appellants claim. It
+
+averred that the appellant never placed any order for drugs as it was claimed. Instead it was stated that
+
+one time the appellant owed the respondent the sum of US$ 34 590-90 and that the US$ 15 000 paid by
+
+the appellant to the respondent was in settlement of that debt. This left an outstanding balance of US$
+
+19 590-90 which the respondent counterclaimed
+
+Page 149 of [2004] 2 EA 146 (CAU)
+
+against the appellant. In reply to the written statement of defence and counterclaim, the appellant denied
+
+the indebtedness. He contended that the counterclaim was raised because of the suit.
+
+At the trial the following agreed issues were framed for the Courts determination namely:
+
+1. W hether there was a contract between the plaintiff and the defendant for the sale of drugs worth US$
+
+15 000-00;
+
+2. I f there was a contract, whether it was breached; and
+
+3. T he remedies to which the plaintiff is entitled.
+
+On the respondents counterclaim two issues were framed, namely:
+
+1. W hether there was any debt owed to the defendant/counterclaimant by the plaintiff.
+
+2. I f so, whether the payment of US$ 15 000-00 was meant to liquidate that debt.
+
+The Learned trial Judge answered the first issue in the negative. She did not find it necessary to
+
+determine the rest of the issues. The respondent did not adduce any evidence and the counterclaim was
+
+dismissed with costs to the appellant. Being dissatisfied with the decision, the appellant filed the instant
+
+appeal on the following grounds:
+
+1. T he Learned trial Judge erred in law when she reached an erroneous conclusion that because there was
+
+no written document, there was no legally binding contractual relationship between the parties.
+
+2. T he Learned trial Judge erred in law and fact when she failed to appreciate the custom of trade
+
+between the plaintiff and the defendant and or conduct of the parties.
+
+3. T he Learned trial Judge ought to have entered judgment, in favour of the appellant upon the
+
+respondent admitting receipt of US$ 15 000-00 from the appellant in its written statement of defence
+
+and counterclaim.
+
+4. T he Learned trial Judge erred in law and fact when she failed to award damages and interest to the
+
+appellant upon the conclusion of the appellants case and submission thereof.
+
+5. T he Learned trial Judge erred in law and fact when she failed to enter judgment in favour of the
+
+appellant after he had proved his case and the respondant failed to rebut it.
+
+6. T he Learned trial Judge failed in her discretion to direct the case to a fair conclusion thereby causing a
+
+serious miscarriage of justice.
+
+The appellants prayer was that the appeal should be allowed and the appellant be awarded the reliefs
+
+prayed for in the plaint and the lower courts decision be set aside.
+
+When the appeal came before us, Mr Ndyomugabe, learned counsel for the appellant, argued grounds
+
+3 and 5 of the appeal together and the rest of the grounds separately.
+
+In his submission, counsel stated that not every agreement or contract should be written. He stated
+
+that contracts are either oral, written or partly oral or partly written. He relied on the provisions of section
+
+2(1) of the Contract Act (Chapter 73 Laws of Uganda) which enjoins courts in Uganda to apply the
+
+Common Law of England when interpreting contracts. He referred to the elements that constitute a valid
+
+contract as contained in Halsburys Laws of England (4 ed) paragraph 203. These elements are:
+
+Page 150 of [2004] 2 EA 146 (CAU)
+
+1. T here must be two or more separate and definite parties to the contract;
+
+2. T hose parties must be in agreement, that is there must be a consensus ad idem;
+
+3. T hose parties must intend to create a legal relationship in the sense that the promises of each side are
+
+enforceable simply because they are contractual promise; and
+
+4. C onsideration, or some other factor which the law considers sufficient must support the promise by
+
+each party.
+
+Learned counsel submitted that all the four essential elements of a contract existed in the instant case. He
+
+also referred us to section 4(1) of the Sale of Goods Act that provide as follows:
+
+Subject to the provisions of this Act and of any Act in that behalf, a contract of sale may be made in writing
+
+(either with or without seal) or by word of mouth or partly in writing and partly by word of mouth, or may be
+
+implied from the conduct of the parties.
+
+He pointed out that the Learned trial Judge erred in law to hold that since the contract was not in writing,
+
+there was no binding legal relationship. It was his contention that the Learned Judge made a correct
+
+observation when she stated that the appellant and the respondent had some dealings with each other. But
+
+he criticised her for contradicting herself by stating that it was not clear whether such dealings were
+
+meant to create a legal relationship binding at all. He contended that the parties chose to deal with each
+
+other in that manner. He cited the case of Bhogal v International Computers EA Ltd [1972] EA 55 where
+
+the requirements of a trade usage or custom were judicialy explained. Learned counsel further contended
+
+that the appellant gave a detailed account of how he imported drugs. He invited us to apply the provisions
+
+of section 4(1) (supra) and Bhogals case to the facts of this appeal.
+
+In his response to the above submissions, Mr Muganwa, learned counsel for the respondent, stated
+
+that a contract has four basic elements namely:
+
+1. O ffer and acceptance.
+
+2. C onsideration.
+
+3. I ntention to create a legal relationship.
+
+4. P arties.
+
+He claimed that counsel for the appellant in his submission did not bring out the four elements. He stated
+
+that the submissions stated the nature of a contract that is partly oral or partly in writing. But there was
+
+no evidence to prove a binding contract. It was his contention that the conduct of the parties can be used
+
+to determine the nature of the contract. He supported the finding of the trial Judge in that there was no
+
+evidence on which an inference could be made that there was a valid contract between the parties.
+
+Generally in suits based on contract, the plaint must allege the contract and then its breach. The plaint
+
+must also state the terms of the contract as it was when the plaintiffs cause of action arose; whether the
+
+contract was express or implied; whether it was oral or written and if written the dates and the names of
+
+the parties must be stated. The appellant in pleading the contract now under dispute stated in paragraph 4
+
+of the plaint as follows:
+
+The plaintiffs claim arises under and upon the following facts:
+
+(a) In or around 1994 the plaintiff was introduced to the export manager of the defendant one Eddy Van
+
+Qudendijck for purposes of carrying on business with the defendant whereby the plaintiff would
+
+import drugs from the defendant in Uganda.
+
+Page 151 of [2004] 2 EA 146 (CAU)
+
+(b) The plaintiff and the defendant verbally agreed that the plaintiff would always place an order with cash
+
+which would be transferred to the defendants bank account in Europe and by telegraphic transfer
+
+before the defendant dispatched the goods to the plaintiff in Uganda as evidenced by transaction
+
+vouchers hereto attached in one bundle and marked A.
+
+(c) In the same year (1994) the plaintiff was verily recognised and appointed distribution agent of the
+
+defendants products in Uganda Manufacturers Association Trade show at Lugogo in Uganda as
+
+evidenced by annexture B herewith annexed in one bundle.
+
+(d) On 12 January 1996 after a telephone discussion with the defendant through the said Eddy Van
+
+Qudendijck, the plaintiff placed an order for goods worth 15 000 (Fifteen thousand United States
+
+Dollars) for the benefit of Cox Research Laboratories and as per the terms of the agreement the
+
+plaintiff dispatched the said money by telegraphic transfer to the defendants bank account and the
+
+defendant acknowledged receipt thereof. The transaction voucher is hereto attached and marked E.
+
+In pleading the breach, the appellant stated in paragraph six thereof as follows:
+
+Despite several demands and reminders and in breach of contract the defendant has refused and/or neglected
+
+to send the goods worth the stated sum or any part therefore or to refund the said sum of US$ 15 000 thereby
+
+necessitating the Court action.
+
+The terms of the alleged contract as pleaded state the parties and the consideration. The terms neither
+
+stated the type of drugs that were supposed to be delivered and the quantities nor when the breach of
+
+breaches occurred. The provisions of Order 7, rule 1(e) require a plaint to state the particulars
+
+constituting a cause of action and when it arose. It was however submitted that there was a custom or
+
+trade usage between the parties and the appellant relied on Bhogals case for that assertion. The facts of
+
+that case were that the plaintiff was employed by the defendant on a work permit, and towards the end of
+
+his contract the defendant asked the plaintiff to leave on its expiry. The plaintiff claimed to be entitled to
+
+be paid compensation at the rate of one months salary for every year of service with the plaintiff, firstly
+
+on the basis of an award of the Industrial Court made between the employers and employees in the motor
+
+trade, and alternatively on the basis that there was a custom to pay such benefits. In dismissing the claim
+
+of a custom the High Court of Kenya relied on the case of Harilal v Standard Bank [1967] EA 512 where
+
+at 516 Sir Charles Newbold P said:
+
+As a trade usage may be described as a particular course of dealing between parties who are in a business
+
+relationship, which of course the dealing is generally known to all persons who normally enter into that
+
+relationship that they must be presumed to have intended to adopt that course of dealing and to have
+
+incorporated it into their contractual relationship unless by agreement it is expressly or impliedly excluded.
+
+Before a course of dealing can acquire the character of a trade usage it must first be so well known to the
+
+persons who would be affected by it that any such person when entering into a contract of a nature affected by
+
+the usage must be taken to have intended to be bound by it; secondly, be certain in the sense that the position
+
+of each of the parties affected by it is capable of ascertainment and does not depend on the whim of the other
+
+party; thirdly, be reasonable, that is, that the course of dealing is such that reasonable men would adopt it in
+
+circumstances of the case; and finally, be such as is not contrary to legislation or to some fundamental
+
+principle of law.
+
+In this same case Sir Newbold stated the standard of proof when he said:
+
+Page 152 of [2004] 2 EA 146 (CAU)
+
+A trade usage may be proved by calling witnesses, whose evidence must be clear, convincing and consistent,
+
+that the usage exists as a fact and is well known and has been acted on generally by persons affected by it.
+
+The Bhogal case is not binding on this Court having been decided by the High Court of Kenya. However,
+
+the principles relied upon were set out in the decision of the East Africa Court of Appeal and therefore
+
+the said principles can be relied upon by this Court to determine the facts of this case.
+
+In rejecting the appellants claim of a verbal contract together with the alleged trade usage or custom
+
+the Learned trial Judge at 99 of the record said:
+
+Even if it is granted that the parties did agree that the terms governing their relationship was to remain
+
+verbal, one would nevertheless, expect that there would be some documents or record of the transaction
+
+considering that they are supposed to have been transacting with each other for at least a year. One would
+
+have expected some proforma invoices of the drugs involved in each transaction. One would have expected
+
+some record of the type of drug, the quantity and the cost per unit and total cost of drugs involved in each of
+
+the transactions involved in 1995. One would have expected shipping documents as well as clearing
+
+documents to be available.
+
+I entirely agree with the conclusions reached by the Learned trial Judge. Whereas it is quite acceptable
+
+for parties to enter into a verbal contract and perform their obligations arising out of that contract in a
+
+manner they deem fit, I do not think that when it comes to the contract now under consideration, the
+
+Court should accept wholesale the evidence as presented. The contract was allegedly entered into
+
+verbally and it was conducted on telephone. There was no harm in that. The advances that have been
+
+made in information technology has made it possible for many people across the globe to conduct
+
+business with each other in the manner described by the appellant. It is, however, inconceivable that the
+
+appellant had no documentary evidence of his transactions with the respondent to prove the dealings. He
+
+attached bundles of some documents involving drugs that was sent to him by the respondent. Those drugs
+
+were used in the trade fair of Uganda Manufacturers Association at Lugogo. He had no documents to
+
+show that the respondent sent him any drugs for the money he transferred to it in 1994/95. The alleged
+
+drugs could not have been sent to him by telephone. He adduced documentary evidence from Uganda
+
+Commercial Bank to prove the transfer of money to the respondents bank account. He should have gone
+
+further to prove that when he sent the money in previous dealings the goods were also sent using the
+
+means verbally agreed upon.
+
+It probably explains why the appellant did not plead the means by which the respondent was supposed
+
+to send the goods because no drugs were supposed to be sent. To be a good contract, there must be a
+
+concluded bargain, and a concluded contract settles everything that is necessary to be settled and leaves
+
+nothing to be settled by agreement between the parties. The contract pleaded by the appellant with
+
+respect, did not settle everything to create a binding relationship.
+
+In order to rely on trade usage or custom, the appellant had to show a consistent course of dealing in
+
+which the same terms have been regularly if not invariably incorporated in the past. He had also to show
+
+that he and the respondent knew of those terms in question. In my view, previous dealings as is being
+
+claimed in this appeal were relevant in order to prove actual knowledge and consent those terms by both
+
+parties. If previous dealings show that a man or woman knew of and agreed to a term on say 99
+
+occasions, there would be a basis for saying that the term was incorporated in the contract.
+
+Page 153 of [2004] 2 EA 146 (CAU)
+
+In the matter now before us, although the respondent did not testify at the trial, in its written statement
+
+of defence, it acknowledged receipt of the money. It was averred that the money was meant to repay a
+
+debt owed by the appellant. In his testimony, the appellant acknowledged that he had owed the
+
+respondent some money but he had repaid it. He did not adduce evidence of that payment. There was also
+
+evidence that the appellant had sent bank drafts to the respondent on behalf of some people and that those
+
+drafts were dishonoured. As the Learned trial Judge rightly observed in my view, the possibility that the
+
+appellant sent the money in question on behalf of other people could not be ruled out. The appellant did
+
+not prove on a balance of probabilities the purpose for which he sent the money in question.
+
+In any case, the provisions of section 47 of the Evidence Act (Chapter 6 Laws of Uganda) requires
+
+that before a court forms an opinion as to usages, tenets, etc, the opinion of persons having special means
+
+of knowledge is relevant. The section states as follows:
+
+When the Court has to form an opinion as to:
+
+(a) the usage and tenets of anybody of men or family;
+
+(b) the Constitution and government of any religious or charitable foundation; or
+
+(c) the meaning of words or terms used in particular districts or particular classes of people, the opinion of
+
+persons having the means of knowledge thereon are relevant facts.
+
+The appellant did not adduce evidence from any other source on which the Court could have made an
+
+inference of trade usage or custom that he was claiming. Such evidence would have come from people
+
+with knowledge of trade in drugs that the appellant was supposed to import from the respondent. In my
+
+humble opinion, the Judge was right to reject his evidence.
+
+The above discussion disposes of the first and second grounds of appeal, which ought to fail.
+
+The third ground of appeal complained that the trial Judge erred in not having entered judgment in
+
+favour of the appellant upon admission that it received US$ 15 000-00. It is correct that the respondent
+
+admitted receiving the stated amount in paragraph 5(iv) of its written statement of defence and
+
+counterclaim.
+
+Under Order 11, rule 6 of the Civil Procedure Rules, judgment can be entered at any stage of the suit
+
+where an admission of facts has been made. Normally admissions are admissible against the maker. Such
+
+an admission must be unequivocal in order to entitle the party to judgment without waiting for the
+
+determination of any other question between the parties. In this case the respondent did not
+
+unequivocally admit receiving the said money and the purpose for which it was sent. Instead it averred
+
+that the appellant sent the money because he owed it the sum of US$ 34 590-90 and in an attempt to
+
+settle the debt, he sent the stated amount, leaving a balance of US$ 19 590-90. This amount was claimed
+
+in the counterclaim that was dismissed for want of prosecution. The trial Judge cannot be faulted for not
+
+entering judgment on admission. This ground was not well founded and it ought to fail.
+
+The rest of the grounds can be dealt with summarily. The fourth ground complained that the Learned
+
+trial Judge erred in law when she failed to award damages and interest. Damages are normally awarded
+
+for breach of contract
+
+Page 154 of [2004] 2 EA 146 (CAU)
+
+after proof that the terms of the contract were breached. In view of may own findings that the appellant
+
+failed to prove his case, he was not entitled to any damages.
+
+However, I would like to observe that there is a growing tendency among members of the High Court
+
+bench who fail or omit to assess damages they would have awarded the plaintiff, had the action
+
+succeeded. I shall refer to some authorities to illustrate why there is need for this practice to be observed.
+
+This first case is Selle v Associated Motor Boat Co [1968] EA 123. The Court counselled that it is
+
+desirable and advisable for a judge of first instance to decide all issues raised in the case so that further
+
+expenses and delay may be avoided in the event of the appellate court having to adopt a course of
+
+remitting the file to the High Court for assessment of damages. The file was remitted to the High Court to
+
+do the needful. The second case is Mute v Elikana [1975] EA 201 where the Court of Appeal for East
+
+Africa (as it then was) had occasion to comment on the need to assess damages even though judgment is
+
+given in favour of the defendant. At 202 Law Ag P said:
+
+Where the judgment is, with respect less satisfactory, is in the almost complete lack of specific
+
+findings on the allegations of negligence pleaded on both sides, and the Judges failure to make findings
+
+as to damages to which the appellant would have been entitled had he been successful. This should
+
+always be done in a suit for damages, even though judgment is given for the defendant. (emphasis
+
+added)
+
+The file was remitted to the High Court to assess damages due to the plaintiff.
+
+In a recent decision of the Supreme Court in the case of Lutaya v Attorney-General civil appeal
+
+number 10 of 2002 (UR) Tsekooko JSC who wrote the lead judgment with which other members of the
+
+Court agreed, had occasion to comment on failure by the trial court to assess damages. At page 19 of the
+
+judgment he said:
+
+It is a well established judicial practice that in this type of case, a trial court should indicate what it would
+
+have awarded as damages if the plaintiff had established his claim: See National Enterprises Corporation and
+
+others v Nile Bank Ltd civil appeal number 17 of 1994 (UR). The Supreme Court remitted the record to the
+
+trial Judge to assess damages. The observations made in those cases were of course orbiter. But the practice
+
+must be observed by the lower courts.
+
+In the instant appeal, the appellant failed to prove his claim and therefore the trial Judge did not err in not
+
+awarding him any damages although she should have assessed them. Failure by the trial Judge to enter
+
+judgment in favour of the appellant in my view did not occasion any miscarriage of justice
+
+notwithstanding failure by the respondent to adduce any evidence.
+
+All in all, the appellant failed to prove his case and his appeal to this Court ought to fail. I would
+
+uphold the judgment and orders of the judgment and orders of the High Court. The appeal would
+
+accordingly, be dismissed with costs to the respondent.
+
+Mukasa-Kikonyogo CJ and Kitumba JA concurred in the judgment of Byamugisha JA.
+
+For the appellant:
+
+D Ndyomugabe instructed by Davis Ndyomugabe and Co
+
+For the respondent:
+
+CS Muganwa instructed by Mwesigwa Rukutana and Co

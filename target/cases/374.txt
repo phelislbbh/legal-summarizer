@@ -1,0 +1,405 @@
+Onjallah v Kenya Commercial Bank Ltd
+
+[2004] 2 EA 253 (CAK)
+
+Division: Court of Appeal of Kenya at Kisumu
+
+Date of Judgment: 9 July 2004
+
+Case Number: 259/01
+
+Before: Omolo, Githinji JJA and Ringera AJA
+
+Sourced by: LawAfrica
+
+Sourced by: LawAfrica
+
+Summarised by: A Mwanzia
+
+Page 254 of [2004] 2 EA 253 (CAK)
+
+[1] Banking  Banker/customer relationship  Debit of customers account in favour of third party 
+
+Whether bank may debit customers account in favour of a third party for money remitted or fraud
+
+belonging to the third party.
+
+Editors Summary
+
+The appellant was a customer of the respondent bank where he maintained two accounts. Sometime in
+
+1994, the appellants accounts were debited by the respondent for the sum of KShs 402 151-85 on advise
+
+from Mumias Outgrowers Company Limited who wrote to the bank claiming the sum as erroneously and
+
+fraudulently remitted to the appellants accounts from the company.
+
+The appellant sued the respondent in the High Court seeking to recover the amounts debited together
+
+with damages for breach of duty by the respondent bank not to disclose his account or the State thereof to
+
+third parties. The respondents defence was that the amounts were remitted to the appellants employers
+
+Mumias Ougrowers Company Limited after the company discovered that the said money had been sent to
+
+the bank fraudulently.
+
+Respondent called its branch manager who testified that the bank had received two letters from
+
+Mumias Outgrowers company advising them of the fraud and seeking remittance of the amount. The
+
+High Court Judge dismissed the appellants case finding that the money deposited in the appellants
+
+accounts were unprocedurally prepared and therefore erroneous. He also held that if the amounts in those
+
+accounts were legitimate, the appellant was obliged to prove so and he had not discharged that duty.
+
+The appellant appealed to the Court of Appeal. The issue on appeal was whether a bank could
+
+lawfully debit its customers account without reference to that customer and pay out all or any of the
+
+money credited into that account to a third party who claimed the same on the basis that the remittance
+
+into the customers account was erroneous for having been made by mistake or as a result of a fraud on
+
+the third party by the customer.
+
+Held  Money paid by a third person to the bank either directly, or on account of a banks customer, is
+
+refundable if it is established that it was paid under a mistake of fact and the mistake has been brought to
+
+its attention before the bank has either paid it out to the customer, or settled its accounts with the
+
+customer in a manner which would amount to payment, or otherwise done something which has so
+
+prejudiced its position that it would be inequitable to require a refund. Kerrison v Glyn, Mills, Currie &
+
+Co [1912] LJ KB 465; Kleinwort, Sons & Co v Dunlop Rubber Co (1907-08) 97 LJ 263 adopted.
+
+Since the respondent bank did not call an independent witness from Mumias Outgrowers company to
+
+show that the company had paid the money to the bank under a mistake of fact, the bank was in breach of
+
+its contractual obligation to its customer to pay out any deposit(s) in the customers account to the
+
+customer or to his order. The appellant had, however, not established his claim for damages for breach of
+
+duty by the respondent bank not to disclose his account or state thereof to third parties.
+
+Appeal allowed, with costs.
+
+Page 255 of [2004] 2 EA 253 (CAK)
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+United Kingdom
+
+Kerrison v Glyn, Mills, Currie & Co [1912] LJ KB 465  A
+
+Kleinwort Sons & Co v Dunlop Rubber Co (1907-08) 97 LT 263  A
+
+Judgment
+
+OMOLO, GITHINJI JJA AND RINGERA AJA: In an amended plaint filed in the superior Court on
+
+3 November 1997, Lazarus Masayi Onjallah the appellant herein, pleaded that he was at all material
+
+times a customer of the Kenya Commercial Bank, the respondent herein, at its Mumias Branch and that
+
+he maintained two interest earning accounts, namely, number 128-028-828 in his own name and number
+
+128-038-219 in the name of his minor son, Antony Mukandia Masayi. He further pleaded that as at 24
+
+June 1994 his account number 128-028-828 had a credit balance of KShs 398 000 while his minor sons
+
+account had a credit balance of KShs 52 000 which sums added to a total of KShs 450 000. He further
+
+pleaded that on 27 June 1994 when he went to withdraw his money from the aforesaid accounts he was
+
+dismayed to find that he could not withdraw the said amount or any part thereof as the accounts had been
+
+frozen by the branch manager. The appellant further pleaded that on 4 January 1995 he was able to
+
+withdraw a sum of KShs 47 000 being interest earned over a period of six months. He averred that the
+
+freezing of his accounts were unlawful and without justification and in total contravention of banking
+
+provisions and that the act of freezing was an adverse infringement of the privileged relationship between
+
+himself and the respondent bank. He averred further that according to the information available to him,
+
+he was not allowed to withdraw money from his accounts because the respondent had transferred the
+
+entire amount and interest thereon from his accounts to its own account and unlawfully appropriated the
+
+same. In those premises, he claimed from the respondent the sum of KShs 450 000 together with all
+
+accrued interest at current bank rates and general damages for breach of contract from 24 June 1994 until
+
+payment in full or, in the alternative, a reactivation of the said accounts unconditionally after disclosure
+
+to him of a duly computed standing balance. He complained that despite demand and notice of intention
+
+to sue given, the respondent had officially refused to comply and offer amends.
+
+In answer to those averments in the amended plaint, the respondent filed an amended defence on 2
+
+December 1997. The respondent admitted its relationship with the appellant and the existence of the
+
+accounts pleaded. It denied that the appellants accounts had the credit balances pleaded as at 24 June
+
+1994 and averred that the amounts pleaded in the plaint were erroneous payments credited into the
+
+appellants accounts and that the same were refunded to the appellants employers, Mumias Outgrowers
+
+Co Ltd in June 1994. The respondent further averred that the appellant demanded its money after tracing
+
+from their records that the said money had been sent to the bank fraudulently. Indeed, so the respondent
+
+further pleaded, upon the discovery of the fraud, the appellants
+
+Page 256 of [2004] 2 EA 253 (CAK)
+
+employer decided to have him arrested and charged with a criminal case of fraud at Kakamega. The
+
+respondent also denied that the appellant was allowed to withdraw the sum of KShs 47 000 as interest as
+
+claimed, or that the appellant was unable to withdraw the principal sum of KShs 45 000, or that the
+
+appellants accounts were unlawfully frozen. The respondent averred that it did not hold any money for
+
+the appellant as the same had been paid to his employer and he was aware of the fact.
+
+After hearing the evidence and submissions, commissioner of Assize PK Birech made the following
+
+findings of fact and law. The appellant was a customer of the respondent bank at Mumias Branch. He
+
+maintained three savings accounts and one current account. The savings accounts were numbers
+
+128-028-828 in his own name, number 128-035-211 in his minor childs name, and number 128-025-311
+
+in his wifes name. Between August 1993 and April 1994 some money was remitted into those accounts
+
+by Mumias Outgrowers company (Mocco). The money remitted into the accounts came from the 15%
+
+retention dues which had been unprocedurally prepared and remitted into those accounts. The
+
+remittances was therefore erroneous. When the error was detected and the respondent was asked by
+
+Mocco to return the money, the respondent acceded to that request and returned what was available
+
+which was the sum of KShs 402 151-85. On that premises, the respondent could not be held to have
+
+unlawfully frozen the appellants accounts as an error or fraud had been discovered and the remitter of
+
+the funds asked for the said funds to be refunded which the respondent did without delay. If the appellant
+
+had a right to the sum of KShs 450 000 his remedy was against the body who laid a claim of that amount
+
+and to whom it was remitted. As regards alleged disclosure of the details of the appellants account with
+
+the respondent, it was found that it was not the respondent who made the disclosures and that even if
+
+there had been such disclosure the appellant did not suffer any damage given the way the whole episode
+
+was. The appellants evidence that he was a successful businessman who used to make regular deposits
+
+into those accounts were not truthful. In the result, the appellant had not proved his case on a balance of
+
+probabilies and his suit was dismissed.
+
+Having heard the arguments canvassed by both parties in this appeal we think that the issue of law
+
+which arises is whether a bank could lawfully debit its customers savings account without reference to
+
+that customer and pay out all or any of the money credited into that account to a third party who claimed
+
+the same on the basis that the remittance into the customers account was erroneous for having been
+
+made by mistake or as a result of a fraud on the third party by the customer. Unfortunately, neither party
+
+furnished the Court with any authority on the point. The appellant was on his part, content to argue that
+
+the debit of his account by the bank without reference to him was in breach of the contractual
+
+relationship between banker and customer and the respondent was equally contented to impress on the
+
+Court that this was not an ordinary case of banker and customer but one where the customer had
+
+fraudulently induced the deposit made into his account with the respondent. Our own research does not
+
+disclose any direct authority on the point. We have therefore to approach the matter from general
+
+principles of banking law as they apply to deposit accounts, as the accounts in question here were all
+
+savings accounts.
+
+In Halsburys Laws of England (4 ed) Volume 3, paragraph 40, the learned editors posit the law as
+
+follows:
+
+Page 257 of [2004] 2 EA 253 (CAK)
+
+The receipt of money by a banker from or on account of his customer constituted him the debtor of the
+
+customer. The banker is normally liable to repay only the person from whom he received the money. The
+
+receipt of money on deposit account constitutes the bankers a debtor to the depositor but not a trustee for him.
+
+The debt is repayable either on demand or on conditions agreed with the depositor.
+
+The above proposition would appear to support the appellants contention that the bank could not pay out
+
+or debit his account with any money save to himself or to his order on conditions agreed with him.
+
+However the respondent banks position is that it debited the appellants accounts and paid out therefrom
+
+the sum of KShs 402 151-85 on the request of Mocco who claimed to have remitted funds into those
+
+accounts by mistake. The prima facie issue therefore is whether money allegedly paid into a customers
+
+bank accounts by mistake could be refunded to the payer.
+
+The law appears to be settled that money paid under a mistake of fact is repayable. In Kerrison v
+
+Glyn, Mills, Currie & Co [1912] LJ KB 465, the House of Lords held that the position of a banker does
+
+not differ from that of any other recipient of money acting as an agent and, accordingly, money paid to a
+
+banker under a mistake of fact can be successfully re-demanded from the banker by the person who so
+
+paid it. In the words of Lord Mersy at 472:
+
+No doubt when a banker receives money either from his customer or from a third person on account of his
+
+customer, he becomes his customers debtor for the amount so received. But this does not entitle the banker to
+
+retain money which in common honesty ought not to be kept. If indeed, the banker has paid over the money to
+
+his customer, or has altered his position in relation to his customer to his detriment, on the faith of the
+
+payment, the banker may refuse to repay the amount any may leave the person who has paid him to enforce
+
+his remedy against the customer.
+
+To similar effect is an earlier decision of the House of Lords in Kleinwort Sons & Co v Dunlop Rubber
+
+Co (1907-08) 97 LT 263. Summarising the authorities, Lord Atkinson posited the position as follows:
+
+Whatever may in fact be the true position of the defendant (the banker) in an action brought to recover
+
+money paid to him under a mistaken of fact, he will be liable to refund it if it be established that he dealt as a
+
+principal with the person who paid it to him. Whether he would be liable if he dealt as agent with such person
+
+will depend upon this, whether before the mistake was discovered, he had paid over the money which he
+
+received to the principal, or settled such an account with the principal as amounts to payment, or did
+
+something which so prejudiced his position that it would be inequitable to require him to refund.
+
+On the basis of the above authorities it may be concluded that money paid by a third person to the bank
+
+either directly, or on account or a banks customer, is refundable if it is established that it was paid under
+
+a mistake of fact and the mistake has been brought to its attention before the bank has either paid it out to
+
+the customer, or settled its account(s) with the customer in a manner which would amount to payment, or
+
+otherwise done something which has so prejudiced its position that it would be inequitable to require a
+
+refund.
+
+How do those principles apply to the matter at hand? The respondent bank acted on two letters from
+
+Mocco dated 19 and 20 May 1994. Both letters claimed that money had been remitted to certain accounts
+
+(which included the appellants account) by mistake and asked for a return thereof. There was no
+
+explanation of the nature of the mistake and it was accordingly not possible to tell whether the mistake
+
+was one of fact or law. And at the trial the respondent bank did not call any witness from Mocco to
+
+establish the basis of the latters
+
+Page 258 of [2004] 2 EA 253 (CAK)
+
+claim to the money in the appellants accounts. The only witness called by the respondent was its station
+
+head at the Mumias Branch who testified that the bank received the two letters and acted thereon and
+
+ventured the opinion that as the bank had received the money from Mocco and it had returned the same,
+
+it was not in breach of contract with the appellant. And the learned commissioner of Assize on his part
+
+did not, and he indeed could not on the above evidence, make a finding of fact that the money paid to the
+
+bank account of its customer was paid under a mistake of fact. He was content to hold that the moneys
+
+deposited in the appellants accounts were unprocedurally prepared and remitted thereto and was
+
+therefore erroneous. He further held that if the amounts in those accounts were legitimate, the appellant
+
+was obliged to prove so and he had not discharged that duty.
+
+In our view, in the absence of any proof that Mocco and paid the money to the respondent bank under
+
+a mistake of fact, the other findings and conjectures by the superior court as to how the money ended in
+
+the appellants accounts were irrelevant and the ultimate finding that the respondent bank was obliged to
+
+and acted properly in refunding whatever was in the appellants accounts to the third party was erroneous
+
+in law. In the circumstances of this case, the bank was in breach of its contractual obligation to its
+
+customer to pay out any deposit(s) in the customers account to the customer or to his order. And the
+
+amount paid out to a third party in breach of that contract was the sum of KShs 402 151-85. The position
+
+would have been different had the respondent bank proved, probably by calling Mocco as a witness, that
+
+the remission of the money into the appellants account was mistaken and the appellant was in fact not
+
+entitled to the amount so deposited in his account. Take for example a person who robs one bank and
+
+deposits the proceeds of the robbery in his account with another bank. That robber would clearly not be
+
+entitled to the proceeds of the robbery deposited in his account and the receiving bank would be, in law,
+
+justice and fairness entitled to pay out the money to the robbed bank, secure in the knowledge that it
+
+would be able to prove, if asked, that the money so paid out from the customers account had been the
+
+proceeds of a robbery committed against the bank to which the money had been paid back. In this case
+
+the respondent bank merely contained itself by saying that it had been asked to refund the money by
+
+Mocco who had paid it into the appellants account. That was insufficient to relieve the respondent bank
+
+of its obligations to the appellant.
+
+As regards the appellants claim for damages for breach of the duty by the respondent bank not to
+
+disclose his account or the State thereof to third parties, we are satisfied, as the superior court was, that
+
+the claim was not established.
+
+In the result, we would allow the appeal with costs, set aside the judgment and decree of the superior
+
+court and substitute therefore judgment for the appellant in the sum of KShs 402 151-85 together with
+
+interest thereon at court rates from the date of filing suit until payment in full and the costs of the suit.
+
+For the appellant:
+
+Information not available
+
+For the respondent:
+
+Information not

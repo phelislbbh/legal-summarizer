@@ -1,0 +1,63 @@
+Kamore v Kamore
+
+Division: Court of Appeal of Kenya at Nairobi
+
+Date of judgment: 31 March 2000
+
+Case Number: 63/98
+
+Before: Tunoi, Shah and Bosire JJA
+
+Sourced by: LawAfrica
+
+Summarised by: C Kanjama
+
+[1] Family law  Matrimonial property  Function of the court in application brought under a section 17
+
+application  Jointly held properties  Whether presumption of advancement applies  Properties held
+
+solely by husband  Whether there was evidence of contribution by wife  Whether trust can be implied
+
+in the circumstances  Whether court can transfer proprietary interest from one spouse to another 
+
+Section 17  Married Womens Property Act.
+
+[2] Judicial review  Natural justice  Failure to cross-examine wife on an application for determination
+
+of proprietary interest  Advocate instructed not to cross-examine  Subsequent application to
+
+cross-examine refused  No appeal lodged against refusal  Whether the question of natural justice
+
+could be taken first during the appeal against the substantive orders.
+
+Editors Summary
+
+The Appellant and Respondent cohabited as husband and wife from 1974 to 1981, after marriage at St Andrews Church Nairobi. The marriage was blessed with three children, all boys. In 1981, the couple ceased cohabiting. In March 1983, the wife filed for divorce and the decree nisi was obtained in September 1983. The wife filed an originating summons in October 1983 praying for her share in some four properties acquired during coverture. Two of these properties were in the joint names of the spouses but were in the possession of the husband. The other two properties had been in the name and sole possession of the husband, although one of them had since been sold. The wife claimed beneficial interest to half shares in the four properties. During the hearing of the evidence, after a number of adjournments, the Court refused to allow an adjournment prayed for by the advocate holding brief for the husbands instructed advocate. The Court proceeded to hear the wifes case. The advocate holding brief for the husband did not cross-examine the wife, purportedly on instructions. After close of the wifes case, the Court set a date for submissions. The instructed advocate, who had not been in court during the hearing, applied to have the orders of the Judge set aside on the ground that the advocate holding brief had not acted according to instructions. This application was dismissed but no appeal was filed against the dismissal. The trial Judge made orders that the four properties be sold and the wife receive a half share of the net proceeds from the sale on the ground that she was entitled thereto. The husband lodged this appeal. The parties owned the first two properties jointly. The third property was acquired in May 1983 and sold to a third party on the same day. The fourth property was acquired in July 1983 and charged to another party. A further charge was created in 1990 in respect of this property. The appeal court had to determine whether the wife had contributed to the acquisition of these properties which were acquired after the cessation of cohabitation. The husband also argued the ground that there had been failure of natural justice since he had not been availed an opportunity to cross-examine the wife or produce evidence in rebuttal. 
+
+
+
+Held  It is too late in the day to argue the issue of natural justice during the proceedings. In any case the trial Judge was fully justified in refusing to grant any further indulgence to the Appellant or his advocate, considering the course of events. The Appellant chose his counsel and must bear the consequences. When a property is acquired during the course of coverture and is registered in the joint names of both the spouses the court in normal circumstances must take it that such property, being a family asset, is acquired in equal shares. The trial Judge was therefore right in finding that the first two properties were jointly owned. The court will not make a finding of presumption of advancement or presumption of a resulting trust in favour of the wife without evidence of the express or implied intention of the donor or settlor. Ayoub and others v Standard Bank of South Africa Ltd and another [1963] EA 619 followed. In regard to the third property, there was no evidence of any implied or resulting trust in favour of the wife. In relation to the fourth property, there was no evidence of contribution by the wife. The property was acquired two years after coverture and she had not satisfied the burden of proof to show that her husband was holding a share of the property in trust for her. The court under an application in terms of section 17 of the Married Womens Property Act has no power to pass proprietary interest from one spouse to another. Pettitt v Pettitt [1969] 2 All ER 385, Gissing v Gissing [1971] AC 888 adopted; dictum of Gicheru JA in Kimani v Njoroge [1997] LLR 553 (CAK) approved. Even if the trial court had found that there was a resulting trust in the properties held solely by the husband, it would have no power to order the proprietary interest to pass from one spouse to another. It could only order that the husband pay the wife an appropriate share of the value of the property after market valuation by a reputable valuer. Regarding the first two jointly-held properties, the Court would take into consideration that the husband had been in sole possession of the same since 1983 when the litigation began. To compensate the wife for loss of user, she would be given 60% share of both properties, the properties to be valued by an independent valuer and each party to have the liberty to buy out the share of the other party. Per curiam: In England the Matrimonial Homes Act 1967, later replaced by the Matrimonial Proceedings and Property Act 1970, and the Matrimonial Causes Act 1973 were enacted as a response to the decisions in Pettitt v Pettitt (supra) and Gissing v Gissing (supra). However, in Kenya, until such time that some law is enacted to give proprietary rights to spouses as distinct from registered title rights, section 17 of the Married Womens Property Act must be given the same interpretation as in the said two cases. Gissing v Gissing (supra) opened a way to seek relevant relief by pleading trusts, express, implied or resulting. Such a claim can be brought by way of a declaratory suit. Appeal allowed in part.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Ayoub and others v Standard Bank of South Africa Ltd [1961] EA 743
+
+Ayoub and others v Standard Bank of South Africa Ltd [1963] EA 619  F
+
+Kimani v Njoroge [1997] LLR 553 (CAK)  APP
+
+United Kingdom
+
+Gissing v Gissing [1971] AC 888  A
+
+Pettitt v Pettitt [1969] 2 All ER 385  A
+
+Standing v Bowring (11) [1886] 31 CH D 282

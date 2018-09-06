@@ -1,0 +1,175 @@
+Uganda Performing Rights Society Ltd v Mukubira
+
+Division: High Court of Uganda at Kampala
+
+Date of ruling: 17 February 2004
+
+Case Number: 818/03
+
+Before: Karyabwire AJ
+
+Sourced by: M Adriko and P Karugaba
+
+Summarised by: C Kanjama
+
+[1] Civil procedure  Injunction  Anton Piller order  Whether temporary injunction will be granted ex parte  Conditions for grant of Anton Piller order  Order XXXVII, rule 3  Civil Procedure Rules 
+
+Section 38(1)  Judicature Act (Chapter 13).
+
+[2] Intellectual property  Copyright  Prohibitory order  Anton Piller order  Circumstances under which ex parte order will be made allowing search and seizure of infringing articles  Section 13 
+
+Copyright Act (Chapter 71)
+
+Ruling
+
+Kiryabwire AJ: This ruling arises from an application by way of notice of motion (ex parte) under sections 33, 38(l) and 39(2) of the Judicature Act (Chapter 13); sections 22 and 98 of the Civil Procedure
+
+Act (Chapter 71); and
+
+Order 48, rules 1 and 3 of the Civil Procedure Rules (SI 63-3). The Applicant seeks orders:
+
+1. That the Respondent does permit the Applicant to enter upon his residence and business premises or such parts thereof as shall be occupied or used by the Respondent, for the purpose of:
+
+( a) Inspecting all assets, tapes., documents,, materials or articles relating to infringement of the
+
+Applicants copyright in the musical works of the assignors; and
+
+( b) Removing into custody of this honourable court all cassette tapes, documents, materials or articles relating to the unauthorized recording, compilation, distribution and/or sale of the Assignors musical works.
+
+2. That a temporary injunction, pending disposal of the main suit, do issue restraining the
+
+Respondent/Defendant and his agents/servants from:
+
+( a) Infringing the Applicants copyrights in the musical works of Afrigo Band, Joseph Mayanja also known as Jose Chameleon, Fred Sebatta, Geoffrey Lutaaya, Ssozi John also known as Emperor Orlando, David Semanda, Ssematimba and Rachel Magoola among others, herein collectively described as assignors.
+
+( b) Recording, compiling and selling or helping others to record, compile and sell copies of the
+
+Assignors musical works, the copyrights of which are owned by the Applicant.
+
+( c) Disposing of or destroying documents, materials or articles relating to the infringement of the
+
+Applicants copyrights in the musical works of the Assignors.
+
+3. Costs of this application be provided for.
+
+The background to the application can also be obtained from the notice of motion. The Applicant is the sole assignee of the copyrights in the musical works of the Afrigo Band, Joseph Mayanja also known as
+
+Jose Chameleon, Fred Sebatta, Geoffrey Lutaaya, Ssozi John also known as Emperor Orlando, David
+
+Semanda, Ssematimba, and Rachel Magoola among others. As a result of the said assignment the
+
+Applicant is said to have assumed the executive rights to control the distribution of the music rights, public performance for payment and broadcasting of the whole or part of the works. Pursuant to the rights outlined above the Applicant has filed High Court civil suit number 842 of 2003 against the Respondent seeking a permanent injunction and damages for copyright infringement and conversion. It is alleged that the copyright infringement takes place at the Respondents residence at Kafeero zone, Mulago, Kampala or his shop known as TM Studio at the Old Taxi Park in Kampala.
+
+Mr Andrew Kasirye learned counsel for the Applicant who argued the application said that it was an ex parte application for a temporary injunction coupled with what he termed as Anton Piller order which is a form of search and seizure order. The said application was modelled along the lines of the English
+
+Court of Appeal Anton Piller KG v Manufacturing Processes Ltd and others [1976] 1 Ch 55.
+
+In that case the defendants, an English company and its two directors, were UK agents of the plaintiff which was a German manufacturer of frequency converters for computers. The plaintiff claimed that the defendants were passing over secret communication about their converters to rival manufacturers in
+
+Germany in breach of the plaintiffs copyright. Thus in order to prevent the disposal by the defendants, before discovery in an action, of documents in their possession relating to the plaintiffs machines or designs, the plaintiff applied ex parte for an interim injunction to restrain the defendants from infringing the copyrights and disclosing confidential information and secondly for an order for permission to enter the defendants premises to inspect all such documents and remove them into the plaintiffs solicitors custody (the second order now referred to as The Anton Piller order).
+
+This model of application was also followed in the Kenyan Commercial Court case of Microsoft
+
+Corporation v Mitsumi Computer Garage Ltd reported in [2001] 1 EA 127. In the Kenyan case a suit had been filed against the first defendant in court for an alleged infringement of intellectual property rights (to wit pirated computer software). Then an application was made ex parte for an Anton Piller order to allow the respondent enter the first defendants premises and seize and inspect all computers and other equipment that could contain the alleged pirated software as well as various office records. Simultaneous with the application for an Anton Piller order was an application for a prohibitory injunction.
+
+Justice Ringera (as he then was) of the Kenyan Commercial Court granted the Anton Piller Order.
+
+Justice Ringera also granted an interim order restraining the first defendant from infringing the plaintiffs copyright on or about 4 June 2001 with orders that the application be heard inter partes on 14 June 2001.
+
+In the application now before me counsel for the Applicant applied first for a temporary injunction and in so doing relied on the case of Giella v Cassman Brown [1973] EA 358 which is a Court of Appeal case from Uganda. In that case Spry VP (as he then was) set out the conditions for the grant of an interlocutory injunction as being: first, an applicant must show a prima facie case with a probability of success. Secondly, an interlocutory injunction will not be granted unless the applicant might otherwise suffer irreparable injury, which would not be adequately be compensated by an award of damages. Thirdly, if the court is in doubt, it will decide an application on the balance of convenience.
+
+The second application was for the Anton Piller order, the conditions for the grant of which he argued based on the two cases of Anton Piller KG (supra) and Microsoft Corporation (supra) are first, there must be an extremely strong (emphasis mine) prima facie case. Secondly the damage, potential or actual must be very serious for the applicant. Third there must be clear evidence (emphasis mine) that the respondents have in their possession incriminating documents or things, and that there is a real possibility that they may destroy such material before any application inter partes can be made.
+
+Lord Denning MR added in his judgment that this is an equitable discretionary remedy, while
+
+Ormrod LJ pointed out in his judgment that such orders therefore will rarely be made and only when there is no alternative way of ensuring that justice is done to the applicant.
+
+Counsel for the Applicant chose to argue his case for both orders together. Let me start with the application for temporary injunction. The said temporary injunction was made under section 38(1) of the
+
+Judicature Act (Chapter 13) which states: The High Court shall have power to grant an injunction to restrain any person from doing any act as may be specified by the High Court, and section 39(2) of the same Act which states: Where in any case no procedure is laid down for the High Court by any written law or by practice, the court may, in its discretion, adopt a procedure justifiable by the circumstances of the case.
+
+Reference is also made to section 98 of the Civil Procedure Act (Chapter 71) which involves the inherent powers of the court.
+
+I take it that the Applicant cited these sections because in its view there were not provisions in our law that covered the procedure for in the first instance their application for a temporary injunction ex parte. A review of the law of Uganda however brings to mind two immediate possibilities.
+
+The first possible procedure is under our Civil Procedure Rules (CPR) Order XXXVII, which provides for how a party may apply to get a temporary injunction. This is an interlocutory application the granting of which is normally based on the Giella case (supra) that has already been cited. The application is by notice of motion, however it is not made ex parte and indeed rule of Order XXXVII, rule 3 provides: The court shall in all cases, before granting an injunction, direct notice of the application be given to the opposite party. It would appear that this rule is mandatory.
+
+The second possible procedure appears to be under the Copyright Act (Chapter 215). Section 13 of the said Act provides the following remedies for infringement:
+
+(2) (b) An injunction to restrain further infringement or where no infringement has yet occurred to restrain any infringement
+
+( c) A n injunction requiring the delivering up to the court and the destruction or other disposal as court may direct of copies of the works in question; or other articles, which have been, or may otherwise be, used for the purposes of infringement.
+
+Section 13 of the Copyright Act therefore provides a direct statutory prohibitory injunction that is also available to the Applicant. Indeed section 13 of the Copyright Act lends itself well to the remedy of injunction.
+
+The procedure under section 13 of the Copyright Act is not elaborate enough as no rules have been made under the section. Under such a situation it would have been possible to combine section 13 of the
+
+Copyright Act and section 39(2) of the Judicature Act to make an application before court.
+
+I find that in this particular case an application made ex parte for temporary injunction pending the disposal of the main suit under sections 38 and 39(2) alone is not sufficient to clothe the court with the legal authority to grant order. Even in the Microsoft Corporation case (supra) at 129 which is a Kenyan case from a country with fairly similar laws and procedures to Uganda, it appears the application there was for a prohibitory as opposed to a temporary injunction for which an interim order was given (see at
+
+130). Injunctions are largely equitable remedies, which are given at the discretion of the court. In so granting the injunction the court must have regard, to the law in question and exercise its discretion judiciously and more so, when the application is ex parte.
+
+I am accordingly unable to grant the temporary injunction ex parte on the basis of the application before me. The Applicant is however free to file a fresh application under a more appropriate law.
+
+With regard to the Anton Piller order the authorities reviewed seem to suggest that this order may be granted following a unique application made ex parte.
+
+Lord Denning MR in the Anton Piller KG case (supra) stated:
+
+it seems to me that such an order can be made by a judge ex parte, but it should only be made where it is essential that the plaintiff should have inspection so that justice can be done between the parties; and when, if the defendants were forewarned/there is a grave danger that vital evidence will be destroyed, that papers will be burnt or lost, or hidden, or taken beyond the jurisdiction, and so the ends of justice be defeated and when the inspection would do no real harm to the defendant or his case.
+
+In arguing his case for the Anton Piller order, Mr Kasirye stated that his clients application meets the required conditions.
+
+On the condition of the extremely strong prima facie case I was referred to the affidavits of Mr James
+
+Wasula the general secretary of the Applicant company, Mr Sande Steven Sserumunye of M/s
+
+Kasiwukira Limited who have the right to publish some of the musical works in question and one Fred
+
+Sesanga a former employee of the Respondent/Defendant. I am particularly drawn to paragraphs 4, 5, 6 and 7 of Mr Sesangas affidavit which states that while he was employed by the Respondent/Defendant he received instructions to replicate and reproduce musical works of Fred Sebatta, Madoxx, Afrigo Band, Rachel Magoola, Chance Nalubega, Jose Chameleon and Emperor Orlando. These musical works recorded from other labels such as Kasiwukira Studios, Dynamic Stereo Sounds, Lusyn Enterprises and
+
+Turbo Sounds Limited, with a view to sell the reproduced works to the public. This evidence unchallenged I find presents an extremely strong prima facie case of copyright infringement.
+
+On the second test that the damage potential or actual that this alleged infringement will cause must be very serious to the applicant the same affidavits are relied upon. Paragraph 10 of Mr Wasulas affidavit states that the Applicant has lost revenue that would have been earned from the destruction and sale of the assignors musical works. I find that lost revenue to the Applicant can cause serious damage to the Applicant and so this condition has also been met.
+
+As to the third condition that there must be clear evidence that the defendants have in their possession incriminating things or documents and that there is a real possibility that they may destroy such material before any application inter partes can be made, again the same affidavits are relied upon.
+
+Paragraphs 4, 5, 6, and 7 of Mr Sesangas affidavit has direct prima facie evidence of the
+
+Respondent/Defendant being in possession of incriminating evidence. He further states that the recording is done at the Respondents/Defendants residence at Kafeero zone at Mulago, Kampala. Further more paragraph 9 of the affidavit of Mr Wasula states that the infringement also takes place at the
+
+Respondent/Defendant shop called FM Studio at the Old Taxi Park, Kampala. Paragraph 10 of the affidavit of Mr Sserumunye states that musical works are recorded on UDT cassette tapes as opposed to
+
+SKC or Biasonic cassette tapes. All three affidavits state that the recorded works by the
+
+Respondent/Defendant are unauthorised. Lastly paragraph 12 of the affidavit of Mr Wasula states that he believes that if the court does not intervene to preserve the infringing/unauthorised musical likelihood that the Respondent may dispose them thereby defeating the cause of justice and rendering any decree in the main suit nugatory. Based on the evidence in the aforesaid affidavits I find that the third condition has been met as well.
+
+Copyright infringement of musical works is a big threat to the budding musical industry in Uganda and so it need the protection of the courts. The Anton Piller Order appears to be a good tool to achieve this protection. It has been followed in Kenya and I find no good reason why it should not also be applied in Uganda. I accordingly grant the Applicant the Anton Piller order prayed for on conditions I am about to state. However, in granting the order I must highlight the caution given by Lord Denning MR in the
+
+Anton Piller KG case (supra).
+
+An Anton Piller order is not a search warrant which entitles a holder to force his way into the defendant premises against his will. The defendant by the Anton Piller order is only enjoined by court to do permit the entry, inspection or other direction of the court. The order should be served on the Respondent attended by counsel for the Applicant who is and must strictly act as an officer of the court. The Respondent must be given an opportunity to consider the order and if necessary consult his/her own counsel. If entry is refused, the Applicant should not force his way in. The Applicant however may bring the refusal to the notice of the court, if need be by an application to commit for contempt of court. The Respondent should be put on notice of this consequence.
+
+The scope of the Anton Piller order I am giving therefore is:
+
+1. For the Respondent to permit the Applicant to enter on his premises at his residence at Kafeero
+
+Zone, Mulago, Kampala and/or his shop known as FM Studio at the Old Taxi Park, Kampala.
+
+2. For the Respondent to permit the inspection of all cassette tapes, documents, materials or articles relating to the alleged unauthorised recording, compilation, distribution and or sale of the assignors musical works.
+
+3. To remove into the custody of this Honourable Court all unauthorised recordings, compilation,
+
+distribution and or sale of the assignors musical works which constitute or would constitute evidence in the trial of the main action.
+
+4. That the application be heard inter partes, and the costs of this application shall be in the cause.
+
+It is further ordered that this application be heard inter partes one week from the date of the ruling.
+
+For the Applicant:
+
+A Kasirye instructed by Kasirye Byaruhanga and Co
+
+For the Respondent:
+
+Information not available

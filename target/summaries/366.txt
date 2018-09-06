@@ -1,0 +1,55 @@
+Odeyo v Republic
+
+Division: Court of Appeal of Kenya at Mombasa
+
+Date of judgment: 27 January 2006
+
+Case Number: 6/05
+
+Before: Tunoi, Okubasu and Waki JJA
+
+Sourced by: LawAfrica
+
+Summarised by: H Kibet
+
+[1] Criminal procedure  Calling of witnesses  Discretion of prosecution  Failure to call material
+
+witnesses  Whether failure to call witnesses rendered conviction unsafe.
+
+[2] Evidence  Confessions  Retracted confessions  Corroboration  Whether a court could convict
+
+on an uncorroborated confession.
+
+[3] Evidence  Identification  Quality of light present during the incident  Whether the identification
+
+of the appellant was satisfactory.
+
+Editors Summary
+
+The appellant was charged before the Chief Magistrates Court on a count of robbery with violence contrary to section 296(2) of the Penal Code and two counts of being in unlawful possession of a firearm. Evidence was adduced at his trial to the effect that on the material day, the complainant had stopped at Kengeleni junction to drop two passengers. Suddenly, he had been accosted by a person who came to his window as if to speak to him, produced a gun and ordered him to surrender everything he had. The complainant was able to swing his door open and cause the man to stagger backwards whereupon they engaged in a struggle. After initially being subdued and made to hand over his wallet, the complainant went after the assailant again and struggled with him until a Kenya Air Force bus came by and some officers came to his rescue. The officers arrested the assailant and took him to Makupa police station. At the station he was searched and the wallet and watch belonging to the complainant were recovered. The two passengers that the complainant had been dropping also testified corroborating his account and adding that the area was well lit. It also emerged that the appellant had, on 1 September 2001, made a charge and caution statement to a Police Inspector in which he admitted robbing the complainant but that he now retracted. After a trial within a trial, the trial magistrate admitted the statement in evidence. The trial court convicted him on all three counts. The appellants first appeal was dismissed. He now appealed to the Court of Appeal on the grounds that the identification was unsatisfactory, that the Kenya Air Force officers who arrested the appellant were not called to testify and that the trial magistrate erred in relying on a cautionary statement that was retracted. 
+
+
+
+Held  The evidence of the complainant was corroborated by the two passengers he had been dropping off who had testified that the area had been well lit and that they had been able to see the appellant. The question of mistaken identity did not therefore arise. The prosecution had the discretion to call or not to call someone as a witness. Where it did not call a vital reliable person without a satisfactory explanation, the court could presume that the persons evidence would have been unfavourable to the prosecution; Ngodia v Republic [1982-1988] 1 KAR 454 applied. In this instance, the failure by the prosecution to call the Kenya Air Force officers did not weaken the prosecution case nor did it prejudice the appellant in any manner. Where a trial magistrate decided that a statement was voluntary and admissible, he was bound to accept the statement with caution and was obliged to be fully satisfied that it was true or corroborated in material particulars before founding a conviction on it; Tuwamoi v Uganda [1967] EA 84 at 88, Swai v Republic [1974] EA 1974 and Bakari Omari v Republic [1982-1988] 1 KAR 349 followed. Corroboration was not however, necessary in law and a court could act on a confession alone if it was fully satisfied, after considering all the material points and surrounding circumstances, that the confession could not but be true. In this instance, there was ample corroboration of all the material particulars and the prosecution had proved that the appellant robbed the complainant of his property and used actual violence on his person. Appeal dismissed. 
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+Page 257 of [2006] 2 EA 255 (CAK)
+
+East Africa
+
+Bakari Omari v Republic [1982-1988] 1 KAR 349  F
+
+Ngodia v Republic [1982-1988] 1 KAR 454  AP
+
+Swai v Republic [1974] EA 1974  F
+
+Toyi v R [1960] EA 761
+
+Tuwamoi v Uganda [1967] EA 84  F

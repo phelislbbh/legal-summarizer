@@ -1,0 +1,135 @@
+Barclays Bank of Kenya v Jandy
+
+Division: Milimani Commercial Courts of Kenya at Nairobi
+
+Date of ruling: 9 July 2004
+
+Case Number: 361/02
+
+Before: Nyamu J
+
+Sourced by: EW Kinyenje
+
+Summarised by: C Kanjama
+
+[1] Bank  Duty of care  Customers duty of care  Warranty of authority  Customer utilising large
+
+unexpected credit placed in his account  Whether customers failure to make a query was a breach of
+
+contractual duty and warranty of authority  Whether banks statement of account amounts to positive
+
+representation by bank  Circumstances in which customer entitled to rely on banks representation.
+
+[2] Bank  Negligence  Bank negligently debiting one customers account and crediting second
+
+customer  Second customer privy to unusual transaction originating with third party forgery  Whether
+
+bank had failed in duty of care to second customer  Whether bank estopped from recovery due to
+
+change of position by second customer after receipt of funds in his account.
+
+[3] Civil procedure  Interest  Order for refund of money under equity  Bank seeking interest on
+
+wrongly credited funds  Whether commercial interest payable.
+
+[4] Equity  Mistake of fact  Estoppel  Transfer of money under mistake of fact  Transferee utilising
+
+money while aware that it did not belong to him  Whether he had changed his position in law  Whether
+
+order for restitution and tracing would be made.
+
+[5] Restitution  Unjust enrichment  Mistake of fact by bank  Funds debited from first customers
+
+account after forged mandate  Second customer facilitating withdrawal of funds credited to his account
+
+ Whether amounts to unjust enrichment  Whether restitution would be ordered if money had been
+
+spent.
+
+Editors Summary
+
+The Plaintiff was a bank. It received and acted upon a forged instruction letter and transferred a sum of
+
+KShs 1 348 410 from a first customers account to a second customers account. The Defendant was the second customer. The forgery was the work of a law clerk. The clerk informed the Defendant that he had transferred the money to his account, allegedly because he lacked a personal ID card. The Defendant prepared an open cheque for KShs 1 million in the clerks name. The cheque was paid out by the bank in the Defendants presence to an accomplice of the clerk. The Defendant transferred KShs 200 000 as his commission to his second account with the same bank.
+
+After the fraud was uncovered, the Defendant was charged in a criminal case and convicted. The conviction was later set aside on appeal after a state counsel made an unexplained concession. The
+
+Plaintiff refunded the full amount to its first customer whose account had been wrongly debited. It now filed a civil suit seeking to recover the said money from the Defendant. Neither of the masterminds of the forgery were joined to the suit.
+
+The Plaintiff argued that the Defendant owed it a contractual duty of care to act in good faith. The
+
+Defendant had breached this duty by failing to notify the bank of a large unexplained deposit in his account. It was argued that the amount had been deposited under a mistake of fact, and that the
+
+Defendants breach of his warranty of authority had caused loss to the bank for which it was entitled to restitution.
+
+The Defendant in response argued that the bank had been negligent in acting upon a forged instruction letter without proper care, and that the bank made a representation to the Defendant, which the Defendant had acted upon and changed his position. Hence it was claimed that the bank was not entitled to any relief from the Defendant.
+
+The parties agreed to have the matter finally determined on the basis of a filed statement of agreed facts, a list of agreed issues and documents, and filed written submissions. The Court reviewed the documents and considered the issues.
+
+Held  A bank customer has a contractual duty to exercise reasonable care in executing written orders so as not to mislead the bank by ambiguities or to facilitate fraud or forgery. The customer has a further duty to inform the bank of any forged payment orders, which includes the duty to notify the bank of unexpected deposits into his account. The customer had breached his duty of care by failing to act in good faith, thus causing loss to the bank.
+
+A bank customer by using the funds in his account warrants to the bank that he has the authority to so use them. The customer in this case breached his warranty of authority by facilitating, encouraging and assisting in the withdrawal of funds which did not belong to him, from his account.
+
+The bank may have been negligent to its first customer by failing to exercise sufficient care prior to accepting the forged instruction letter. This duty of care was however not owed to the second customer, who received money under a mistake of fact (National Westminster Bank v Barclays Bank International
+
+[1975] QB 654 adopted; National Bank of Commerce v Yakut [1989] TLR 11 distinguished).
+
+The fact that the bank confirmed the customers account balance did not amount to a positive representation that the credited funds belonged to the customer since the customer was aware of the true position, the money was not paid for any consideration and the balance was unusual and unexpected
+
+(Barclays Bank Ltd v WJS Simmson and Cooke (Southern) Ltd and another [1977] 1 QB 677 approved;
+
+Re Jones Ltd v Waring and Gillow [1926] AC 670 adopted; Price v Neal [1962] 3 Burr 1354 distinguished). Representation in this case came from the fraudsters to the customer, and from the customer to the bank by his presence at the paying counter (Dukhiya v The Standard Bank [1959] EA 958 distinguished).
+
+The fact that the customer facilitated the withdrawal of funds after receiving the statement did not amount to a change of position in law, and if there was any change of position, it was voluntary and reckless (National Westminster Bank v Barclays Bank International [1975] QB 654 adopted; Silayo v CRDB Ltd [2002] 1EA 288 distinguished). The customer was the author of his own wrong and could not escape liability by showing that he had used the money (Larner v LCC [1949] 2 KB 683 and Re Jones Ltd v Waring and Gillow [1926] AC 670 adopted).
+
+The customer had breached his duty of care and warranty of authority causing loss for which the bank was entitled to restitution (Chase Investment Corporation v Keshra [1978] KLR 143 followed; Standard Chartered Bank Ltd v Akello [1979] KLR 89 and Ndei v Mathira Co-op Society distinguished). The customer received the deposit under a mistake of fact, and the bank was therefore entitled to the equitable remedy of tracing the money (Chase Manhattan Bank v Israel British Bank Ltd [1979] 3 All ER 1028 referred to).
+
+Commercial interest would however not be awarded on the refund claimed. There was no written agreement to charge interest, nor proof of usage or custom to charge interest in such circumstances. It would also be unfair for the bank to benefit from its own mistake, and restitution and tracing should be reasonably confined to what has been unjustly acquired.
+
+Judgment was made in favour of the Plaintiff for the entire sum claimed, with interest at court rates from the date of judgment. A mareva injunction to restrain the Defendant from dealing with his assets held in any financial institution, and a decree allowing the Plaintiff to trace and recover the wrongly credited amount from the Defendant, were also granted.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Chase International Investment Corporation and another v Keshra and others [1978] KLR 143  F
+
+Dukhiya v Standard Bank of South Africa Ltd [1959] EA 958  D
+
+National Bank of Commerce v Yakut [1989] TLR 11  D
+
+Ndei v Mathira Cooperative Society
+
+Roper v Taylors Central Garages (Exeter) Ltd [1951] 2 TLR DC
+
+Silayo v CRDB (1996) Ltd [2002] 1 EA 288  D
+
+Standard Chartered Bank Ltd v Akello [1979] KLR 89  D
+
+United Kingdom
+
+Al Underwood Ltd v Barclays Bank [1924] 1 KB 775
+
+Barclays Bank Ltd v WJS Simmson and Cooke (Southern) Ltd and another [1977] 1 QB 677  APP
+
+Canara Bank v Canara Sales Corporation and others [1988] LRC (Comm)
+
+Chase Manhattan Bank Ltd v Israel British Bank (London) Ltd [1981] Ch 105; [1979] 3 All ER 1028
+
+Larner v LCC [1949] 2 KB 683  A
+
+National Westminister Bank Ltd v Barclays Bank International Ltd [1974] 3 All ER 834; [1975] QB 654
+
+ A
+
+Price v Neal [1962] 3 Burr 1354  D
+
+Re Jones Ltd v Waring and Gillow Ltd [1926] AC 670  A
+
+Yeung and another v Hong Kong and Shanghai Banking Corporation [1980] 2 All ER 599

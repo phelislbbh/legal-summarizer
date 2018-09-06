@@ -1,0 +1,127 @@
+Uganda Electricity Board v Electricity Board Workers Union
+
+Division: High Court of Uganda at Kampala
+
+Date of judgment: 26 February 1974
+
+Case Number: 784/1972 (68/74)
+
+Before: Manyindo J
+
+Sourced by: LawAfrica
+
+[1] Prerogative Orders  Certiorari  Issues to correct the performance of a duty which has been improperly performed.
+
+[2] Master and Servant  Industrial dispute  Award of industrial tribunal  Reference for interpretation only where award ambiguous  Trade Disputes (Arbitration & Settlement) Act (Cap. 200),
+
+s. 11 (U).
+
+[3] Electricity  Tariff  Undue preference  Established by concessionary rate to employees of Board 
+
+Electricity Act (Cap. 135), s. 13 (U).
+
+Editors Summary
+
+The Industrial Court of Uganda made an award that the plaintiff should provide electricity to its employees at a concessionary rate. Such an award would become part of the plaintiffs employees contracts of service.
+
+The plaintiff applied to the court for an order of certiorari to quash the award on the ground that it was illegal in ordering the plaintiff to show undue preference to a class of persons in fixing its tariff.
+
+For the defendant it was contended that the remedy sought should have been mandamus and not certiorari, that the matter should first have been referred to the Industrial Court for interpretation, and that a special rate could be given to the plaintiffs employees.
+
+Held 
+
+(i) Certiorari properly lies to correct the performance of a duty which has been improperly performed;
+
+( ii) a reference to the Industrial Court for interpretation may only be made where an award is ambiguous (Re Industrial Court Uganda (2) considered);
+
+(iii) a special rate to the plaintiffs employees would be illegal as an undue preference;
+
+(iv) the award would therefore be quashed.
+
+Award quashed.
+
+Cases referred to Judgment:
+
+(1) R. v. National Arbitration Tribunal Exp. Horatio Crowther, [1948] 1 K.B. 424; [1947] 2 All E.R.
+
+693.
+
+ (2) Re Industrial Court, Uganda, [1967] E.A. 221.
+
+(3) Amalgamated Transport & General Workers Union v. Uganda Transport Co. Misc. C.C. 99 of 1972
+
+(unreported).
+
+Judgment
+
+Manyindo J: A trade dispute between the Uganda Electricity Board (hereinafter referred to as the plaintiff) and the Uganda Electricity Board Workers Union (hereinafter referred to as the defendant) was referred to the Industrial Court of Uganda.
+
+There were three terms of reference. It is the third term which is the subject matter of this suit. The defendant had claimed for payment, by the plaintiff, of a subsidy on electricity tariffs for current consumed by the members of the defendant union. The Industrial Court held that union members working for the plaintiff should be subsidised at a flat rate of 30 cents per unit. It made its award in those terms.
+
+The plaintiff came to this court praying for an order of certiorari to remove into this court, under s. 34
+
+(1) (c) of the Judicature Act 1967, that part of the award for the purpose of quashing the same. In the alternative the plaintiff sought a declaration that that part of the award is illegal and void and that the plaintiff is not bound by it.
+
+The plaintiff is a statutory corporation incorporated by the Electricity Act (Cap. 135). S. 13 (1) of that
+
+Act governs tariffs. It provides:
+
+13 (1). The prices to be charged by the Board for electricity to be supplied by it shall be so fixed as to enable the Board to comply with the provisions of section 8 of this Act and, subject to the provisions of this section, such prices shall be:
+
+(a) in accordance with such tariffs as may from time to time be fixed by the Board after consultation with the council (the consultative council established under section 11 of the Act); or
+
+(b) When the tariffs in force are not appropriate owing to special circumstances, as may be agreed between the Board and the consumer to whom the electricity is or is not to be supplied.
+
+S. 8 of the Act simply enjoins the plaintiff to ensure that the revenue of the plaintiff exceeds its outgoings properly chargeable to the revenue account.
+
+The plaintiff contended that the award of the Industrial Court is illegal and void in as much as it compels the plaintiff to accord to its employees undue preferential treatment in charging them for the current consumed, contrary to s. 13 (4) of the Electricity Act. That section reads:
+
+13 (4). The Board, in fixing tariffs and making agreements under the provisions of this section, shall not show undue preference to any person or class of persons and shall not exercise any undue discrimination against any person or class of persons.
+
+The point that falls for decision is simply whether the award of the Industrial Court was legal or not. The intention in s. 13 (4) quoted above seems clear to me. It is that consumers should be charged equally. It was submitted by counsel for the defendant that there was a special circumstance (within the meaning of
+
+s. 13 (1) (b) of the Electricity Act quoted above) created by the fact of the special relationship of master and servant that exists between the plaintiff and the defendant. With respect that meaning is not forthcoming from that provision.
+
+Counsel also argued, with some force, that the case was not properly before this court. In his view the matter should have been referred to the Industrial Court for interpretation under s. 11 (1) of the Trade Disputes (Arbitration and Settlement) Act (Cap. 200) because the award was not clear in that no clear finding was made as to whether or not the subsidy would conflict with s. 13 (4) of the Electricity Act. Again, with respect I cannot agree. The award is quite clear. This is what the Industrial Court said:
+
+. . . . . . The Court considers that the claimant union should have their electricity costs subsidised by the
+
+Board at 30 cents per unit which is step 2 and so awards.
+
+It is only when an award is ambiguous that it will be referred for interpretation: See Re Industrial Court,
+
+[1967] E.A. 221.
+
+There was evidence, which was not disputed, that a Mr. Tierney who was employed by the plaintiff but who has since left his job for good had his electricity bill subsidised by the plaintiff. Counsel for the defendant contended that the plaintiff was duty bound to give same treatment to all its employees. This argument seems to have influenced the Industrial Court in making its award. That court had found as a fact that the subsidy which Mr. Tierney received was an act of discrimination by the Board among its employees and that all its employees should be awarded the same fringe benefits, no matter whether they are members of the union or not.
+
+The plaintiff maintained that they were wrong in treating Mr. Tierney as they did and that they should not be compelled by this court to commit yet another wrong since two wrongs dont make a right. I think there is substance in this argument. Fringe benefits cannot be obtained in this manner. They should be part of the terms of employment. There was no evidence that the plaintiff paid the difference in respect of
+
+Mr. Tierneys electricity bill. The award clearly allows the members of the defendant union to receive electricity at a cheaper price than other consumers. This is what s. 13 (4) prohibits. In my opinion fringe benefits which are prohibited by law cannot be upheld by any reasonable tribunal.
+
+Under s. 10 of the Trade Disputes (Arbitration and Settlement) Act (Cap. 200) an award of the
+
+Industrial Court becomes a term of the contract of employment. Thus this award makes it a contractual term of employment for the plaintiff to tax the defendant less than other consumers for the electric current supplied. This would amount to forcing the plaintiff to implement an illegal contract as the rate specified in the award would contravene the clear provisions of the Electricity Act.
+
+Counsel for the defendant ventured yet another interesting argument. He submitted that this suit was wrongly brought to this court on the ground that the only remedy lay in an order of mandamus. In support of this proposition he cited the case of Amalgamated Transport & General Workers Union v. Uganda
+
+Transport Co. Misc. C.C. 99 of 1972. In that case an application was made to this court by notice of motion to set aside, on review, an award made by the Industrial Court. This court was urged to act under its inherent powers. Dismissing the application as being incompetent Phadke, J. held that he could not invoke the inherent powers of the court as there were other statutory provisions which provide a remedy.
+
+The judge did say, obiter that the better course would have been by way of an application for the issue of a writ of mandamus to the Industrial court under the relevant provisions of the Judicature Act.
+
+He did not decide on this point and even if he had on the facts of that case I doubt, with respect, if he would have been right. Mandamus goes out to get the thing done while certiorari is relevant only in a case where a duty has been performed but performed wrongly.
+
+Mandamus would thus appear not to be relevant to the present case. I am of the view that the proper procedure was followed in the instant case: See R. v. National Arbitration Tribunal, Ex. p. Horatio
+
+Crowther, [1947] 2 All E.R. 693.
+
+The Award was illegal and therefore void. I accordingly grant the writ of certiorari to bring up that part of the award so that it be quashed. The plaintiff will have the costs of this suit.
+
+Order accordingly.
+
+For the plaintiff:
+
+J Kateera (instructed by Kateera & Kasibayo, Kampala)
+
+For the defendant:
+
+S Kulubya

@@ -1,0 +1,193 @@
+Dave v Business Machines Ltd
+
+[1974] 1 EA 68 (CAN)
+
+Division: Court of Appeal at Nairobi
+
+Date of judgment: 14 March 1974
+
+Case Number: 45/1973 (24/74)
+
+Before: Sir William Duffus P, Law Ag V-P and Musoke JA
+
+Sourced by: LawAfrica
+
+[1] Practice and Procedure  Attendance  Defendant not attending  Plaintiff must prove case.
+
+Editors Summary
+
+The appellant did not attend the hearing of the case brought against him by the appellant. The judge gave
+
+judgment relying on letters which were handed to him but not proved.
+
+On appeal
+
+Held  where a defence has been filed but the defendant does not attend, the plaintiff must prove his case
+
+by evidence.
+
+Appeal allowed.
+
+Case referred to Judgment:
+
+(1) Eksteen v. Kutosi (1951), 24 (2) K.L.R. 90.
+
+Judgment
+
+The following considered judgments were read. Law Ag V-P: The respondent company sold some
+
+shares to the appellant, and sued him for Shs. 60,000/- being the balance allegedly due under the contract
+
+of sale. The appellant entered an appearance and by his defence denied the debt, and pleaded that the
+
+contract was conditional on certain obligations to be fulfilled by the respondent company which had not
+
+been fulfilled. On 26 July 1972, the suit was by consent fixed for hearing on 25 and 26 July 1973. On 25
+
+July 1973, when the hearing was due to begin, Mr. Hira appeared for the appellant. He made it clear that
+
+his instructions were limited to applying for an adjournment, as the appellant had been deported to the
+
+United Kingdom and his evidence might have to be taken on commission. The judge was not impressed
+
+by this belated application in a suit which had been set down for hearing a year earlier, and rejected it out
+
+of hand, in my respectful opinion quite rightly. Mr. Hira then withdrew. The hearing then began, with
+
+only counsel for the respondent company present, and one would have expected him to prove his case ex
+
+parte, in accordance with O. 9B, r. 3 (a) of the Civil Procedure (Revised) Rules, as read with s. 25 of the
+
+Civil Procedure Act, which requires a court to hear a case before pronouncing judgment, even when the
+
+claim is for a liquidated amount, when the defendant has duly entered an appearance and filed a defence
+
+as happened here. Unfortunately this was not done. What did happen, according to the record, is that
+
+counsel for the respondent company addressed the court as follows:
+
+Claim for liquidated sum of Shs. 60,000/- balance of purchase price of shares transferred by the plaintiff at
+
+agreed price of Shs. 20/- per share. Full amount Shs. 100,000/-. Shs. 40,000/- paid. Balance Shs. 60,000/-.
+
+Agreed bundle of correspondence. Exhibit one. Pray for judgment as prayed. Defendant has not appeared.
+
+This last statement was not correct, unless counsel meant, as I think he must
+
+Page 69 of [1974] 1 EA 68 (CAN)
+
+have done, that the defendant had not attended the hearing (within the meaning of O. 9B, r. 3) either in
+
+person or through an advocate. The judge accepted the invitation to give judgment, and did so in the
+
+following terms:
+
+This being a claim for a liquidated sum representing the balance of agreed purchase price of shares
+
+transferred by the plaintiff to the defendant, I enter judgment as prayed for the plaintiff.
+
+I agree with Mr. Khanna for the appellant, and with his first four grounds of appeal, that the judge had no
+
+power to proceed as he did, and to dispense with proof of the claim before entering judgment. He appears
+
+to have done so purely because the claim was for a liquidated sum, but the suit was not brought under the
+
+summary procedure laid down by O. 35. Even then there must be affidavit evidence verifying the cause
+
+of action and any amount claimed. When, as in this case, the ordinary procedure applies and the
+
+defendant has entered an appearance but failed to attend at the hearing, I would respectfully adopt what
+
+was said by Windham, J. in Eksteen v. Kutosi (1951), 24 (2) K.L.R. 90, as to the correct procedure to be
+
+followed:
+
+Now if an appearance had been entered and a defence filed, and if the only failure on defendants part had
+
+been a failure to appear, either personally or through his advocate, on the day when the suit was called on for
+
+hearing, then I think the plaintiff ought properly to have been called upon formally to prove his claim, that is
+
+to say, to prove everything the burden of proof of which, on the pleadings, lay on him in order to establish his
+
+claim.
+
+Mr. Couldrey for the respondent company, who did not represent it in the High Court proceedings the
+
+subject of this appeal, supported the judgment on the ground that the agreed bundle of correspondence
+
+was before the judge, and that the contract relied on by the respondent company was to be found from
+
+perusal of that correspondence. I cannot accept that proposition. So far as I am aware, the agreeing of a
+
+bundle of correspondence amounts to no more than an admission by the parties that the letters and
+
+documents therein contained were written or received by them, or on their behalf, respectively. It does
+
+not amount to an admission as to the truth or evidential value of the contents of those letters and
+
+documents.
+
+There was thus in my considered opinion no evidence before the judge to justify the judgment
+
+delivered by him. I would allow this appeal, with costs; I would set aside the judgment and decree
+
+appealed from, and direct that the suit be remitted to the High Court to be set down for hearing and
+
+determination before another judge. I would order that the costs of the suit, including costs already
+
+incurred, be in the discretion of the judge who hears and determines it.
+
+Sir William Duffus P: I have had the advantage of reading the judgment of the Acting Vice-President.
+
+In this case the appellant had entered an appearance and filed his defence but then failed to appear on the
+
+day fixed for hearing.
+
+The judge should have proceeded under O. 9, r. 3 of the Civil Procedure (Revised) Rules 1948 and
+
+proceeded to hear the case ex parte. Mr. Couldrey for the respondent concedes this but submits that, in
+
+fact, this is what the trial judge did. The record is not clear but on the face of it does appear that the trial
+
+judge dealt with the matter as a claim for liquidated damages in which no appearance had been entered or
+
+defence filed. I agree, though, that it must be presumed that the judge properly dealt with the matter as an
+
+ex parte trial, and that he relied on the correspondence admitted as exhibit 1 to establish the plaintiffs
+
+case, but it does appear that this correspondence was wrongly admitted.
+
+Page 70 of [1974] 1 EA 68 (CAN)
+
+Letters can be put in by consent of the advocates for the parties, but in this case it was an ex parte trial
+
+and the advocate for the appellant was not present and unable therefore to agree that the letters went in
+
+by consent. It is not sufficient for the advocate who appears for the plaintiff to state from the bar that this
+
+was the agreed correspondence. The danger of this is illustrated here where the advocate for the
+
+appellant, Mr. Khanna also states from the bar that the correspondence was only agreed subject to formal
+
+proof at the hearing.
+
+No evidence was called to prove the plaintiffs case and the trial judge should have called for such
+
+evidence and not proceeded to judgment as he did.
+
+I agree with the Acting Vice-President that this appeal must be allowed and new trial ordered. I fully
+
+agree with the order set out in his judgment and as Musoke, J.A. also agrees, it is so ordered.
+
+Musoke J: I agree.
+
+Appeal allowed.
+
+For the appellant:
+
+DN Khanna (instructed by Khanna & Co, Nairobi)
+
+For the respondent:
+
+JA Couldrey (instructed by Kaplan & Stratton, Nairobi)

@@ -1,0 +1,99 @@
+Yusuf v Republic
+
+Division: Court of Appeal at Nairobi
+
+Date of judgment: 26 November 1974
+
+Case Number: 84/1974 (8/75)
+
+Case Number: 84/1974 (8/75)
+
+Before: Spry Ag P, Law Ag V-P and Musoke JA
+
+Sourced by: LawAfrica
+
+Appeal from: High Court of Kenya  Simpson and Kneller, J.J
+
+[1] Criminal Law  Jurisdiction  Act in Kenya  Whether act must be related to offence by showing
+
+preparation or intent  Penal Code, s. 6 (K.).
+
+Judgment
+
+The considered majority judgment of the court was read by Spry Ag P: The appellant was convicted in the court of the resident magistrate at Nairobi of stealing by a servant contrary to s. 281 of the Penal
+
+Code. We would remark in passing that the charge should have referred to ss. 268 and 281.
+
+The charge alleged that the appellant, being a servant of East African Airways Corporation, stole a sum of Shs. 36,430/-, the property of the Corporation, on 31 January 1973, at Nairobi Airport.
+
+The facts found by the trial magistrate were that on 31 January 1973, the appellant was handed the money, in Tanzania currency, by a Mr. Okech to take to Dar es Salaam, where he was to hand it to the station accountant of the Corporation there. Okech prepared a receipt in duplicate, which was signed by him and by the appellant. (This receipt was sometimes referred to as an agreement.) The appellant was then supposed to have the money and the receipt checked by another officer and then return one copy of the receipt to Okech. This he failed to do. The appellant went to Dar es Salaam on the following day and returned a few days later. He then submitted two claims in respect of his travelling expenses, one of which expressly referred to the purpose of the journey being the repatriation of Tanzanian currency. The Dar es Salaam station accountant testified that he had received no money from the appellant during the relevant period and that the sum of Shs. 36,430/- had not been credited to the Corporations bank account. There was evidence, which the magistrate accepted, that when asked for the duplicate of the receipt prepared by Okech and for a receipt from the Dar es Salaam station accountant, the appellant said he had mislaid them at his house. At the trial, the appellant denied having received the money from Okech and asserted that the claim for expenses related to another, earlier, journey. The magistrate accepted the prosecutions evidence and rejected that of the appellant and found the appellant guilty of stealing.
+
+The main issue at the trial was whether the appellant had or had not been given the money by Okech, and the conviction was based on findings that he had received the money and had failed to deliver it to the station accountant in Dar es Salaam.
+
+The appellant appealed to the High Court and submitted that if any offence had been committed, it had been committed in Tanzania and that the courts of Kenya had no jurisdiction. This raised an entirely new issue.
+
+The judges considered a decision of this Court, Morjaria v Republic, [1972] E.A. 10, in which a bailee was held to have been guilty of fraudulent conversion of goods in his possession when he made an offer to sell them for his own benefit contrary to the terms of the bailment. It was immaterial whether or not a sale resulted, as the offer was a sufficient overt act to establish that the bailee had determined to treat the goods as his own and had therefore by that act stolen them. They then considered whether there had been an overt act in the present case.
+
+In this connection, they considered the failure of the appellant to return one copy of the receipt to
+
+Okech at the time when the money was handed over. They said:
+
+Any significance which might have been attached to this omission is however weakened if not destroyed by the further evidence of Mr. Okech that there were previous occasions on which the appellant had likewise failed to return the copy of the agreement but he had duly delivered the money in Dar es Salaam.
+
+We can find evidence of no other overt act in Kenya showing a departure by the appellant from his instructions with regard to the money until after his return.
+
+With respect, there is a serious misdirection here as to the evidence. Okech said that he could only remember one previous occasion when the appellant had failed to return a copy of the receipt. We shall return to this matter later.
+
+The judges went on to say that they thought the mere fact that the appellant lied on his return to
+
+Kenya with regard to the delivery of the money in Tanzania could not found jurisdiction in Kenya. We shall return to this also.
+
+The judges then remarked that if the English view of terminatory jurisdiction were adopted, they would have to conclude that the magistrates court had lacked jurisdiction. They held, however, that the position was different in Kenya, because of s. 6 of the Penal Code, which reads as follows:
+
+6. When an act which, if wholly done within the jurisdiction of the court, would be an offence against this
+
+Code, is done partly within and partly beyond the jurisdiction, every person who within the jurisdiction does or makes any part of such act may be tried and punished under this Code in the same manner as if such act had been done wholly within the jurisdiction. They also referred to the definition of act in the Interpretation Act as including a series of acts. They went on
+
+One must, we think, look at the elements of the offence. An offence may consist of a series of acts punishable only when the series is complete. One or more of these individual acts in the series may be innocent and if done within the jurisdiction would clearly not be triable and punishable under the Penal Code. 
+
+This section however makes the offence constituted by the series of acts triable in Kenya if one of the acts in the series albeit innocent is done here. The offence in this case consisted of receiving cash the property of East African Airways Corporation and fraudulently converting the property to the appellants own use. The first of the series of acts was the receipt or taking of the money in Kenya.
+
+Before us, Mr. A. R. Kapila, for the appellant, based his case entirely on a submission that the judges had been wrong in saying that an entirely innocent act could found jurisdiction if it could be regarded as one of a series of acts which ultimately constitute an offence. He submitted that if he was right in this, the appeal ought to be allowed, because the judges had indicated that they would have allowed the appeal but for their interpretation of s. 6.
+
+With respect, we think the judges put their proposition in much too general terms. We think Mr.
+
+Kapila was right when he said that to found jurisdiction, an act or omission must be tainted; in other words, it must be directly related to the offence, in the sense of indicating preparation or at least a guilty intent. We do not think a wholly innocent act can found jurisdiction to try an offence committed in another country. For example, the purchase in Nairobi of an air ticket to Dar es Salaam would not give the Kenya courts jurisdiction to try an offence later committed in Dar es Salaam if the purpose of the journey was innocent, although it would be otherwise if the purpose of the journey could be shown to have been to commit the offence. Of course, the act may be, and often will be, innocent in the sense that it does not itself constitute an offence.
+
+We do not, however, accept the second part of Mr. Kapilas submission. In the first place, we think, with respect, that the judges were wrong in attaching little or no significance to the failure of the appellant to return the receipt to Okech. It is likely that they were influenced by their impression that this had occurred on a number of previous occasions. As the evidence only shows one previous occasion, we do not think that this prevents an inference being drawn. There are all manner of possibilities. The previous occasion may have been of the nature of a rehearsal, to see if the method were a practicable one. It may be that the accidental failure to return the receipt on the previous occasion suggested the method subsequently adopted. The fact is that the failure to return the receipt, seen in the light of the disappearance of the money and the subsequent denial that it had been received, raises an inference, which we think irresistible, that when the appellant took away both copies of the receipt, he did so by way of preparation for the theft or at least to create the opportunity for theft. It is perhaps not without significance that the appellant, giving evidence, said that when questioned by Okech about the money:
+
+I asked him whether there was a document to show that I had received that amount from him.
+
+We think that carrying away both copies of the receipt was a sufficient overt act to give the Kenya courts jurisdiction.
+
+Moreover, we think, with respect, that the judges were wrong when they said that the appellants lies regarding his failure to deliver the money in Dar es Salaam could not found jurisdiction in Kenya. Failure to account is most commonly the essence of the offence of stealing by a servant. It would seem that the judges thought the failure to account in this case occurred in Dar es Salaam. It is, however, clear from the evidence, including that of the appellant himself that his duty was to deliver the money to the station accountant, obtain a receipt from him and take that receipt back to the appropriate officer in Nairobi. In other words, the duty to account was to account in Nairobi, not in Dar es Salaam. This also, in our view, gave the magistrate in Nairobi jurisdiction.
+
+Mr. Kapila suggested that it was not open to us on a second appeal to go into these matters, but since the matter of jurisdiction was raised for the first time in the High Court, we think we must consider them in order to decide that issue. We think, though for different reasons, that the judges were right in holding that the magistrate had jurisdiction and in dismissing the appeal.
+
+We have not found it necessary to consider all the matters raised by Mr. Rebelo, who appeared for the
+
+Republic. We have also not dealt with the case of R. v. Hobson (1803), 168 E.R. 681, on which he sought to rely. That was a case decided over one hundred and seventy years ago and concerned the local jurisdiction of English courts at a time when jurisdiction was limited by county boundaries. As such, it is obsolete and we do not think the reasoning in it should be applied to matters of inter-state jurisdiction, where wider issues are concerned.
+
+The appeal is dismissed.
+
+Law Ag V-P: I am, with respect, unable to agree with my brethren that the judges of the High Court erred in their construction of s. 6 of the Penal Code and its applicability to the case the subject of this appeal. I am of the opinion that they were right, and I would have dismissed this appeal on that basis.
+
+When they said:
+
+This section makes the offence constituted by the series of acts triable in Kenya if one of the acts albeit innocent is done here they were referring to the offence of stealing by servant. The formation of the specific intention fraudulently to convert the masters property is only one of the constituents or ingredients of that offence, others being that the accused was a servant, that the thing stolen was the property of his employer or came into his possession on account of his employer, to be applied in a certain way, and that he failed so to apply it or to account for it. Once it is shown that the relationship of master and servant existed in Kenya, and that the servant had done, in Kenya, or omitted to do, one of the acts in the series of acts constituting the offence, then I consider that a Kenya court has jurisdiction to try the case. The fact that the guilty intention may not be proved to have been formed in Kenya does not, in my view, go to jurisdiction.
+
+Coming into possession of the property, in this case by receiving the money from the employer, was one of the acts which had to be done for this particular offence to be capable of commission, and that act was done in Kenya. That was sufficient to make the offence triable in Kenya. It was an event which was necessary to the completion of an offence constituted by a series of acts, and although a guilty intention may not have been formed at the time of receipt of the money, the act of receipt took place in Kenya where the relationship of master and servant existed and in consequence the Kenya court had jurisdiction. I find myself in respectful agreement with the judges of the High Court that the case was properly tried in Kenya, for the reasons given by them.
+
+Appeal dismissed.
+
+For the appellant:
+
+AR Kapila and S Dhamji (instructed by AR, Kapila & Co, Nairobi)
+
+For the respondent:
+
+AR Rebelo (Senior State Counsel)

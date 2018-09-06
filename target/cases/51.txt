@@ -1,0 +1,99 @@
+Barclays Bank International Ltd v Acif Ltd
+
+Division: Court of Appeal at Mombasa
+
+Date of judgment: 29 November 1973
+
+Case Number: 30/1973 (5/74)
+
+Before: Spry V-P, Law and Mustafa JJ
+
+Sourced by: LawAfrica
+
+Appeal from: High Court of Kenya  Sir Dermot Sheridan, J
+
+[1] Bill of exchange  Alteration  Materiality  Meaningless alteration cannot be material  Bills of
+
+Exchange Act (Cap. 27), s. 64 (K.).
+
+[2] Bill of exchange  Alteration  Materiality  Addition of holders name as payee  Cannot be
+
+material  Bills of Exchange Act (Cap. 27), s. 64 (K.).
+
+JUDGMENT
+
+Spry V-P: This appeal involves a single question of a very technical nature but one of considerable importance for the commercial community.
+
+A company known as Acif Ltd. drew a promissory note in favour of another company known as Mohamedali Taibji Ltd. or order. This was endorsed in favour of one Abdultaib Mohamedali Taibji, who in turn endorsed it in favour of Barclays Bank Int. Ltd.
+
+After the note came into the possession of the bank, four rubber stamps were impressed on the face of it. It is not suggested that three of these were of any significance and they can be ignored. The fourth read
+
+BARCLAYS BANK D.C.O. and this was impressed in a blank space after the words or Order and below the name of the payee. The letters D.C.O. were crossed out in ink and Int. Ltd. substituted.
+
+When the note was presented for payment, the drawer refused to honour it. Various reasons were given but ultimately the drawer, the present respondent, relied on a submission that the note, having been materially altered without the assent of the drawer, had become void under the provisions of s. 64 of the
+
+Bills of Exchange Act (Cap. 27), which, so far as it is relevant, reads as follows:
+
+64. (1) Where a bill or acceptance is materially altered without the assent of all parties liable on the bill, the bill is avoided. . . .
+
+In the High Court, in a suit brought by the bank against the drawer, it was submitted that the alteration of the note had one of three effects. It might have altered the place of payment, or it might have altered the description of the payee, or it might have added a new payee. The judge remarked that he did not consider himself entitled to regard the alteration as meaningless. He rejected the first two suggested interpretations but held that a new payee had been added to the note. He then considered whether the alteration was material and held that by adding the rubber stamp on the face of the note  probably inadvertently  the plaintiff has caused it to operate differently as between the drawer and the payee. He accordingly held that the note had been avoided.
+
+Before us, Mr. Mansur Satchu relied on two propositions. First, if the alteration was meaningless, it could not be material. Secondly, if, as the judge held, it had the effect of adding the bank as a payee, then, since the note had already been endorsed over the bank, the alteration made no practical difference, since the endorsee and the additional payee were the same. He submitted that the intention behind the alteration was irrelevant and evidence could not be called on the question of materiality.
+
+Mr. Lakha, for the drawer, abandoned the suggestion that the alteration might have varied the description of the payee. He supported the judges finding that it added a new payee, while maintaining his submission that it might have added a new place of payment. He submitted that once it was established, and it is now admitted, that the alteration was made by the bank, the onus was on the bank, as the party seeking to enforce the note, to give some evidence as to the circumstances in which the alteration was made. He submitted that those circumstances might be relevant to the question of materiality. The alteration was certainly apparent and if it was material, the note was avoided, regardless of any question of prejudice.
+
+I agree with Mr. Satchu that the question of materiality is a matter of law for the court to decide. If the court finds that an alteration is not material, that is the end of the matter. If the court finds that an alteration is material, evidence may, in certain circumstances, be admissible to show how and why it was made. But I do not think evidence is admissible as to materiality, except evidence of commercial custom, and there has been no suggestion in the present case that the alteration was in accordance with any such custom.
+
+I trust that counsel will not think me discourteous if I do not refer to all the authorities they cited. In particular I think that cases decided before the enactment of the English Bills of Exchange Act 1882, (from which our Act was derived) must be used with caution, because the Act relaxed to some extent the rigid rules of the common law.
+
+There is only one East African authority of which I am aware that is of any relevance. That was a decision of the High Court of Tanzania in National Bank of Commerce v. Allidina, [1969] E.A. 89, in which Georges, C.J., held that the addition of a place of payment to a promissory note, as distinct from a bill of exchange, was not a material alteration. In that case, a blank space intended for the place of payment was completed by the addition of the words The National Bank of Commerce, Kilosa; it is not clear from the report whether or not the word at appeared on the form. It was the absence of the word at on the note with which we are concerned that caused the judge to decide that this was not an alteration of the place of payment. He also said that the noting showed that the place of payment remained the drawers business address. With respect, I think this is a slight misdirection, because although the noting shows presentation at that address, it also shows presentation at the Queensway, Nairobi, branch of Barclays Bank International Ltd., described in the noting as where the said Bill was payable. This is difficult to understand, when the alteration to the note does not mention any particular branch in it.
+
+It may be that the blank space on the note was intended for the place of payment but in the absence of the word at or any mention of a specific branch and with no evidence of commercial custom, I am not prepared to say that the judge was wrong when he rejected the submission that the alteration was the addition of a place of payment. I express no opinion whether or not the National Bank case was rightly decided.
+
+The judge decided that the effect of the alteration was to add an additional payee. He said: By its juxtaposition after and below the words or Order its effect was to make the plaintiff an additional payee whether that was the intention or not. With respect, I am not persuaded by that argument. It seems to me that the lack of any conjunction and the insertion of the words after and not before the words or Order makes this interpretation just as unlikely as that which would make the words provide a place of payment.
+
+The judge appears to have arrived at this conclusion largely because he thought he was debarred from finding the words meaningless. He said at p. 480, The plaintiff must have intended to give the alteration some meaning and I must endeavour to do so. With respect, I do not agree. The question is what the words mean, not what the bank intended them to mean.
+
+To me, the words as they stand, without any interpolation, are meaningless. It is possible to give them different meanings by different interpolations and therefore I do not think any interpolation is justified  it might be different if there were only one possible interpolation. If the words are meaningless, the alteration cannot be material. I would accordingly hold that the alteration is not material.
+
+I do not think it necessary to deal with the alternative submission and I will merely say that as the bank was the endorsee of the note, I do not see how the alteration can cause the note to operate differently.
+
+I would allow the appeal, set aside the judgment and decree of the High Court and substitute an order giving judgment in favour of the bank for Shs. 67,080/75, with interest at 9 per cent up to 10 April 1973, and interest thereafter at 6 per cent until payment.
+
+I think the bank must clearly have the costs of the appeal. I have considered whether it should to some extent be penalized in costs in the High Court, since the only issue contested in the suit was the direct result of an improper or, on the most favourable view, a highly negligent act by one of the banks officers. Conduct by a defendant which leads to an action being brought and but for which it would probably never have been brought has been held a reason for depriving a successful defendant of costs (per Vaughan Williams, L.J. in Bostock v. Ramsey Urban Council, [1900] 2 Q.B. 616 at p. 625) and the courts are more reluctant to deprive a defendant of costs than a plaintiff. The written statement of defence contained, however, a number of other defences, as did an amended statement, all of which were abandoned. For this reason, I do not think the bank should be penalized in these proceedings.
+
+Accordingly, I would award the bank its costs here and below.
+
+As the other members of the Court agree, it is so ordered.
+
+Law JA: I agree with the judgment prepared by Spry, V.-P. and with the order proposed therein. The promissory note, the subject of this appeal, would only have been void as against the drawer if the alteration was material. As to this, the trial judge held:
+
+It is sufficient to say that by adding the rubber stamp on the face of the note  probably inadvertently  the plaintiff has caused it to operate differently as between the drawer and the payee by adding another payee, whether this is to the drawers prejudice or not.
+
+In other words, the judge held that the addition of a rubber stamp bearing the banks name below that of the original payee was an alteration which was material because it caused the note to operate differently as between the drawer and the payee. With respect, I am unable to agree. The stamp can only have been affixed after the note came into the banks possession, by which time the bank had become the payee by endorsement. The note as drawn was expressed to be payable to the named payee or order. It could therefore be transferred by endorsement, and the drawer would be liable to the last endorse, which in this case was the bank. Even if the alteration had the effect of adding a payee to the face of the note, it correctly stated the position at the date of maturity and did not cause the note to operate differently. I do not see therefore how the alteration can be said to have been material, and I would allow this appeal.
+
+Mustafa JA: The facts giving rise to this appeal have been set out in the judgment of Spry, V.-P.
+
+The appellant bank as endorsee, after the promissory note had come into its possession, had impressed on the face of the note a rubber stamp reading Barclays Bank D.C.O. in a blank space after the words or Order. The letters D.C.O. were altered in ink to read Int. Ltd.. This stamping was made without the consent or knowledge of the drawer.
+
+The respondent submitted that the note had become void because it had been materially altered without the assent of the drawer under the provisions of s. 64 of the Bills of Exchange Act (Cap. 27) which reads:
+
+ 64. (1) where a bill or acceptance is materially altered without the assent of all parties liable on the bill,
+
+The bill is avoided. . . .
+
+At the trial the respondent had submitted that the alteration was material because the effect was either to
+
+(1) Alter the place of payment, (2) alter the payees description, or (3) add a new payee. The trial judge considered and rejected the first two submissions, in my opinion rightly, but found that a new payee had been added and thereby the appellant had caused it to operate differently as between the drawer and the payee. The trial judge however did not say how and in what manner, in this case, the note would operate differently as between the drawer and the payee. Here the drawer would have to pay the endorsee, which was the bank, whose name also appeared after the words or order; both the endorsee and the name impressed by the rubber stamp are the same party. The alteration did not affect, in any way, the business effect of the note, and was not material; it would have been otherwise if the endorsee and the impressed name were different parties.
+
+I agree that the appeal must succeed, and I concur in the order proposed by Spry, V.-P.
+
+Appeal allowed.
+
+For the appellant:
+
+M Satchu (instructed by Atkinson Cleasby & Satchu, Mombasa)
+
+For the respondent:
+
+AA Lakha (instructed by NP Sheth, Nairobi)

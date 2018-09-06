@@ -1,0 +1,71 @@
+Behange v School Outfitters (U) Ltd
+
+Division: Court of Appeal of Uganda at Kampala
+
+Date of judgment: 18 October 2000
+
+Case Number: 53/99
+
+Before: Okello, Berko and Engwau JJA
+
+Sourced by: P Karugaba
+
+Summarised by: M Kibanga
+
+[1] Contract  Privity of contract  Parties agreeing on price  Part payment made  Party rejecting
+
+balance saying goods under valued  Party suing for true value under contract  Whether court has
+
+power to interfere with agreement.
+
+[2] Practice  Costs  Section 21(1) of the Civil Procedure Act (Chapter 65)  Court ordering each party
+
+to bear their o wn costs  No reason given for order  Whether Court of Appeal may interfere with the
+
+order on costs.
+
+Editors Summary
+
+The Respondent Company was engaged in the business of tailoring school uniforms. In July 1997 the managing director of the Respondents entered into a written agreement with the Appellants, of some industrial sewing machines for UShs 6 900 000. The Appellants paid a deposit of UShs 5 300 000, leaving a balance of UShs 1 600 000. The Appellants took possession of the machines and sold them to a third party.
+
+When the Appellants issued a cheque for the balance to the Respondent the Respondent rejected it and filed suit in the High Court against the Appellants for an order that the sale between the Respondent and the Appellants was null and void because the Respondents managing director did not have authority to transact on behalf of the Respondent, an order for the return of the machines to the Respondent or payment of UShs 20 million which was the real value of the machines and costs of the suit.
+
+The High Court decided that the managing director had authority to transact for the Respondent and the agreement was valid. The Judge, however, did not discuss the Respondents suit and went on to consider the value of the machines whereupon she made orders, inter alia, that the registrar of the High Court appoint a valuer to value the machines so that if the true value exceeded the amount paid the Appellants would pay the balance of the true value and each party was to bear their own costs. 
+
+The Appellants appealed against that order.
+
+Held  The courts did not concern themselves with the question whether adequate value had been given or whether the agreement was harsh or one sided. The fact that one person paid too much or too little did not in itself affect the validity of the contract. In the absence of fraud, duress, undue influence, mistake and misrepresentation, the courts would enforce a promise so long as some value had been given;
+
+Campbell Discounts Co Ltd v Bridge [1961] 2 All ER 97 followed.
+
+Having found that the managing director had power to enter into the contract on behalf of the
+
+Respondent, the contract was valid and binding and the High Court had no business in law and equity to inquire into the adequacy of the purchase price agreed upon.
+
+A successful party could only be deprived of his costs when it was shown that his conduct, either prior to or during the course of the suit, led to litigation which might have been avoided, but for his conduct; Devian Manji Duttani v Haridas Kalidas Danda [1949] 16 EACA 36 and Donald Campbell v Pollak [1927] AC 732 followed.
+
+The Court of Appeal would interfere with the discretion of a court in avoiding costs under section 21(1) of the Civil Procedure Act (Chapter 65), where the discretion has been exercised injudiciously or on wrong principles or where the reasons given are not good reasons within the meaning of section 21(1) of the Civil Procedure Act.
+
+There were no good reasons for the High Court to deprive the Appellants of their costs as successful
+
+Defendants.
+
+Cases referred to in judgment
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Devian Manji Duttani v Haridas Kalidas Dauda [1949] 16 EA CA 36  F
+
+United Kingdom
+
+Campbell Discounts Co Ltd v Bridge [1961] 2 All ER 97  F
+
+Donald Campbell v Pollak [1927] 1 AC 732
+
+Maynard v Mosely [1676] 3 Swan

@@ -1,0 +1,49 @@
+Income Tax v Block
+
+Division: High Court of Kenya at Nairobi; Court of Appeal at Nairobi
+
+Date of judgment: 1 October 1973; 31 July 1974
+
+Case Number: 28/1972 (121/73); 11/1974 (81/74)
+
+Before: Simpson J; Sir William Duffus P, Law Ag V-P and Mustafa JA
+
+Sourced by: LawAfrica
+
+[1] Income Tax  Direction by Commissioner  Appeal  Taxpayer can challenge direction on appeal
+
+against assessment based on it  Income Tax Management Act (Cap. 24) s. 101. [2] Income Tax  Direction by Commissioner  Reasonableness  Where assets irrevocably transferred not reasonable to direct income to be that of transferor. [3] Income Tax  Settlement  Deemed settlement  Transfer of shares for no consideration  Whether a settlement is deemed  Income Tax Management Act (Cap. 24) s. 25. [4] Income Tax  Settlement  Settlor  Whether able to have access to trust fund  Whether positive ability to obtain access necessary.
+
+
+
+Editors Summary
+
+The statement of facts is taken from the judgment of Law, Ag. V.-P. in the Court of Appeal. The respondent and his wife have a large number of business interests and control several companies in East Africa. They are life directors and were in 1966 the only shareholders in Dor Trust Ltd., a limited liability company the bulk of whose income was derived from dividends from its holdings in Block Hotels Ltd. and Block Estates Ltd. By a deed of settlement dated 7 November 1966 Mrs. Block as settlor created a discretionary settlement in favour of her children, godchildren, certain close relatives and charity generally. The trustees were a brother of the appellant, an accountant and an advocate. As a trust fund Mrs. Block provided only a sum of Shs. 4,000/- and with this fund the trustees purchased shares in Dor Trust Ltd. worth about Shs. 400,000/-. Dor Trust Ltd. having received considerable sums by way of dividends from Block Hotels Ltd. and Block Estates Ltd. in turn declared substantial dividends on its own shares, with the result that the trustees of the settlement received, in respect of their holdings in Dor Trust Ltd., Shs. 269,500/- in 1966, Shs. 98,000/- in 1967 and Shs. 63,700/- in 1968. The appellant issued a direction that all dividends declared by Dor Trust Ltd. be deemed to be the income of the respondent. The appellant contended that a direction could not be challenged on an appeal against an assessment based on it, that the direction was reasonable as the trust was revocable and the respondent could make use of its funds to pay the tax assessed. For the respondent it was contended that a direction could not be made in view of the powers of deeming income of settlements given by ss. 24 and 25 of the Act. 
+
+
+
+Held 
+
+(i) a direction of the Commissioner-General can be interfered with if he could not reasonably have
+
+formed his opinion on the facts before him or if it is not just and reasonable (T. v. Income Tax (1)
+
+followed);
+
+ ( ii) a direction may be given under s. 23 notwithstanding the specific provisions concerning trusts in
+
+ss. 24 and 25;
+
+(iii) if assets have been irrevocably transferred it is not just and reasonable to make a direction deeming
+
+the income from the assets to be that of the transferor;
+
+(iv) the trust was not irrevocable and the shares would be retransferred to the respondent;
+
+(v) the direction was accordingly just and reasonable.
+
+Appeal allowed.
+
+Case referred to Judgment:
+
+(1) T. v. Income Tax, [1973] E.A. 397.

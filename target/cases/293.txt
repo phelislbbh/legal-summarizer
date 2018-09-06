@@ -1,0 +1,401 @@
+Mpaka Road Development Ltd v Kana
+
+[2004] 1 EA 161 (CCK)
+
+Division: Milimani Commercial Courts of Kenya at Nairobi
+
+Date of ruling: 29 May 2001
+
+Case Number: 318/00
+
+Before: Ringera J
+
+Sourced by: LawAfrica
+
+Summarised by: M Kibanga
+
+[1] Practice  Pleadings  Striking out pleadings as being frivolous, scandalous and vexatious  Order
+
+VI, rule 13(1)(b)  Civil Procedure Rules.
+
+[2] Tenancy  Concurrent tenancies in respect of the same premises  Whether concurrent tenancies
+
+tenable in law.
+
+[3] Tenancy  Whether allegation of concurrent tenancies in respect of the same premises is frivolous
+
+and vexatious  Pleadings  Whether pleadings may be struck out for allegation of concurrent tenancies.
+
+[4] Words and phrases  Frivolous, scandalous and vexatious, meaning of.
+
+Editors Summary
+
+The Applicant who is the Plaintiff in the main suit, filed suit against the Defendant for arrears of rent.
+
+The Defendant filed a defence and counterclaim. In the counterclaim the Defendant was joined by a
+
+limited liability company, of which the Defendant was the director, as a co-Plaintiff. In the
+
+Page 162 of [2004] 1 EA 161 (CCK)
+
+counterclaim, the two Plaintiffs claimed that the Plaintiff in the main suit had sent an auctioneer, who
+
+was also joined in the counterclaim as a co-Defendant, to restrain the premises. The auctioneer had then
+
+locked the doors to the premises, causing the co-Plaintiffs to lose business. The Second Plaintiff in the
+
+counterclaim also pleaded that the distress was illegal and excessive.
+
+The Plaintiff in the main suit filed his defence to counterclaim and applied under Order VI, rule
+
+13(1)(b) and Order XXXV, rule 1 of the Civil Procedure Rules for striking out of the defence and
+
+counterclaim and summary judgment. The Plaintiff averred that both the defence and counterclaim were
+
+scandalous, frivolous and vexatious because they disclosed the existence of two concurrent tenancies
+
+over the same premises.
+
+Held  A matter would only be scandalous, frivolous and vexatious if it would not be admissible in
+
+evidence to show the truth of any allegation in the pleading which is sought be impugned, for example,
+
+imputation of character where character is not in issue. A pleading is frivolous if it lacks seriousness. It
+
+would be vexatious if it annoys or tends to annoy. It would annoy or tend to annoy if it is not serious or
+
+contains scandalous matter, irrelevant to the action or defence. A scandalous and/or frivolous pleading is
+
+ipso facto vexatious.
+
+There was nothing scandalous about the defence and counterclaim. The claim as to tenancy by the
+
+First and Second Plaintiffs in the counterclaim connoted two simultaneous tenancies. There could not
+
+have been concurrent tenancies in respect of the same premises and tenancies could not have existed in
+
+the alternative. The pleading was frivolous and therefore vexatious.
+
+The defence and counterclaim was struck out and judgment awarded to the Plaintiff in the original
+
+suit. It was not necessary to consider the application for summary judgment. The cases cited below were
+
+considered but not applied.
+
+Cases referred to in ruling
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+DT Dobie v Muchina [1978] LLR 9 (CAK)
+
+Shah Panachand and Co v Velji and another [1969] EA 194
+
+United Kingdom
+
+Wenlock v Moloney [1965] 1 WLR 1235
+
+Ruling
+
+Ringera J: By an application in the form of a summons in chambers filed in court on 29 March 2001,
+
+the Plaintiff seeks the striking out of the Defendants statement of defence and counterclaim as well as
+
+the counterclaim by a limited liability company of which the Defendant is a director. Summary judgment
+
+is also sought against the Defendant. The application is expressed to be brought
+
+Page 163 of [2004] 1 EA 161 (CCK)
+
+under Order VI, rule 13(1)(b) and Order XXXV, rule 1 of the Civil Procedure Rules. The former gives
+
+the court discretion at any stage of the proceedings to strike out or amend any pleading on the ground that
+
+it is scandalous, frivolous or vexatious and the latter allows a plaintiff to apply for summary judgment in
+
+suits where the relief claimed is a liquidated demand or recovery of land, with or without a claim for rent
+
+or mesne profits.
+
+The genesis of the application is a plaint filed in court in which the Plaintiff claims from the
+
+Defendant, one Abdul Gafur Kana trading as Anil Kapuri Pan Coffee House the sum of KShs 1 119 349
+
+being arrears of rent due and owing from the Defendant under a lease. The lease between the parties is
+
+pleaded in paragraph 3 of the plaint to have been for five years and six months with effect from 1 January
+
+1994.
+
+The Defendant has filed a defence. He has also pleaded a set off and counterclaim. In the set off and
+
+counterclaim he is joined by Anil Kapoori Pan Limited, of which he is a director. In the defence, the
+
+Defendant admits the existence and particulars of the lease pleaded by the Plaintiff. He also pleads that
+
+the Defendant instructed Eastern Auctioneers to levy distress against the Defendant for the recovery of
+
+amounts due and owing in respect of arrears of rent who in executing those instructions placed padlocks
+
+on the outer doors and changed the locks to the demised premises thereby denying the Defendant access
+
+thereto resulting in the constructive eviction of the Defendant from the premises. The Defendant further
+
+pleads, in the alternative, that by denying him entry and access to the demised premises, the Plaintiff
+
+purported in effect to forfeit the lease illegally. The Defendant further pleaded loss and damage arising
+
+from alleged illegal distress and forfeiture. He also denies that he is indebted to the Plaintiff as claimed in
+
+the plaint or at all. Then in paragraph 13, the Defendant pleads in the alternative and without prejudice to
+
+the above averments which are contained in paragraphs 212, that he is not liable to the Plaintiff as
+
+claimed in the plaint for the reason that subsequent to the execution of the admitted lease the Defendant
+
+incorporated Anil Kapoori Pan as a limited liability company for the express purpose of carrying on the
+
+business of a restaurant and coffee shop previously carried on by him and the said company with the
+
+knowledge and implicit consent of the Plaintiff continued to carry on business in the demised premises
+
+thereby becoming a controlled tenant within the meaning of the Landlord and Tenant Act (Chapter 301)
+
+of the Laws of Kenya. He therefore prays for the dismissal of the suit.
+
+In the counterclaim, the Defendant in the original action sues as the First Plaintiff and his limited
+
+liability company sues as the Second Plaintiff. The Plaintiff in the original action is sued as the First
+
+Defendant and Eastern Auctioneers is sued as the Second Defendant. The Plaintiffs repeat paragraphs 3
+
+to 13 of the defence by way of set off and counterclaim. It is then averred that the distress against the
+
+Second Plaintiff was unlawful and excessive. It is further averred that the Defendants locked the demised
+
+premises and changed locks thereby denying the Plaintiffs access thereto and the Second Plaintiff was
+
+thereafter unable to continue with its business of a restaurant and coffee shop. Constructive eviction of
+
+the Second Plaintiff and unlawful forfeiture against it are also pleaded. In paragraphs 27, 28 and 29, the
+
+Plaintiffs aver that they have been prevented from carrying on their business and have suffered loss and
+
+damage, they have been humiliated and they have suffered mental anguish and stress. They claim
+
+aggravated damages, damages for unlawful distress, damages for unlawful forfeiture and eviction,
+
+general damages and costs of the counterclaim.
+
+Page 164 of [2004] 1 EA 161 (CCK)
+
+To complete the state of pleadings, it should be indicated that the Defendants in the counterclaim have
+
+filed a defence and a reply to the said counterclaim. The said defence and counterclaim were said to be
+
+out of time but in any case, as will presently appear, the determination of this application does not turn
+
+on the contents of the said defence and reply to the counterclaim. Having set out the background of the
+
+application, it is now convenient to consider the application itself.
+
+The application is supported by the affidavits of Dr Fitzval Remedios Santana de Souza, the managing
+
+director of the Applicant company, and Mr Josephat Musila Mutua who carries on business under the
+
+name and style of Eastern Auctioneers, the Second Defendant in the counterclaim. There is a replying
+
+affidavit by Abdul Gaful Kana, the Respondent.
+
+The application was canvassed before me on 2 May 2001 by Mr Oyatsi, counsel for the Applicant,
+
+and Mr Ohaga, counsel for the Respondent. The detailed submissions are on record and there is no need
+
+to reproduce them here. The thrust of Mr Oyatsis submissions was that as the Respondents pleadings
+
+stand, they apparently disclose the concurrent existence of two tenancies over the same premises, that
+
+both tenants were victims of illegal distress and forfeiture by the landlord and its auctioneer, and that
+
+damages for those trespasses are sought by the two tenants. In his submissions, such a state of affairs was
+
+not tenable in law. It was not open to the Defendant to plead the existence of a lease between himself and
+
+the Plaintiff and seek damages on account of alleged illegal distress and unlawful forfeiture of such a
+
+lease and at the same time plead an implied surrender of the same lease to another entity. The pleadings
+
+were self-contradictory. In his view, both the defence and the counterclaim were in the premises
+
+scandalous, frivolous and vexatious and should be struck out. As regards the claim for summary
+
+judgment, he submitted that the contents of paragraphs 120 of Dr de Souzas affidavit in support of the
+
+application, which paragraphs detail how the amount claimed in the plaint is due to the Plaintiff, how it
+
+came to be so, and how the Defendant admitted the same and sought indulgences are not controverted in
+
+the replying affidavit. In his view, there was no triable issue on the quantum of the rent in arrears. He
+
+further submitted that the distress was levied in accordance with the law and the same was regular as
+
+shown in the affidavits in support of the application.
+
+The thrust of Mr Ohagas submissions on the other hand was that there was nothing scandalous,
+
+frivolous and vexatious about the defence and counterclaim. He submitted that a matter would only be
+
+scandalous if it would be inadmissible in evidence to show the truth of any allegation which is material to
+
+the relief sought. He pointed out that there was nothing in the defence and counterclaim which amounted
+
+to an imputation on the Plaintiff. He cited the Supreme Court Practice [1988] Volume I, paragraph
+
+18/19/14 in support of his proposition. He further submitted that a pleading would only be frivolous or
+
+vexatious if the case disclosed therein was obviously or plainly unsustainable. A court does not have to
+
+delve into the merits of each partys case to determine whether a matter is frivolous and vexatious. He
+
+cited the Supreme Court Practice (supra), Wenlock v Moloney [1965] 1 WLR 1235 and DT Dobie v
+
+Muchina [1978] LLR 9 (CAK) to support his contention. In his view, the application herein was
+
+unsustainable under Order VI, rule 13(1)(b).
+
+As regards the claim for summary judgment, Mr Ohaga submitted that there were several triable
+
+issues. He pointed out that at paragraph 4 of the defence there is an allegation that the Plaintiff and the
+
+auctioneer locked up the Defendants
+
+Page 165 of [2004] 1 EA 161 (CCK)
+
+premises. That was an issue of fact from which illegal forfeiture arose as an issue of law. There was also
+
+the issue of whether the distress was excessive. In response to Mr Oyatsis submission that the
+
+Defendants pleadings were inconsistent and contradictory, counsel submitted that the pleas were in the
+
+alternative as permitted by Order VI, rule 6(2) of the Civil Procedure Rules. He further submitted that an
+
+implied surrender of a lease was known in law. He cited Shah Panachand and Co v Velji and another
+
+[1969] EA 194. He submitted that in the circumstances of this case, where a tenant had incorporated a
+
+limited liability company to carry on his business in the demised premises, a surrender of the lease by
+
+operation of law could be inferred and if that was done, it would follow that the company became a
+
+controlled tenant within the meaning of the Landlord and Tenant Act (Chapter 301) of the Laws of
+
+Kenya. That scenario raised issues of both law and fact. As regards the alleged admission of rent due, Mr
+
+Ohaga submitted that the written admission was on a letterhead of a limited liability company and was
+
+thus not an admission by the Defendant. He pointed out that the exhibit containing the admission as well
+
+as the cheques made to the Plaintiff showed that the Plaintiff was aware of the presence of Anil Kapoori
+
+Pan Ltd in the demised premises. Accordingly the issue of whether it was the company or the Defendant
+
+as an individual who was the Plaintiffs tenant was raised. He rounded off by submitting that an attempt
+
+to have the suit determined by affidavits is a usurpation of the function of the trial court.
+
+From those submissions I think two issues arise for determination. First, whether the defence and
+
+counterclaim as drawn are scandalous, frivolous or vexatious, and second, whether the same disclose
+
+bona fide triable issues. As regards the first issue, I accept the exposition of the words scandalous,
+
+frivolous and vexatious contained in the Supreme Court Practice. As the exposition is of an English rule
+
+which is in pari materia with our Order VI, rule 13(1)(b), I would hold that a matter would only be
+
+scandalous if it would not be admissible in evidence to show the truth of any allegation in the pleading
+
+which is sought to be impugned. Such would be the case where an imputation is made on the character of
+
+a party when the character is not in issue. And I would say a pleading is frivolous if it lacks seriousness.
+
+It if is not serious then it would be unsustainable in court. A pleading would be vexatious if it annoys or
+
+tends to annoy. Obviously it would annoy or tend to annoy if it was not serious or it contained scandalous
+
+matter which was irrelevant to the action or defence. In short, it is my discernment that a scandalous
+
+and/or frivolous pleading is ipso facto vexatious.
+
+Now looking at the pleading sought to be struck out herein, namely the defence and counterclaim, I
+
+must say that I detect no paragraph or combination of paragraphs which can be said to be scandalous
+
+within the meaning of the law as expounded above. There is nothing irrelevant to the defence or
+
+counterclaim sought to be advanced. And there is no imputation on the Plaintiff. So the pleading cannot
+
+be struck out as being scandalous. Is it frivolous or vexatious? Mr Oyatsi has in a detailed and lucid
+
+submission sought to show that the Respondent is metaphorically speaking running with the hares and
+
+hunting with the hounds at the same time. He is resisting the Plaintiffs claim by averring that he was not
+
+the tenant as his lease had impliedly been surrendered to a limited liability company of which he is a
+
+director while at the same time he claims the relief of damages arising from an unlawful distress and
+
+forfeiture of the same lease on the basis, of course, that he was the tenant. The limited liability company
+
+is also claiming damages for inter alia illegal distress and forfeiture. Mr Ohaga submits that these claims
+
+are in the alternative and accordingly quite
+
+Page 166 of [2004] 1 EA 161 (CCK)
+
+proper. On a careful consideration of the matter I accept Mr Oyatsis submission that the matters pleaded
+
+in the defence and set off and counterclaim are not in substance alternate pleas. To my mind, two persons
+
+cannot plead in the alternative in respect of the very same cause of action as the Defendant and the
+
+limited liability company of which he is a director seek to do here. In my opinion, the pleas in this matter
+
+are contradictory pleas which are plainly unmaintainable. There cannot be concurrent tenancies in
+
+respect of the same premises and I cannot contemplate the existence of tenants in the alternative. The
+
+proposition is not a serious one, it is pretty much imaginary. As such it is frivolous. And it cannot but vex
+
+any landlord to have a situation where two entities claim relief from him as tenants in his premises and
+
+yet at the same time, a claim to rent arrears is resisted by the one who had executed a lease on the basis
+
+that such lease had been surrendered to another. In the premises, I find the statement of defence and the
+
+set off and counterclaim to be frivolous and vexatious. And although striking out a pleading is a drastic
+
+remedy to be exercised only in plain and obvious cases, I consider this to be such a case and accordingly
+
+order the said defence and the set off and counterclaim to be struck out with costs to the Applicant. I
+
+further order that judgment be entered for the Plaintiff as prayed in the plaint. That being the view I take
+
+of the matter, it would be the vainest pedantry to proceed to consider the summary judgment aspect of the
+
+application. That I refrain from doing.
+
+Those, then, are the orders of this Court.
+
+For the Applicant:
+
+D Oyatsi instructed by Shapley Barret and Co
+
+For the Respondent:
+
+JM Ohaga instructed by Ochieng Onyango Kibet Ohaga

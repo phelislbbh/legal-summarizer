@@ -1,0 +1,57 @@
+Kenya Shell Limited v Kobil Petroleum Limited
+
+Division: Court of Appeal of Kenya at Nairobi
+
+Date of judgment: 10 November 2006
+
+Case Number: 57/06
+
+Before: Omolo, Waki and Onyango Otieno JJA
+
+Sourced by: LawAfrica
+
+Summarised by: R Rogo
+
+[1] Arbitration  Setting aside an award  Whether arbitrators went beyond the scope of their duties 
+
+Consideration of public policy.
+
+[2] Court of Appeal Rules  Factors for court to consider before granting leave to appeal.
+
+Editors Summary
+
+Kenya Shell Limited, the applicant, and Kobil Petroleum Limited, the respondent herein were bound by a commercial agreement under which Shell undertook to blend, supply or deliver blended lubricants to Kobil for resale to Kobils customers. To facilitate this, Kobil would furnish Shell with the necessary formulations and specifications, and also the base oils required for blending. They would also, upon delivery of the product by Shell, pay for it. The termination clause for the agreement was that it would be in force for twelve months from 15 May 1990 and to be automatically renewed for a similar period unless terminated by either party giving the other six months notice in writing without recourse to the clause. Shell wrote to Kobil on 17 November 2000 informing them that they would no longer use the formulations and specifications provided to them by Kobil from Castrol Limited, another oil company. By 23 November 2000 Shell had stopped the blending of the lubricants altogether although they had in stock large quantities of base oils supplied by Kobil for that purpose. Kobil felt aggrieved by the sudden repudiation of the contract and went to court in March 2001 and obtained a court order enjoining Shell to blend the lubricants pending the resolution of their dispute by arbitration. The parties appointed a tribunal which heard them and determined the dispute on all issues submitted to it. The award was filed in court on 6 February 2004. Shell however was not happy with it. They therefore sought setting aside of the award and invoked section 35(2)(a)(iv) of the Arbitration Act 4 of 1995. The Superior Court found that the mandate or jurisdiction of the tribunal was given to it by the parties in express unambiguous terms when the parties, by consent, submitted the issues for determination and the tribunal did not deal with any question outside or beyond the scope of those issues. On the issue of negligence, the Superior Court found that the issue did not arise, firstly, by virtue of the issues referred to the tribunal which said nothing about negligence, and secondly, because all the dispositions on both sided dwelt on breach of contract. The tribunal would have gone beyond the scope of its terms of reference if it had made a decision on negligence without supporting evidence. Finally the Superior Court found that the argument advanced on behalf of Shell that the tribunal misunderstood or misinterpreted the law in their interpretation of clause 18 was not tenable. Questions of law could only be raised on the stringent terms stated under section 39 of the Arbitration Act but the section had not been invoked. The application was dismissed with costs. Shell therefore filed an application and the present application for leave to appeal. 
+
+
+
+Held  Whether or not the court would grant leave to appeal is a matter for the discretion of the court. As in all discretions exercisable by courts, however it has to be judicially considered. The approach will naturally differ depending on the category and subject matter of the decision and the reason for seeking to appeal. (Machira t/a Machira and Company Advocates v Mwangi and another [2002] 2 KLR 391; Mohamed Yakub and another t/a Yasser Butchery v Nasa and others civil application number Nairobi 284 of 1999 (UR) followed). Arbitration is one of several dispute resolution methods that parties may choose to adopt outside the courts in this country. The parties may either opt for it in the course of litigation under Order XLV of the Civil Procedure Rules or provide for it in contractual obligations in which even the Arbitration Act 4 of 1995 would apply and the courts take a back seat. The Act which came into operation on 2 January 1996 and the rules thereunder repealed and replaced Chapter 49 of the laws of Kenya and the rules thereunder which had governed arbitration matters since 1968. A comparison of the two pieces of legislation underscores an important message introduced by the latter Act: the finality of disputes and a severe limitation of access to the courts. Public policy is an indeterminate principle or doctrine which the court must consider in the exercise of discretion. It has reference to ideas which for the time being prevail in a country as to the conditions necessary to ensure its welfare. It is variable and must fluctuate with the circumstance of the time. (Richardson v Mellish (1824) 2 Bing 229; Christ for All Nationals v Apollo Insurance Company Limited [2002] 2 EA 366 applied). Public policy considerations may endure in favour of granting leave to appeal as they would to discourage it. As a matter of public policy, it is in the public interest that there should be an end to litigation and the Arbitration Act under which the proceedings in this matter were conducted underscores that policy. There is neither a realistic prospect of success of the intended appeal nor a ground of appeal that merits serious judicial consideration. The only ground taken up by the applicant to challenge the award was under section 35(2)(a)(iv) of the act. The plain reading of that provision and the issues submitted to the tribunal for adjudication does not reveal that the tribunal went outside its jurisdiction.
+
+Application dismissed.
+
+Cases referred to in ruling
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Christ for All Nationals v Apollo Insurance Company Limited [2002] 2 EA 366  AP
+
+Kihuni v Gakunga and another [1986] KLR 572
+
+Machira t/a Machira and Company Advocates v Mwangi and another [2002] 2 KLR 391
+
+Mohamed Yakub and another t/a Yasser Butchery v Nasa and others civil application number Nairobi
+
+284 of 1999 (UR)  F
+
+United Kingdom
+
+Photo Productions Limited v Securicor [1980] 1 All ER 557
+
+Others
+
+Richardson v Mellish [1824] 2 Bing 229

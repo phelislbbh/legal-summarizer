@@ -1,0 +1,159 @@
+
+REPUBLIC OF UGANDA
+
+IN THE HIGH COURT OF UGANDA HOLDEN AT KAMPALA
+
+(COMMERCIAL COURT DIVISION)
+
+HCT-CC-00-MA-0579 OF 2005
+(Arising from HCT-CC-00-MC-0002-2005)
+
+B.M. STEEL LIMITED APPLICANT
+
+VERSUS
+
+KILEMBE MINES LIMITED RESPONDENT
+
+Civil proceedings-Appeal-Right of appeal-Appeal against an order setting
+aside an arbitral award between the parties-S.68, 77, 66 of the CPA-O.XL
+R.1&2CPRs.
+Brief Facts.
+This was an application for leave of the high court to appeal to the court
+of appeal against an order setting aside an arbitral award between the
+parties.
+Issue: whether the applicant had aright of appeal in respect of the order
+which he wished to appeal against either as of right or with leave of
+court.
+Held: S.68 of the CPA allows appeals from orders and decrees from the high
+court to the court of appeal other than those barred by the law. S.77 of
+the CPA expressly bars appeals from any other orders other than those
+listed in S.68. The provisions thereof do allow appeals from certain orders
+made in arbitration proceedings but do not include an order setting aside
+an award made in arbitral proceedings. Order 40 Rule 1 (1) of the Civil
+Procedure Rules sets out the orders made under the Civil Procedure Rules in
+respect of which an appeal may lie as of right. Obviously an order setting
+aside an arbitral award is not one of the orders mentioned. Setting aside
+arbitral awards is not governed by the Civil Procedure Act and its rules
+but by the Arbitration and Conciliation Act. Therefore no appeal would be
+contemplated under Order 40 Rule 1 of the Civil Procedure Rules. Order 40
+Rule 2 of the Civil Procedure Rules permits with leave of the court appeals
+against orders of the High Court made under those rules. An order setting
+aside an arbitral award is not an order made under the Civil Procedure
+Rules and would not come within the purview of Order 40 Rules 1(2) and 2 of
+the Civil Procedure Rules. The order cannot be appealed as of right or with
+leave of the court.
+
+
+Legislation considered: CPA, CPRs, Arbitration & Conciliation Act,
+
+Cases Cited: B.D. Bilmoria & Another v T. D. Bilmoria [1962] EA 198, Rene
+Dol v The Official Receiver of Uganda (1951) 21 EACA 116,
+
+BEFORE: THE HON. MR. JUSTICE FMS EGONDA-NTENDE
+
+RULING
+1. The applicant, B.M. Steel Ltd, is seeking leave of this court to appeal
+to the Court of Appeal, against an order of this court dated 14th July
+2005, setting aside an arbitral award between the parties hereto. The
+applicant further seeks that costs of this application be provided. The
+respondent, Kilembe Mines Ltd, opposed this application.
+2. At the hearing of the application, I pointed out to the parties that I
+needed to be satisfied that the applicant had a right of appeal in respect
+of the order that he wished to appeal against either as of right or with
+leave of court. Mr. Nangwala, appearing for the respondent blew hot and
+cold. Initially he took the view that the applicant had a right of appeal,
+and therefore this application was misconceived. Subsequently he argued
+that the applicant in fact had no right of appeal, and therefore this
+application was misconceived.
+3. Mr. Kabega appearing for the applicant submitted that the applicant had
+a right of appeal based on Section 68 of the Civil Procedure Act. And that
+this application could therefore be presented under Order XL Rule 1 and 2
+of the Civil Procedure Rules.
+4. I shall first deal with this matter. Section 68 of the Civil Procedure
+Act, provides,
+"Unless otherwise expressly provided in this Act, an appeal shall lie from
+the decrees or any part of decrees and from the orders of the High Court to
+the Supreme Court."
+5. Section 77 deals more specifically with orders of the High Court and
+appeals therefrom. It states,
+"(1) An appeal shall lie from the following orders, and save as otherwise
+expressly provided in this Act or by any law for the time being in force
+from no other orders- (a) an order superseding an arbitration where the
+award has not been completed with the period allowed by the court; (b) an
+order on an award stated in the form of a special case; (c) an order
+modifying or correcting an award; (d) an order staying or refusing to stay
+a suit where there is an agreement to refer to arbitration; (e) an order
+filing or refusing to file an award in an arbitration without the
+intervention of the court; (f)an order under Section 66 of this Act; (g) an
+order under any of the provisions of this Act imposing a fine or directing
+the arrest or detention in prison of any person except where such arrest or
+detention is in execution of a decree; (h) any order made under rules from
+which an appeal is expressly allowed by rules. (2) No appeal shall lie from
+any order passed in appeal under this section. (Emphasis is mine.)
+6. Section 68 of the Civil Procedure Act generally allows appeals from
+orders of the High Court to the Court of Appeal as it does with decrees of
+the High Court unless an appeal is barred by any other law. Section 77 in
+effect bars all appeals against orders save those listed from (a) to (h) in
+respect of which appeals are allowed as of right. The provisions of Section
+77 (1) of the Civil Procedure Act prohibit appeals from any other orders
+made by the High Court. As can be noted the provisions thereof do allow
+appeals from certain orders made in arbitration proceedings but do not
+include an order setting aside an award made in arbitral proceedings.
+7. I am fortified in this view by the decision in B.D. Bilmoria & Another v
+T. D. Bilmoria [1962] EA 198 made by the Court of Appeal for East Africa on
+appeal from Uganda. Gould, J.A., page 202, stated, (and Sir Ronald
+Sinclair, P., and Sir Alastair Forbes, V-P., agreed),
+"On the other hand, orders made in relation to arbitration under the
+Arbitration Ordinance and Rules, unless they fall within the specific
+categories mentioned in s.77 of the Civil Procedure Ordinance, are not
+appealable even with leave of a court."
+8. Section 77 (h) of the Civil Procedure Act permits appeals from any order
+made under rules from which an appeal is expressly allowed by the rules.
+Order 40 Rule 1 (1) of the Civil Procedure Rules sets out the orders made
+under the Civil Procedure Rules in respect of which an appeal may lie as of
+right. Obviously an order setting aside an arbitral award is not one of the
+orders mentioned. Setting aside arbitral awards is not governed by the
+Civil Procedure Act and its rules but by the Arbitration and Conciliation
+Act. Therefore no appeal would be contemplated under Order 40 Rule 1 of the
+Civil Procedure Rules.
+9. Order 40 Rule 2 of the Civil Procedure Rules permits with leave of the
+court appeals against orders of the High Court made under those rules. It
+states,
+"An Appeal under these rules shall not lie from any other order save with
+leave of the court making the order or of the court to which an appeal
+would lie if leave were given."
+10. What "under these rules" means received judicial consideration in Rene
+Dol v The Official Receiver of Uganda (1951) 21 EACA 116, a decision of the
+Court of Appeal for Eastern Africa on appeal from Uganda. Briggs, J.A.
+stated, and the other judges concurred in this view, that,
+"Order XL, rule 1, sub-rule (2), refers only to appeals "appeals under
+these rules", which must, I think, mean either "appeals authorized by these
+rules" or "appeals from orders made under these rules".
+11. This view was cited with approval in B.D. Bilmoria & Another v T. D.
+Bilmoria [1962] EA 198, a decision of the Court of Appeal for East Africa.
+Gould, J.A. stated and Sir Ronald Sinclair, P., and Sir Alastair Forbes, V-
+P., agreed.
+"When this rule is read together with S.77 (1) (h) of the Ordinance it is
+clear (and it was so held in Rene Dol v. The official Receiver of Uganda
+(4)) that O. 40, r.2, cannot operate to confer a right of appeal, even with
+leave, in the case of an order not made under the Civil Procedure Rules."
+12. I am satisfied that an order setting aside an arbitral award is not an
+order made under the Civil Procedure Rules and would not come within the
+purview of Order 40 Rules 1(2) and 2 of the Civil Procedure Rules. Appeals
+contemplated under the said provisions are appeals that arise from orders
+made under the Civil Procedure Rules, which clearly the order sought to be
+appealed from in this case is not.
+13. In the result I find that this application for leave to appeal against
+the order of this court setting aside an arbitral award is misconceived.
+The order cannot be appealed as of right or with leave of the court for the
+reasons set out above. It is dismissed accordingly with costs.
+
+Dated in Kampala this 31st day of August 2005.
+
+
+
+Dismissed with costs.
+
+FMS Egonda-Ntende
+Judge
+

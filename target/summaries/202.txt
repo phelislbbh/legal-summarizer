@@ -1,0 +1,47 @@
+Karmali and another v CFC Bank Limited and another
+
+Division: Milimani Commercial Court of Kenya at Nairobi
+
+Date of judgment: 2 May 2006
+
+Case Number: 3/06
+
+Before: Ochieng J
+
+Sourced by: LawAfrica
+
+Summarised by: E Ongoya
+
+[1] Charges and mortgages  Distinction between charges and mortgages  Variation of interest
+
+clauses  Whether such clauses render a charge void  Undue influence and coercion against surety 
+
+Whether husband and wife relation can raise presumption of undue influence.
+
+Editors Summary
+
+On 10 January 2006, the two plaintiffs filed a suit and simultaneously filed a Chamber Summons application through which they sought interlocutory injunctive reliefs. The grounds for the injunctive orders sought were that the second plaintiff had been coerced to execute the charge document. The second plaintiffs case was that her husband, the first plaintiff, caused her to execute the charge document so as to secure some debt which Hyundai Motors Limited owed to the first defendant. The first plaintiff was a director of Hyundai Motors Limited. In turn, the company was indebted to the first defendant. The first defendant was alleged to have exerted pressure on Hyundai Motors Limited to pay the debt. Being a director in Hyundai Motors Limited, the first plaintiff was personally under pressure from both his fellow directors as well as from the first defendant. The first plaintiff, therefore, alleged that the pressure on her husband was visited upon her to concede to charging the suit property. The plaintiffs also contended that no statutory power of sale could issue on the basis of section 46 of the Registration of Titles Act which makes it mandatory for all charge documents to conform to the requirements of either form J(1) or J(2) in respect of interest rates. The charge was further faulted for not having an armotisation clause as required by statute because it allowed penalties which makes armotisation impossible. The charge was even further faulted for violating section 39(1) of the Central Bank of Kenya Act 4 of 2001, which pegged interest chargeable by mortgagees to the 91-day Treasury Bill rates.
+
+
+
+Held  Under the Registration of Titles Act, the only form of security is a charge. It is, therefore, not possible to create a mortgage under the Registration of Titles Act. Making reference to a mortgagor instead of charger by itself does not invalidate a charge instrument. A charge instrument which provided for variable interest would not be void or voidable simply because it did not specify one rate of interest or a specified instalment amount. When parties to a charge instrument agree that the chargee may vary the rate of interest, and the said agreement is incorporated into the instrument that does not amount to a deviation from the forms provided in the schedule to the Registration of Titles Act. A chargee is not compelled by statute to charge a fixed interest on the facility it may accord to the charger. If a creditor should issue a lawful demand, which is intended to lead to the recovery of a debt through a recognised court process, the creditor cannot be accused of duress or coercion. Where the creditor is aware that the debtor and surety are husband and wife, and the transaction is on its face not to the financial advantage of the surety as well as the debtor, the creditor will be fixed with constructive notice of undue influence, misrepresentation or other legal wrong by the debtor unless it has taken reasonable steps to satisfy itself that the surety has entered into the obligation freely and with knowledge of true facts. Injunction issued.
+
+Cases referred to in ruling
+
+(A means adopted; AL means allowed; AP means applied; APP means approved; C means
+
+considered; D means distinguished; DA means disapproved; DT means doubted; E means
+
+explained; F means followed; O means overruled)
+
+East Africa
+
+Fina Bank Limited v Ronak Limited [2001] EA 54
+
+Giella v Cassman Brown and Company Limited [1973] EA 358
+
+Kenya Commercial Finance Company Limited v Ngeny and another [2002] 1 KLR 106
+
+Ottoman Bank v KS Mawani and others [1965] EA 464
+
+Simiyu v Housing Finance Company of Kenya Limited [2001] 2 EA 540

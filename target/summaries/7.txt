@@ -1,0 +1,19 @@
+THE REPUBLIC OF UGANDA
+?IN THE HIGH COURT OF UGANDA AT KAMPALA (COMMERCIAL COURT DIVISION)
+IN THE MATTER OF THE VOLUNTARY WINDING UP AND LIQUIDATION OF AFRICAN TEXTILE MILL LIMITED??HCT-00-CC-CI- 20 OF 2005?
+AFRICAN TEXTILE MILL LIMITED (IN LIQUIDATION):::::::::::: APPLICANT
+VERSUS
+?CO-OPERATIVE BANK LIMITED (IN LIQUIDATION):::::::::::::::: RESPONDENT
+Companies Act-s.229, 301 (1), 305 and 308-Winding up-
+Mortgages-whether company can enforce mortgage during the winding up of the mortgagor-
+Procedure-whether the applicant was the right party to institute the proceedings.
+Brief Facts.
+The applicant sought determination of some questions arising from the winding up. The suit property was mortgaged to the respondent, the applicant defaulted in payment, the respondent took steps to realise the security and took possession. The person who sought guidance was the liquidator, one Clive mutiso, yet the applicant is ATML, which is in liquidation.
+Issue: Whether it is lawful and justifiable for the respondent to enforce its mortgage during the liquidation of the Applicant Company. 
+Held:   
+1.      
+S.305 of the companies Act refers to any liquidator or contributory or creditor and the applicant is none of the above, so the suit was wrongly instituted in the name of the company in liquidation.
+2.      
+The Respondent being a secured creditor is entitled to stand outside the winding up process and enforce its mortgage rights.Legislation referred to: Companies Act Cap.110 
+Textbooks referred to: William James Gouch, Company Charges, 2nd Edn at P. 949 on Security Proprietory Interest. COMPANY LAW IN UGANDA by D.J. Bakibinga
+Cases cited: Food Controller Vs- Cork [1923] AC 647, Cuckmere Brick Co. Ltd Vs- Mutual Finance Ltd [1971] 2 All ER 63, Mubiru Vs- Uganda Credit & Savings Bank [1978] HCB 109
